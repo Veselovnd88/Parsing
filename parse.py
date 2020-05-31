@@ -3,7 +3,22 @@ import requests
 import json
 import csv
 import openpyxl
+import datetime
 import time
+import os
+
+
+def create_path():
+    """Создает папку, потом забирает адрес и сохраняет туда файлы"""
+    creation_time = str(datetime.datetime.now())[:10]
+    basic_path = 'C:\ParseProject'
+    filepath = os.path.join(basic_path,creation_time)
+    if not os.path.exists(filepath):
+        os.makedirs(filepath)
+    return filepath
+
+
+
 
 class Excel_file:
     """
@@ -46,7 +61,7 @@ class Excel_file:
         else:
             for i in range(len(lst)):
 
-                self.parsed.get_content(web,{'gid=':lst[i]})  # метод открывает страницу
+                self.parsed.get_content(web,{'pid':lst[i]})  # метод открывает страницу
                 newdict = self.parsed.parse_card()  # метод парсит файл
                 pagename = list(newdict.keys())[0]  # имя модели - ключ главного словаря
                 dictkeys = list(newdict[pagename].keys())  # характеристики - ключи словаря
@@ -60,8 +75,8 @@ class Excel_file:
                         sheetsource.cell(row=1, column=k + 2).value = head[k]
                     sheetsource.cell(row=num + i, column=1).value = pagename
                     sheetsource.cell(row=num + i, column=k + 2).value = fill[k]
-
-        file.save(groupname + '.xlsx')
+        # TODO сделать одну функцию на этот блок чтобы не дублировать
+        file.save(os.path.join(create_path(),groupname + '.xlsx'))
         print('Creating .xlsx is finished, filename ' + groupname)
 
     def table_making(self, keys: list, dictionary: dict, pagename: str, option=1):

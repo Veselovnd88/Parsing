@@ -27,4 +27,4 @@ new = Html(web)
 gidnumber = [180, 191]
 
 # TODO Проходка по всему сайту с выгрузкой с созданием разных файлов с заданными именами
-
+create_parse(gidnumber,'Process',new,0,URL)
