@@ -26,4 +26,5 @@ HEADERS = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0)'
 new = Html(web)
 gidnumber = [180, 191]
 
+# TODO Проходка по всему сайту с выгрузкой с созданием разных файлов с заданными именами
 
