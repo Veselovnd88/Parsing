@@ -1,4 +1,4 @@
-from parse import Html, WrongFile, ExcelFile
+from parse import Html, WrongFile, ExcelFile, AshParse
 import time
 
 
@@ -37,7 +37,7 @@ sealpages = [53, 64, 54, 61, 67, 68, 55]
 wellspage = [7]
 accespage = [71, 58, 59, 60, 56]
 
-new = Html(web)
+new = AshParse(web)
 thermowells_numbers = [321, 322, 323, 324, 325, 326]
 
 
@@ -60,4 +60,4 @@ def parse_fullpage(numbers, url, obj):
 
 # create_parse(gidnumber,'Process',new,0,URL)
 # create_parse(gidnumber, 'Thermowells', new,0, URL)
-parse_fullpage(wellspage, URL, new)
+parse_fullpage(switchespages, URL, new)

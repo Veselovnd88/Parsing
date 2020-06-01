@@ -110,8 +110,6 @@ class Html:
         self.url = None
         self.params = None
         self.content = None
-        self.newdict = None
-        self.pagename = None
 
     def get_content(self, url, params=None):
         headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0)'
@@ -124,6 +122,22 @@ class Html:
             time.sleep(3)
         else:
             print('Error')
+
+    def get_from_file(self, filename):
+        try:
+            with open(filename, 'r') as file:
+                self.content = file.read()
+        except FileNotFoundError as err:
+            print('Неправильное имя файла ', err)
+            raise WrongFile
+
+
+class AshParse(Html):
+    def __init__(self, prefix=None):
+        super().__init__(self)
+        self.newdict = None
+        self.pagename = None
+        self.prefix = prefix
 
     def get_numbers(self):
         """ Собирает номера продуктов со страницы со списком
@@ -145,14 +159,6 @@ class Html:
         soup = BeautifulSoup(self.content, 'html.parser')
         pagename = soup.find('h1', class_='product-title').get_text().replace('/', '')
         return pagename
-
-    def get_from_file(self, filename):
-        try:
-            with open(filename, 'r') as file:
-                self.content = file.read()
-        except FileNotFoundError as err:
-            print('Неправильное имя файла ', err)
-            raise WrongFile
 
     def parse(self):
         """Start to parse html file, returning dictionary with elements"""
