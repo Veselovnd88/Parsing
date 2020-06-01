@@ -121,6 +121,25 @@ class Html:
         else:
             print('Error')
 
+
+    def get_numbers(self):
+        """ Собирает номера продуктов со страницы со списком
+        """
+        print('Start parsing ')
+        soup = BeautifulSoup(self.content, 'html.parser')
+        data = soup.find_all('div', class_="omega thirteen columns")
+        numberlist = []
+
+        for item in data:
+            url = item.find('a').get('href')
+            num = url[-3:]
+            numberlist.append(int(num))
+        return numberlist
+
+
+
+
+
     def get_from_file(self, filename):
         try:
             with open(filename, 'r') as file:
