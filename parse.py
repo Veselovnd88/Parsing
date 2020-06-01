@@ -11,16 +11,14 @@ import os
 def create_path():
     """Создает папку, потом забирает адрес и сохраняет туда файлы"""
     creation_time = str(datetime.datetime.now())[:10]
-    basic_path = 'C:\ParseProject'
-    filepath = os.path.join(basic_path,creation_time)
+    basic_path = 'C:\\ParseProject'
+    filepath = os.path.join(basic_path, creation_time)
     if not os.path.exists(filepath):
         os.makedirs(filepath)
     return filepath
 
 
-
-
-class Excel_file:
+class ExcelFile:
     """
     Преобразование результатов парсинга страниц в таблицу эксель;
     На вход принимаются лист - имена файлов(без расширения)
@@ -29,7 +27,7 @@ class Excel_file:
     Код запускается сразу при создании экземпляра
     """
 
-    def __init__(self, lst, groupname, parsed,file_or_web=1, web=None):
+    def __init__(self, lst, groupname, parsed, file_or_web=1, web=None):
         self.parsed = parsed
         self.lst = lst
         self.groupname = groupname
@@ -61,7 +59,7 @@ class Excel_file:
         else:
             for i in range(len(lst)):
 
-                self.parsed.get_content(web,{'pid':lst[i]})  # метод открывает страницу
+                self.parsed.get_content(web, {'pid': lst[i]})  # метод открывает страницу
                 newdict = self.parsed.parse_card()  # метод парсит файл
                 pagename = list(newdict.keys())[0]  # имя модели - ключ главного словаря
                 dictkeys = list(newdict[pagename].keys())  # характеристики - ключи словаря
@@ -76,10 +74,11 @@ class Excel_file:
                     sheetsource.cell(row=num + i, column=1).value = pagename
                     sheetsource.cell(row=num + i, column=k + 2).value = fill[k]
         # TODO сделать одну функцию на этот блок чтобы не дублировать
-        file.save(os.path.join(create_path(),groupname + '.xlsx'))
+        file.save(os.path.join(create_path(), groupname + '.xlsx'))
         print('Creating .xlsx is finished, filename ' + groupname)
 
-    def table_making(self, keys: list, dictionary: dict, pagename: str, option=1):
+    @staticmethod
+    def table_making(keys: list, dictionary: dict, pagename: str, option=1):
         """
         Функция возвращает список - шапку - ключи, и список - значения ключей;
         Принимает ключи - список из ключей
@@ -108,19 +107,23 @@ class Html:
 
     def __init__(self, prefix=None):
         self.prefix = prefix
+        self.url = None
+        self.params = None
+        self.content = None
+        self.newdict = None
+        self.pagename = None
 
     def get_content(self, url, params=None):
-        HEADERS = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0)'
+        headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0)'
                                  ' Gecko/20100101 Firefox/71.0', 'accept': '*/*'}
         self.url = url
         self.params = params
-        response = requests.get(self.url, headers=HEADERS, params=self.params, timeout=5)
+        response = requests.get(self.url, headers=headers, params=self.params, timeout=5)
         if response.status_code == 200:
             self.content = response.text
             time.sleep(3)
         else:
             print('Error')
-
 
     def get_numbers(self):
         """ Собирает номера продуктов со страницы со списком
@@ -136,9 +139,12 @@ class Html:
             numberlist.append(int(num))
         return numberlist
 
-
-
-
+    def title_page(self):
+        """Собирает названия страницы"""
+        print('Get page title for filename')
+        soup = BeautifulSoup(self.content, 'html.parser')
+        pagename = soup.find('h1', class_='product-title').get_text().replace('/', '')
+        return pagename
 
     def get_from_file(self, filename):
         try:
