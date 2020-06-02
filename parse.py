@@ -120,6 +120,7 @@ class Html:
         if response.status_code == 200:
             self.content = response.text
             time.sleep(3)
+            print('Status OK')
         else:
             print('Error')
 
@@ -371,3 +372,15 @@ class AshParse(Html):
             k += 1
         file.save(self.pagename + '.xlsx')
         print('Creating .xlsx is finished, filename ' + self.pagename)
+
+class NksParse(Html):
+    def __init__(self):
+        super().__init__(self)
+        pass
+
+    def get_pages(self):
+        """Собирает страницы с линейкой продуктов, возвращает список номеров"""
+        soup = BeautifulSoup(self.content, 'html.parser')
+        data = soup.find('div', class_="proSearchByPurpose")
+
+
