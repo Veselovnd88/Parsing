@@ -119,7 +119,7 @@ class Html:
         response = requests.get(self.url, headers=headers, params=self.params, timeout=5)
         if response.status_code == 200:
             self.content = response.text
-            time.sleep(3)
+            time.sleep(1)
             print('Status OK')
         else:
             print('Error')
@@ -379,8 +379,16 @@ class NksParse(Html):
         pass
 
     def get_pages(self):
-        """Собирает страницы с линейкой продуктов, возвращает список номеров"""
+        """Собирает страницы с линейкой продуктов, возвращает список номеров
+        :return list
+        """
         soup = BeautifulSoup(self.content, 'html.parser')
         data = soup.find('div', class_="proSearchByPurpose")
+        pages = []
 
+        page = data.find_all('a')
+        for i in page:
+            result = i.get('href')
+            pages.append(result[-16:])
+        return pages
 
