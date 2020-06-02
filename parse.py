@@ -378,17 +378,25 @@ class NksParse(Html):
         super().__init__(self)
         pass
 
-    def get_pages(self):
-        """Собирает страницы с линейкой продуктов, возвращает список номеров
-        :return list
+    def get_pages(self): #  TODO потом сделать приватным, или защищенным
+        """Собирает страницы с линейкой продуктов, возвращает словарь
+        :return dict
         """
         soup = BeautifulSoup(self.content, 'html.parser')
         data = soup.find('div', class_="proSearchByPurpose")
-        pages = []
+        pages = {}
 
         page = data.find_all('a')
         for i in page:
+            title_page = (i.find('span').text)
             result = i.get('href')
-            pages.append(result[-16:])
+            pages[title_page]=result[-16:]
         return pages
+
+    def get_cards(self):
+        """парсит каждую страничку, собирает номера карточек, возвращает список этих карточек
+    и название категории
+        """
+        pages = self.get_pages()
+        pass
 
