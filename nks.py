@@ -6,4 +6,4 @@ new = NksParse(web)
 new.get_content(url)
 
 
-print(new.get_cards())
+new.to_json('NKS cards',new.get_cards())

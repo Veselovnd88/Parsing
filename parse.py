@@ -379,18 +379,18 @@ class NksParse(Html):
     def __init__(self, prefix):
         super().__init__(prefix)
 
-
     def get_pages(self):  # TODO потом сделать приватным, или защищенным
         """Собирает страницы с линейкой продуктов, возвращает словарь
         :return dict
         """
+        print('Собираем категории продуктов')
         soup = BeautifulSoup(self.content, 'html.parser')
         data = soup.find('div', class_="proSearchByPurpose")
         pages = {}
 
         page = data.find_all('a')
         for i in page:
-            title_page = (i.find('span').text)
+            title_page = i.find('span').text
             result = i.get('href')
 
             pages[title_page] = result
@@ -401,31 +401,47 @@ class NksParse(Html):
         и название категории
         :return dict
         """
+        print('Получаем список карточек ')
         pages = self.get_pages()
         page_dict = {}
 
         for key in pages:
+            print('Читаем страницу ' + key)
             card_url = self.prefix + pages[key]
             cards = []
             content = self.get_content(card_url)
-            # print(card_url)
-            time.sleep(3)
-            for page in self._pages_qnt(content):
-                page_url = self.prefix +page
-                content = self.get_content(page_url)
+            pages_quantity = self._pages_qnt(content)
+            if pages_quantity:
+                print('Несколько вкладок')
+                for page in self._pages_qnt(content):
+                    page_url = self.prefix + page
+                    content = self.get_content(page_url)
 
+                    soup = BeautifulSoup(content, 'html.parser')
+                    data = soup.find_all('a', class_='productItem')
+                    for item in data:
+                        cards.append(item.get('href'))
+            else:
+                print('Одна вкладка')
                 soup = BeautifulSoup(content, 'html.parser')
-                data = soup.find_all('a', class_='productItem') #  TODO реализовать для тех страниц где нет нумерации
+                data = soup.find_all('a', class_='productItem')
                 for item in data:
                     cards.append(item.get('href'))
-                print(cards)
             page_dict[key] = cards
         return page_dict
 
+    @staticmethod
+    def to_json(name, dicti):
+        """ Method for the saving json file with the results dict"""
+        print('Создаем .json файл')
+        with open(name + '.json', 'w', encoding='utf8') as write_file:
+            json.dump(dicti, write_file, indent=2)
+        print('Создание файла json выполнено')
 
     @staticmethod
     def _pages_qnt(content):
         """ количество вкладок на странице"""
+        print('Получаем количество вкладок')
         soup = BeautifulSoup(content, 'html.parser')
         data = soup.find('div', class_='pager mt-20')
         qnt = data.find_all('a')
