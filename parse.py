@@ -398,17 +398,17 @@ class NksParse(Html):
 
     def get_cards(self):
         """парсит каждую страничку, собирает номера карточек, возвращает список этих карточек
-    и название категории
+        и название категории
+        :return dict
         """
         pages = self.get_pages()
-        all_cards = []
-        print(pages)
+        page_dict = {}
 
         for key in pages:
             card_url = self.prefix + pages[key]
             cards = []
             content = self.get_content(card_url)
-            print(card_url)
+            # print(card_url)
             time.sleep(3)
             for page in self._pages_qnt(content):
                 page_url = self.prefix +page
@@ -419,7 +419,9 @@ class NksParse(Html):
                 for item in data:
                     cards.append(item.get('href'))
                 print(cards)
-            # pages_qnt(content)
+            page_dict[key] = cards
+        return page_dict
+
 
     @staticmethod
     def _pages_qnt(content):
