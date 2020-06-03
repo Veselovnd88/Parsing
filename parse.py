@@ -415,7 +415,7 @@ class NksParse(Html):
                 content = self.get_content(page_url)
 
                 soup = BeautifulSoup(content, 'html.parser')
-                data = soup.find_all('a', class_='productItem')
+                data = soup.find_all('a', class_='productItem') #  TODO реализовать для тех страниц где нет нумерации
                 for item in data:
                     cards.append(item.get('href'))
                 print(cards)
