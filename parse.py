@@ -404,9 +404,13 @@ class NksParse(Html):
         pages = self.get_pages()
 
         for key in pages:
+            productdict ={}
             content = self.get_content(self.url[:-8]+pages[key][8:])
-
-
+            soup = BeautifulSoup(content,'html.parser')
+            data = soup.find_all('a', class_='productItem')
+            for item in data:
+               productdict['URL']=item.get('href')
+            print(productdict)
             self.pages_qnt(content)
 
     def pages_qnt(self, content):
