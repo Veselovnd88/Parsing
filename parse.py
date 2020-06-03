@@ -393,7 +393,8 @@ class NksParse(Html):
         for i in page:
             title_page = (i.find('span').text)
             result = i.get('href')
-            pages[title_page] = result[-13:]
+
+            pages[title_page] = result
         return pages
 
     def get_cards(self):
@@ -403,20 +404,17 @@ class NksParse(Html):
         pages = self.get_pages()
 
         for key in pages:
-            payload = {'p':pages[key]}
-            content = self.get_content(self.url[:-8], payload)
-            print(content)
-            print(self.url[:-8], payload)
-            print(self.pages_qnt(content))
+            content = self.get_content(self.url[:-8]+pages[key][8:])
 
+
+            self.pages_qnt(content)
 
     def pages_qnt(self, content):
         """ количество вкладок на странице"""
-        soup = BeautifulSoup(content,'html.parser' )
+        soup = BeautifulSoup(content, 'html.parser')
         data = soup.find('div', class_='pager mt-20')
-        print(data)
         qnt = data.find_all('a')
-        pageslist=[]
+        pageslist = []
         for item in qnt:
             pageslist.append(item.get('href'))
         return pageslist
