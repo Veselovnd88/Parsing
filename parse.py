@@ -449,3 +449,46 @@ class NksParse(Html):
         for item in qnt:
             pageslist.append(item.get('href'))
         return pageslist
+    @staticmethod
+    def from_json(file):
+        with open (file, 'r', encoding='utf8') as f:
+            cards_dict = json.load(f)
+        return cards_dict
+
+    def parse_cards(self, json_file):
+        cards = self.from_json(json_file)
+        full_dict = {}
+        for key in cards:
+            cards_dict = {}
+            for link in cards[key]:
+                card_url = self.prefix+link
+                print(card_url)
+                content = self.get_content(card_url)
+                soup = BeautifulSoup(content, 'html.parser')
+                data = soup.find('div', class_='proDetail')
+                name = data.find('span', class_= 'proDetail-number').text
+                short = data.find('span', class_ = 'proDetail-name').text
+                description = data.find('div', class_='proDetail-description').text
+                feature = data.find('ul', class_='proDetail-feature-ul')
+                if feature:
+                    feature = feature.text
+                else:
+                    feature = 'No information'
+
+                datasheet = data.find('a', class_='proDetail-download-btn')
+                if datasheet:
+                    datasheet=self.prefix+datasheet.get('href')
+                else:
+                    datasheet = 'No information'
+                image = data.find('img', class_='proDetail-img').get('src')
+                cards_dict[name]={
+                    'Short Description':short,
+                    'Description':description,
+                    'Features':feature,
+                    'Datasheet': datasheet,
+                    'Image': self.prefix+image
+                }
+
+            full_dict[key] = cards_dict
+        return full_dict
+
