@@ -376,10 +376,9 @@ class AshParse(Html):
 
 
 class NksParse(Html):
-    def __init__(self):
-        super().__init__(self)
+    def __init__(self, prefix):
+        super().__init__(prefix)
 
-        pass
 
     def get_pages(self):  # TODO потом сделать приватным, или защищенным
         """Собирает страницы с линейкой продуктов, возвращает словарь
@@ -403,19 +402,27 @@ class NksParse(Html):
         """
         pages = self.get_pages()
         all_cards = []
+        print(pages)
+
         for key in pages:
+            card_url = self.prefix + pages[key]
             cards = []
-            content = self.get_content(self.url[:-8]+pages[key][8:])
-            print(self.url)
-            soup = BeautifulSoup(content,'html.parser')
-            data = soup.find_all('a', class_='productItem')
-            for item in data:
-                cards.append(item.get('href'))
-            print(cards)
+            content = self.get_content(card_url)
+            print(card_url)
+            time.sleep(3)
+            for page in self._pages_qnt(content):
+                page_url = self.prefix +page
+                content = self.get_content(page_url)
+
+                soup = BeautifulSoup(content, 'html.parser')
+                data = soup.find_all('a', class_='productItem')
+                for item in data:
+                    cards.append(item.get('href'))
+                print(cards)
             # pages_qnt(content)
 
     @staticmethod
-    def pages_qnt(content):
+    def _pages_qnt(content):
         """ количество вкладок на странице"""
         soup = BeautifulSoup(content, 'html.parser')
         data = soup.find('div', class_='pager mt-20')
