@@ -121,6 +121,7 @@ class Html:
             self.content = response.text
             time.sleep(1)
             print('Status OK')
+            return self.content
         else:
             print('Error')
 
@@ -373,12 +374,14 @@ class AshParse(Html):
         file.save(self.pagename + '.xlsx')
         print('Creating .xlsx is finished, filename ' + self.pagename)
 
+
 class NksParse(Html):
     def __init__(self):
         super().__init__(self)
+
         pass
 
-    def get_pages(self): #  TODO потом сделать приватным, или защищенным
+    def get_pages(self):  # TODO потом сделать приватным, или защищенным
         """Собирает страницы с линейкой продуктов, возвращает словарь
         :return dict
         """
@@ -390,7 +393,7 @@ class NksParse(Html):
         for i in page:
             title_page = (i.find('span').text)
             result = i.get('href')
-            pages[title_page]=result[-16:]
+            pages[title_page] = result[-13:]
         return pages
 
     def get_cards(self):
@@ -398,5 +401,22 @@ class NksParse(Html):
     и название категории
         """
         pages = self.get_pages()
-        pass
 
+        for key in pages:
+            payload = {'p':pages[key]}
+            content = self.get_content(self.url[:-8], payload)
+            print(content)
+            print(self.url[:-8], payload)
+            print(self.pages_qnt(content))
+
+
+    def pages_qnt(self, content):
+        """ количество вкладок на странице"""
+        soup = BeautifulSoup(content,'html.parser' )
+        data = soup.find('div', class_='pager mt-20')
+        print(data)
+        qnt = data.find_all('a')
+        pageslist=[]
+        for item in qnt:
+            pageslist.append(item.get('href'))
+        return pageslist
