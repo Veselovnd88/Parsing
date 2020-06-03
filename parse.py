@@ -402,18 +402,20 @@ class NksParse(Html):
     и название категории
         """
         pages = self.get_pages()
-
+        all_cards = []
         for key in pages:
-            productdict ={}
+            cards = []
             content = self.get_content(self.url[:-8]+pages[key][8:])
+            print(self.url)
             soup = BeautifulSoup(content,'html.parser')
             data = soup.find_all('a', class_='productItem')
             for item in data:
-               productdict['URL']=item.get('href')
-            print(productdict)
-            self.pages_qnt(content)
+                cards.append(item.get('href'))
+            print(cards)
+            # pages_qnt(content)
 
-    def pages_qnt(self, content):
+    @staticmethod
+    def pages_qnt(content):
         """ количество вкладок на странице"""
         soup = BeautifulSoup(content, 'html.parser')
         data = soup.find('div', class_='pager mt-20')
