@@ -486,9 +486,11 @@ class NksParse(Html):
                     'Description':description,
                     'Features':feature,
                     'Datasheet': datasheet,
-                    'Image': self.prefix+image
+                    'Image': self.prefix+image,
+                    'URL': card_url
                 }
 
             full_dict[key] = cards_dict
         return full_dict
 
+# TODO добавить еще оригинальную ссылку с json, скорей всего функция в мэйне
