@@ -405,28 +405,36 @@ class NksParse(Html):
         pages = self.get_pages()
         page_dict = {}
 
-        for key in pages:
+        for key in pages:  # Страница со всеми продуктами
             print('Читаем страницу ' + key)
             card_url = self.prefix + pages[key]
             cards = []
             content = self.get_content(card_url)
-            pages_quantity = self._pages_qnt(content)
-            if pages_quantity:
-                print('Несколько вкладок')
-                for page in self._pages_qnt(content):
-                    page_url = self.prefix + page
+            print(card_url)
+            int_pages = self.internal_pages(content)
+            if int_pages:  # Если есть подкатегории
+                print("Несколько подкатегорий")
+                for elem in int_pages:
+                    page_url = self.prefix+int_pages[elem]
+                    print(page_url)
                     content = self.get_content(page_url)
+                    pages_quantity = self._pages_qnt(content)
+                    if pages_quantity:  # если несколько страниц
+                        print('Несколько вкладок')
+                        for page in self._pages_qnt(content):
+                            page_url = self.prefix + page
+                            content = self.get_content(page_url)
 
-                    soup = BeautifulSoup(content, 'html.parser')
-                    data = soup.find_all('a', class_='productItem')
-                    for item in data:
-                        cards.append(item.get('href'))
-            else:
-                print('Одна вкладка')
-                soup = BeautifulSoup(content, 'html.parser')
-                data = soup.find_all('a', class_='productItem')
-                for item in data:
-                    cards.append(item.get('href'))
+                            soup = BeautifulSoup(content, 'html.parser')
+                            data = soup.find_all('a', class_='productItem')
+                            for item in data:
+                                cards.append(item.get('href'))
+                    else:
+                        print('Одна вкладка')
+                        soup = BeautifulSoup(content, 'html.parser')
+                        data = soup.find_all('a', class_='productItem')
+                        for item in data:
+                            cards.append(item.get('href'))
             page_dict[key] = cards
         return page_dict
 
@@ -449,9 +457,30 @@ class NksParse(Html):
         for item in qnt:
             pageslist.append(item.get('href'))
         return pageslist
+
+    @staticmethod
+    def internal_pages(content):
+        """
+        На каждой странице еще есть вкладки - проверить # TODO
+        :return: dict
+        """
+        print('Получаем подкатегории продуктов')
+        int_pages_list = {}
+        soup = BeautifulSoup(content, 'html.parser')
+        data = soup.find('div', class_='productTab-sub')
+        int_pages = data.find('ul').find_next('a', class_='is-current')
+        print(int_pages)
+        for it in int_pages:
+            title = it.text
+            url = it.get('href')
+            int_pages_list[title]= url
+
+        print(int_pages_list)
+        return int_pages_list
+
     @staticmethod
     def from_json(file):
-        with open (file, 'r', encoding='utf8') as f:
+        with open(file, 'r', encoding='utf8') as f:
             cards_dict = json.load(f)
         return cards_dict
 
@@ -461,13 +490,13 @@ class NksParse(Html):
         for key in cards:
             cards_dict = {}
             for link in cards[key]:
-                card_url = self.prefix+link
+                card_url = self.prefix + link
                 print(card_url)
                 content = self.get_content(card_url)
                 soup = BeautifulSoup(content, 'html.parser')
                 data = soup.find('div', class_='proDetail')
-                name = data.find('span', class_= 'proDetail-number').text
-                short = data.find('span', class_ = 'proDetail-name').text
+                name = data.find('span', class_='proDetail-number').text
+                short = data.find('span', class_='proDetail-name').text
                 description = data.find('div', class_='proDetail-description').text
                 feature = data.find('ul', class_='proDetail-feature-ul')
                 if feature:
@@ -477,16 +506,16 @@ class NksParse(Html):
 
                 datasheet = data.find('a', class_='proDetail-download-btn')
                 if datasheet:
-                    datasheet=self.prefix+datasheet.get('href')
+                    datasheet = self.prefix + datasheet.get('href')
                 else:
                     datasheet = 'No information'
                 image = data.find('img', class_='proDetail-img').get('src')
-                cards_dict[name]={
-                    'Short Description':short,
-                    'Description':description,
-                    'Features':feature,
+                cards_dict[name] = {
+                    'Short Description': short,
+                    'Description': description,
+                    'Features': feature,
                     'Datasheet': datasheet,
-                    'Image': self.prefix+image,
+                    'Image': self.prefix + image,
                     'URL': card_url
                 }
 
