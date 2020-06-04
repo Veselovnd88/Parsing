@@ -119,7 +119,7 @@ class Html:
         response = requests.get(self.url, headers=headers, params=self.params, timeout=5)
         if response.status_code == 200:
             self.content = response.text
-            time.sleep(1)
+            time.sleep(5)
             print('Status OK')
             return self.content
         else:
@@ -470,10 +470,9 @@ class NksParse(Html):
         data = soup.find('div', class_='productTab-sub')
         int_pages = data.find('ul').find_next('a', class_='is-current')
         print(int_pages)
-        for it in int_pages:
-            title = it.text
-            url = it.get('href')
-            int_pages_list[title]= url
+        title = int_pages.get_text()
+        url = int_pages.get('href')
+        int_pages_list[title]= url
 
         print(int_pages_list)
         return int_pages_list
