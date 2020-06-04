@@ -385,15 +385,29 @@ class NksParse(Html):
         """
         print('Собираем категории продуктов')
         soup = BeautifulSoup(self.content, 'html.parser')
-        data = soup.find('div', class_="proSearchByPurpose")
+        data = soup.find('div', class_="productTab-main")
         pages = {}
+        subdata = soup.find_all('div', class_= 'productTab-sub')
 
         page = data.find_all('a')
-        for i in page:
-            title_page = i.find('span').text
-            result = i.get('href')
 
-            pages[title_page] = result
+        subpageslist = []
+        for elem in subdata:
+
+            subpages = {}
+            subpage = elem.find_all('a')
+            for i in subpage:
+                title_page = i.get_text()
+                result = i.get('href')
+                subpages[title_page] = result
+                subpageslist.append(subpages)
+        koeff = 0
+        for i in page:
+            title_page = i.get_text()
+            result = i.get('href')
+            pages[title_page] = subpageslist[koeff]
+            koeff+=1
+
         return pages
 
     def get_cards(self):
