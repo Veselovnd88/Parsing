@@ -1,0 +1,62 @@
+{
+  "Pressure gauge": {
+    "Pressure gauge (Compound, Vacuum)": "product/application.html?p=0&c=0&lng=eng",
+    "Differencial pressure gauge": "product/application.html?p=0&c=1&lng=eng",
+    "Low pressure gauge": "product/application.html?p=0&c=2&lng=eng",
+    "Absolute pressure gauge": "product/application.html?p=0&c=3&lng=eng",
+    "Diaphragm-seal type products": "product/application.html?p=0&c=4&lng=eng",
+    "Others": "product/application.html?p=0&c=5&lng=eng"
+  },
+  "Pressure switch": {
+    "Pressure gauge (Compound, Vacuum)": "product/application.html?p=0&c=0&lng=eng",
+    "Differencial pressure gauge": "product/application.html?p=0&c=1&lng=eng",
+    "Low pressure gauge": "product/application.html?p=0&c=2&lng=eng",
+    "Absolute pressure gauge": "product/application.html?p=0&c=3&lng=eng",
+    "Diaphragm-seal type products": "product/application.html?p=0&c=4&lng=eng",
+    "Others": "product/application.html?p=0&c=5&lng=eng"
+  },
+  "Pressure sensor": {
+    "Pressure gauge (Compound, Vacuum)": "product/application.html?p=0&c=0&lng=eng",
+    "Differencial pressure gauge": "product/application.html?p=0&c=1&lng=eng",
+    "Low pressure gauge": "product/application.html?p=0&c=2&lng=eng",
+    "Absolute pressure gauge": "product/application.html?p=0&c=3&lng=eng",
+    "Diaphragm-seal type products": "product/application.html?p=0&c=4&lng=eng",
+    "Others": "product/application.html?p=0&c=5&lng=eng"
+  },
+  "Digital pressure gauge": {
+    "Pressure gauge (Compound, Vacuum)": "product/application.html?p=0&c=0&lng=eng",
+    "Differencial pressure gauge": "product/application.html?p=0&c=1&lng=eng",
+    "Low pressure gauge": "product/application.html?p=0&c=2&lng=eng",
+    "Absolute pressure gauge": "product/application.html?p=0&c=3&lng=eng",
+    "Diaphragm-seal type products": "product/application.html?p=0&c=4&lng=eng",
+    "Others": "product/application.html?p=0&c=5&lng=eng"
+  },
+  "Temperature gauge": {
+    "Pressure gauge (Compound, Vacuum)": "product/application.html?p=0&c=0&lng=eng",
+    "Differencial pressure gauge": "product/application.html?p=0&c=1&lng=eng",
+    "Low pressure gauge": "product/application.html?p=0&c=2&lng=eng",
+    "Absolute pressure gauge": "product/application.html?p=0&c=3&lng=eng",
+    "Diaphragm-seal type products": "product/application.html?p=0&c=4&lng=eng",
+    "Others": "product/application.html?p=0&c=5&lng=eng"
+  },
+  "Flow & Heat meter": {
+    "Pressure gauge (Compound, Vacuum)": "product/application.html?p=0&c=0&lng=eng",
+    "Differencial pressure gauge": "product/application.html?p=0&c=1&lng=eng",
+    "Low pressure gauge": "product/application.html?p=0&c=2&lng=eng",
+    "Absolute pressure gauge": "product/application.html?p=0&c=3&lng=eng",
+    "Diaphragm-seal type products": "product/application.html?p=0&c=4&lng=eng",
+    "Others": "product/application.html?p=0&c=5&lng=eng"
+  },
+  "Inspection & Calibration instrument": {
+    "Mechanical type ": "product/application.html?p=1&c=0&lng=eng",
+    "Electric type": "product/application.html?p=1&c=1&lng=eng",
+    "Indicator with switch": "product/application.html?p=1&c=2&lng=eng",
+    "Others": "product/application.html?p=1&c=3&lng=eng"
+  },
+  "Accessory and Others": {
+    "Mechanical type ": "product/application.html?p=1&c=0&lng=eng",
+    "Electric type": "product/application.html?p=1&c=1&lng=eng",
+    "Indicator with switch": "product/application.html?p=1&c=2&lng=eng",
+    "Others": "product/application.html?p=1&c=3&lng=eng"
+  }
+}
