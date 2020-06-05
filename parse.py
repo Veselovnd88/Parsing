@@ -454,7 +454,7 @@ class NksParse(Html):
                             data = soup.find_all('a', class_='productItem')
                             for item in data:
                                 cards.append(item.get('href'))
-                page_dict[key] = cards
+                    page_dict[key] = cards
         return page_dict
 
     @staticmethod
@@ -491,8 +491,9 @@ class NksParse(Html):
         soup = BeautifulSoup(content, 'html.parser')
         data = soup.find('div', class_='productTab-sub')
         int_pages = data.find('ul').find_next('a', class_='is-current')
-        print(int_pages)
+
         title = int_pages.get_text()
+        print(title)
         url = int_pages.get('href')
         int_pages_list[title]= url
 
