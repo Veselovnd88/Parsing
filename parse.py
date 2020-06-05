@@ -396,11 +396,13 @@ class NksParse(Html):
 
             subpages = {}
             subpage = elem.find_all('a')
+            print(subpage)
             for i in subpage:
                 title_page = i.get_text()
                 result = i.get('href')
                 subpages[title_page] = result
-                subpageslist.append(subpages)
+            subpageslist.append(subpages)
+        print(subpageslist)
         koeff = 0
         for i in page:
             title_page = i.get_text()
@@ -410,46 +412,49 @@ class NksParse(Html):
 
         return pages
 
-    def get_cards(self):
+    def get_cards(self,jsonfile):
         """парсит каждую страничку, собирает номера карточек, возвращает список этих карточек
         и название категории
         :return dict
         """
         print('Получаем список карточек ')
-        pages = self.get_pages()
+        # pages = self.get_pages() - если парсить по по новой
+        pages = self.from_json(jsonfile)
+
         page_dict = {}
 
         for key in pages:  # Страница со всеми продуктами
-            print('Читаем страницу ' + key)
-            card_url = self.prefix + pages[key]
-            cards = []
-            content = self.get_content(card_url)
-            print(card_url)
-            int_pages = self.internal_pages(content)
-            if int_pages:  # Если есть подкатегории
-                print("Несколько подкатегорий")
-                for elem in int_pages:
-                    page_url = self.prefix+int_pages[elem]
-                    print(page_url)
-                    content = self.get_content(page_url)
-                    pages_quantity = self._pages_qnt(content)
-                    if pages_quantity:  # если несколько страниц
-                        print('Несколько вкладок')
-                        for page in self._pages_qnt(content):
-                            page_url = self.prefix + page
-                            content = self.get_content(page_url)
+            for elem in pages[key]:
+                print('Читаем страницу ' + key)
+                card_url = self.prefix + pages[key][elem]
+                cards = []
+                content = self.get_content(card_url)
+                print(card_url)
+                int_pages = self.internal_pages(content)
+                if int_pages:  # Если есть подкатегории
+                    print("Несколько подкатегорий")
+                    for elem in int_pages:
+                        page_url = self.prefix+int_pages[elem]
+                        print(page_url)
+                        content = self.get_content(page_url)
+                        pages_quantity = self._pages_qnt(content)
+                        if pages_quantity:  # если несколько страниц
+                            print('Несколько вкладок')
+                            for page in self._pages_qnt(content):
+                                page_url = self.prefix + page
+                                content = self.get_content(page_url)
 
+                                soup = BeautifulSoup(content, 'html.parser')
+                                data = soup.find_all('a', class_='productItem')
+                                for item in data:
+                                    cards.append(item.get('href'))
+                        else:
+                            print('Одна вкладка')
                             soup = BeautifulSoup(content, 'html.parser')
                             data = soup.find_all('a', class_='productItem')
                             for item in data:
                                 cards.append(item.get('href'))
-                    else:
-                        print('Одна вкладка')
-                        soup = BeautifulSoup(content, 'html.parser')
-                        data = soup.find_all('a', class_='productItem')
-                        for item in data:
-                            cards.append(item.get('href'))
-            page_dict[key] = cards
+                page_dict[key] = cards
         return page_dict
 
     @staticmethod
@@ -466,12 +471,15 @@ class NksParse(Html):
         print('Получаем количество вкладок')
         soup = BeautifulSoup(content, 'html.parser')
         data = soup.find('div', class_='pager mt-20')
-        qnt = data.find_all('a')
-        pageslist = []
-        for item in qnt:
-            pageslist.append(item.get('href'))
-        return pageslist
 
+        if data:
+            qnt = data.find_all('a')  # количество страниц
+            pageslist = []
+            for item in qnt:
+                pageslist.append(item.get('href'))
+            return pageslist
+        else:
+            return None
     @staticmethod
     def internal_pages(content):
         """
