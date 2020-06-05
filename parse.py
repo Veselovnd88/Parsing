@@ -429,7 +429,7 @@ class NksParse(Html):
                 card_url = self.prefix + pages[key][elem]
                 cards = []
                 content = self.get_content(card_url)
-                print(card_url)
+                print(card_url)  # TODO добавить сюда название подвкладки, будет всё таки словрик
                 int_pages = self.internal_pages(content)
                 if int_pages:  # Если есть подкатегории
                     print("Несколько подкатегорий")
