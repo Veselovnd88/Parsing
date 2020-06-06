@@ -119,7 +119,7 @@ class Html:
         response = requests.get(self.url, headers=headers, params=self.params, timeout=5)
         if response.status_code == 200:
             self.content = response.text
-            time.sleep(5)
+            time.sleep(6)
             print('Status OK')
             return self.content
         else:
@@ -425,19 +425,24 @@ class NksParse(Html):
 
         for key in pages:  # Страница со всеми продуктами
             for elem in pages[key]:
-                print('Читаем страницу ' + key)
+                print('Читаем страницу ' + key, ' раздел ', elem)
+
                 card_url = self.prefix + pages[key][elem]
                 cards = []
                 content = self.get_content(card_url)
                 print(card_url)  # TODO добавить сюда название подвкладки, будет всё таки словрик
                 int_pages = self.internal_pages(content)
+                card_dict = {}
+                urls_lst=[]
                 if int_pages:  # Если есть подкатегории
                     print("Несколько подкатегорий")
-                    for elem in int_pages:
-                        page_url = self.prefix+int_pages[elem]
+
+                    for part in int_pages:
+                        page_url = self.prefix+int_pages[part]
                         print(page_url)
                         content = self.get_content(page_url)
                         pages_quantity = self._pages_qnt(content)
+
                         if pages_quantity:  # если несколько страниц
                             print('Несколько вкладок')
                             for page in self._pages_qnt(content):
@@ -446,14 +451,19 @@ class NksParse(Html):
 
                                 soup = BeautifulSoup(content, 'html.parser')
                                 data = soup.find_all('a', class_='productItem')
+
                                 for item in data:
-                                    cards.append(item.get('href'))
+                                    urls_lst.append(item.get('href'))
+                                card_dict[elem]=urls_lst
+
                         else:
                             print('Одна вкладка')
                             soup = BeautifulSoup(content, 'html.parser')
                             data = soup.find_all('a', class_='productItem')
                             for item in data:
-                                cards.append(item.get('href'))
+                                urls_lst.append(item.get('href'))
+                            card_dict[elem]=urls_lst
+                        cards.append(card_dict)
                     page_dict[key] = cards
         return page_dict
 
