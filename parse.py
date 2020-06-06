@@ -463,7 +463,7 @@ class NksParse(Html):
                             for item in data:
                                 urls_lst.append(item.get('href'))
                             card_dict[elem]=urls_lst
-                        cards.append(card_dict)
+                        cards.append(card_dict)  # TODO перезаписывает словари и сохраняет только последний
                     page_dict[key] = cards
         return page_dict
 
