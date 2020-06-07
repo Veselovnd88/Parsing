@@ -7,5 +7,5 @@ new = NksParse(web)
 # new.get_content(url2)
 # new.to_json('All kats',new.get_pages())
 
-new.to_json('NKS cardsTrans', new.get_cards('All katsPTrans.json'))
-new.to_json('Parsing_NKSPTransducers', new.parse_cards('NKS cardsTrans.json'))
+new.to_json('NKS cardsAcc', new.get_cards('All katsAcc.json'))
+new.to_json('Parsing_NKSAccessories', new.parse_cards('NKS cardsAcc.json'))

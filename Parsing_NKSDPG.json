@@ -1,0 +1,283 @@
+{
+  "Digital pressure gauge": {
+    "Digital pressure gauge": {
+      "Model No. GC51": {
+        "Short Description": "pressuure transmitter",
+        "Description": "This pressure transmitter is for gases and liquids measurements with 2-wire system. Compact and lightweight design suitable for outdoor use for a wide range of industries including HVAC, Factory automation, Process and Water treatment contributing for easy installation on site.",
+        "Features": "\r\n                    \u30fbAdjustable indication and output scaling are available.  \r\n\u30fbBreakthrough readability with LED-backlit LCD\r\n\u30fbSmall and lightweight design with 4-way pressure port directions: upper, lower, left and right\u3000(Lower, left and right for absolute model).\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1080/E-GC51_C_8P20180829.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1080/GC51TZweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1900.html?lng=eng"
+      },
+      "Model No. GC15/GC16": {
+        "Short Description": "Precision Digital Pressure Gauges",
+        "Description": "GC15 For measuring gases\r\nAs silicon capacitance pressure sensor is used, it is possible to\r\nmeasure micro differential pressure with high sensitivity. Despite fine pressure measurement, it can withstand high pressure.GC16 For measuring gases and liquids\r\nBecause an evaporated type sensor with a stainless steel diaphragm is used, it is possible to measure gaseous and liquid substances. In addition, it features higher pressure resistance\r\nand prevents liquid pool.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1144/E-GC15_16_N_4P20181112S.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1144/gc15.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/243.html?lng=eng"
+      },
+      "Model No. SU70": {
+        "Short Description": "Non-liquid Filled Battery-powered Sanitary Digital Pressure Gauge",
+        "Description": "This pressure gauge is designed with \u300cNon-liquid filled\u300d without the need for an intermediary liquid within the sensor for further contribution for Food, Pharmaceutical and Cosmetic manufacturing process with \u300cSafe and Reliable\u300d pressure measurement.",
+        "Features": "\r\n                    \u30fb\u300cNon-liquid filled\u300d design \r\n\u30fbSafe all stainless enclosure\r\n\u30fbAAA x 3pcs operation\r\n\u30fbFlat surface pressure sensing element made of SUS316L\r\n\u30fbAvailable at 150\u2103 without radiation fin.\r\n\u30fbNo need to offset Zero point when installed with clamp.\r\n\u30fbRotatable display\r\n\u30fbRanges covering low range from 20kPa \r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9026/E-SU70_A_5P\u3010NEW\u301120181214.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9026/SU70.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/1893.html?lng=eng"
+      },
+      "Model No. GC04": {
+        "Short Description": "Battery-powered Digital Pressure Gauge",
+        "Description": "Small digital pressure gauge, incorporating high reliable proven Chemical Vapor-Deposited Semiconductor Strain Gauge (SS sensor), is available for variety of applications for various\r\nfluids and gases measurements. This can be used for master gauge for testing mechanical pressure gauge with its \u00b10.25%F.S. accuracy. JCSS calibration certificate is available.",
+        "Features": "\r\n                    \u30fbAccuracy\u00b10.25%F.S.\r\n\u30fbTwo AA alkaline batteries\r\n\u30fbHigh enclosure rating (IP67)\r\n\u30fbSelectable pressure unit of measure\r\n\u30fbBack lite for use in darkness\r\n\u30fb5 digits LCD display (Character height 12mm)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9021/E-GC04_A_3P20180131.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9021/HPgc04_back.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/1873.html?lng=eng"
+      },
+      "Model No. GC35": {
+        "Short Description": "Waterproof Digital Pressure Gauge",
+        "Description": "Waterproof digital pressure gauge with high durability, incorporating high reliable proven Chemical Vapor-Deposited Semiconductor Strain Gauge (SS sensor), can be used for hydraulic and water pressure monitor and control. Feature of digital pressure indication, switch actuation and analog output are integrated in one compact design with LED light ring for warning indication.",
+        "Features": "\r\n                    \u30fbIP67 (1MPa or less: IP65)\r\n\u30fbdepending on the range)\r\n\u30fbSwitch function (User selectable NPN or PNP Open Collector Outputs)\r\n\u30fbAnalog output (Option)\r\n\u30fbLoop check, Peak and bottom hold display, Key lock, Pressure value indication, Analog output, Scaling\r\n\u3000(Maximum value 9999) and Zero point adjustment\r\n\u30fb6 internal time constant filters (OFF, 25\u30fb250ms, 2.5\u30fb5\u30fb10s)\r\n\u30fbPressure switch: Delay time can be added (0.00 to 2.00s)\r\n\u30fbAluminum die casting case, M12 Connector connection\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1132/E-GC35_G_7P20191011sp.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1132/GC35-1(sB)_HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/232.html?lng=eng"
+      },
+      "Model No. SU1": {
+        "Short Description": "SU Sanitary type Waterproof Digital Pressure Gauge",
+        "Description": "Waterproof digital pressure gauge is particularly designedto make pressure measurements in the \ufb01eld that sanitarycare is required. This can be widely used, in Food,Pharmaceuticals, Cosmetics, Bio-related industries, etc.",
+        "Features": "\r\n                    IP67 (1MPa or less: IP65)Analog output (option) scaling functionSwitch function (NPN/PNP switchable)Display scaling function (Max. display 9999 digit)Peak & bottom value holding function, key lock function6 kinds \ufb01lter function (Nil,25,250ms, 2.5,5,10s)Pressure switch: Delay function added (0.00-2.00s)M12 Connector connectionRoHS Directive applicable\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1129/E-SU1-F-20140128.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1129/SU1_Web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/229.html?lng=eng"
+      },
+      "Model No. GC Series": {
+        "Short Description": "Digital Pressure Gauge GC Series Full Line Up",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1150/GC_j1.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/1696.html?lng=eng"
+      },
+      "Model No. GC31": {
+        "Short Description": "Digital Pressure Gauge",
+        "Description": "Small digital pressure gauge, incorporating high reliable proven Chemical Vapor-Deposited Semiconductor Strain Gauge (SS sensor), features 10mm LED indication, switch actuation and analog output in 30 x 30mm compact enclosure. Application includes hydraulic, air and water pressure monitor and control.",
+        "Features": "\r\n                    \u30fbPressure range:\r\n\u3000Covering \u00b1100kPa through 0 to 50MPa\r\n\u30fbSwitch function (NPN or PNP)\r\n\u30fb1 to 5V DC Analog output (Standard)\r\n\u30fb6 internal time constant filters\r\n\u3000(OFF, 25ms\u30fb250ms, 2.5\u30fb5\u30fb10s)\r\n\u30fbLoop check, Indication & analog output scaling,\r\n\u3000Filter, Key lock, Peak and bottom hold display\r\n\u3000and zero point adjustment\r\n\u30fb10mm large LED (3 1/2 digit)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1130/E-GC31-E-5P20180131.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1130/GC31web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/230.html?lng=eng"
+      },
+      "Model No. GC61": {
+        "Short Description": "Digital Pressure Gauge",
+        "Description": "Digital pressure gauge with high durability, incorporating high reliable proven Chemical Vapor-Deposited Semiconductor Strain Gauge (SS sensor), can be used for hydraulic and water\r\npressure monitor and control. Feature of digital pressure indication, switch actuation, analog output, loop check and scaling are integrated in one compact design.",
+        "Features": "\r\n                    \u30fbSelectable diaphragm materials depending on applications (SUS630 or SUS316L)\r\n\u30fbIP65\r\n\u30fbSwitch operation (NPN or PNP)\r\n\u30fbAnalog output (Option)\r\n\u30fb6 internal time constant filters\r\n(OFF, 25\u30fb250ms, 2.5\u30fb5\u30fb10s)\r\n\u30fbLoop check, Indication and analog output scaling (Maximum display 6000), Filter, Key lock, Peak and\u3000Bottom hold and One-touch zero adjustment function\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1131/E-GC61_R_5P20180109.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1131/GC61_HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/231.html?lng=eng"
+      },
+      "Model No. GC64": {
+        "Short Description": "Battery-Powered Digital Pressure Gauge",
+        "Description": "This product with a built-in high reliable Chemical Vapor-Deposited Semiconductor Strain Gauge can be used in wide range of applications for gases and fluids measurement, thanks to less moving parts and excellent vibration and shock resistance. Reduced area of wetted parts to 1/5 (Measured by own) as compared to bourdon tube contributes for\r\nthe less contamination.",
+        "Features": "\r\n                    \u30fbPressure range: -0.1 to 0.5MPa\u21920 to 20MPa\r\n\u30fbSame design as 50 DIA. small pressure gauge\r\n\u30fbSelectable mounting angle by 30 degrees\r\n\u30fbAuto power OFF\r\n\u30fbVariable update rate\r\n\u30fbOne-touch zero adjustment function\r\n\u30fbBattery life indicator\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1134/E-GC64_J_3P20180131.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1134/HP_GC64.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/234.html?lng=eng"
+      },
+      "Model No. GC66": {
+        "Short Description": "Digital Pressure Checker",
+        "Description": "This pocket carry digital pressure gauge for low pressure through medium pressure measurements can be used for periodical inspection or maintenance. Feature includes airtight test which can be easily performed on pipe and tool. 100Pa\r\nfor low pressure and 1000kPa for medium pressure are available.",
+        "Features": "\r\n                    \u30fbDigital pressure indication for accurate pressure reading\r\n\u30fbSimple construction with less moving parts which can achieve excellent vibration and shock resistance. \u3000Almost no position effect is exhibited\r\n\u30fbFeature including airtight test which can be easily performed on pipe and tool\r\n\u30fbSmall and lightweight with lithium battery\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1133/E-GC66_K_3P20180411.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1133/GC66-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/233.html?lng=eng"
+      },
+      "Model No. GC67": {
+        "Short Description": "Small Digital Pressure Gauge",
+        "Description": "Small digital pressure gauge, incorporating high reliable proven Chemical Vapor-Deposited Semiconductor Strain Gauge (SS sensor), features\r\n10mm LED indication, switch actuation and analog output in 30 x 30mm compact enclosure for use in FA production line. Application includes hydraulic, air and water pressure monitor and control.",
+        "Features": "\r\n                    \u30fbHigh-speed comparator is featured: 2.5ms Independent comparator operation can be set on OUT1 and OUT2\r\n\u30fbAnalog output (option) response time: 1ms or less\r\n\u30fb5 internal time constant filters (OFF, 10ms\u30fb50ms, 200ms\u30fb600ms)\uff0a\r\n\u30fbIndication scaling, Peak and bottom hold display, Key lock and Zero point adjustment\r\n\u30fb10mm large LED (3 1/2 digit) \uff0aFilter setting doesn't affect performance of analog output operation.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1136/E-GC67_L_5P20180119.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1136/HP-GC67.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/236.html?lng=eng"
+      },
+      "Model No. SN9": {
+        "Short Description": "Sanitary type digital pressure gauges",
+        "Description": "This digital pressure gauge has a highly reliable on-board vaporization-style semiconductor pressure sensor.Because of hygienic sanitary connection, it can be used in a variety of fields, such as food, medicien, cosmetics and fields related to biology.",
+        "Features": "\r\n                    Contains a large variety of output functions, so it can be used with wide ranging applications for monitoring.The scaling function allows you to any display and output.The loop check function(mock output) allows for construction and inspection work at reduced labor.Contributes to space-saving by being small and light.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1135/E-SN9G121220.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1135/20160616-060817.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/235.html?lng=eng"
+      },
+      "Model No. ZT60": {
+        "Short Description": "Digital Pressure Gauge for Semiconductor Industry",
+        "Description": "This Digital Pressure Gauge for the semiconductor industry uses a semiconductor strain gauge sensor which has track records of durability and stability in its pressure-sensitive portions. It is equipped with a variety of intelligent functions like comparator output, analog output, and loop checking function, and takes high reliability on measurements.",
+        "Features": "\r\n                    \u30fbThe high corrosion resistant pressure sensor made of Co-Ni alloy or SUS316L is directly welded to the \u3000316Lst.st. coupling portion, demonstrating excellent corrosion resistance, hermetic properties, stability and \u3000reliability.\r\n\u3000\uff0aPlease confirm that material in contact with gas is suitable for it.\r\n\u30fbThe gauge uses a large 4-digit LED display that is bright and easy to see. Users can choose either vertical or \u3000horizontal mounting type.\r\n\u30fbThe loop checking function is designed to cut down on inspection labor. Additionally, the scaling function \u3000(Display, output) and zero adjustment function make bothersome adjustments unnecessary.\r\n\u30fbAlso offers a wide variety of coupling options.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1149/E-ZT60-I-13P_170125.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1149/ZT60web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/248.html?lng=eng"
+      },
+      "Model No. ZT60w": {
+        "Short Description": "Detachable Digital Pressure Gauge",
+        "Description": "We have developed this product to be compatible with 1.5 surface mounting interface, along with the ultra-clean\r\nspecification pressure transmitters and digital pressure gauges that are often used for semiconductor gas delivery.\r\nThe sensors and indicator panel of the digital pressure gauge are detachable, contributing to the power-saving ability of the surface-mounting interface.",
+        "Features": "\r\n                    ZT60 Detachable Digital Indicator\r\n\u3000\u3000\u3000The ZT60 Digital Indicator can be combined with\u3000\u3000\u3000the ZT17 Constant Output Pressure Transducer,\u3000\u3000\u3000and is a multi-functional product equipped with\u3000\u3000\u3000analog and comparator outputs.\r\nZT17 Constant Output Pressure Transducer\u3000\u3000\u3000(1.5 surface mounting interface)\u3000\u3000\u3000Taking maintainability into account, it maintains\u3000\u3000\u3000the output from the pressure transducer generating \u3000\u3000\u3000constant signal. It is installed via a one-touch type\u3000\u3000\u3000connector, making it easy to attach and detach.\u3000\u3000\u3000\uff0aPlease confirm that material in contact with gas is suitable for it.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1145/E-ZT60-W02-1.5-G8P170125.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1145/ZT60w.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/244.html?lng=eng"
+      },
+      "Model No. ZT61": {
+        "Short Description": "Digital Pressure Gauge for 1.125 surface mounting interfase",
+        "Description": "These are digital pressure gauges corresponding to 1.125 surface mounting interface for semiconductor gas delivery. An excellent visibility LED digital display is built-in. There are the 2-wire transmission system without a dedicated power supply for indication, and the 3-wire transmission system (Current and voltage) with comparator output. Sensing element is made of Co-Ni alloy or SUS316L, so that it is extremely reliability, corrosion resistant.\r\n",
+        "Features": "\r\n                    \u30fbIntegrated easy-to-read LED digital display.\r\n\u30fbAvailable with simple 2-wire transmission system and\r\n  comparator + 3-wire output.\r\n\u30fbExcellent durability due to strain gauge formed on metal\r\n  diaphragm with PCVD process.\r\n\u30fbHighly corrosion-resistant pressure sensors made of \r\n  Co-Ni alloy or SUS316L are welded directly to the \u3000\r\n  SUS316L joints, giving them excellent corrosion \r\n  resistance, air-tightness, long-term stability, and reliability.\u3000\u3000\uff0aPlease confirm that material in contact with gas is suitable for it.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1147/E-ZT61-C-11P20170213.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1147/ZT61web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/246.html?lng=eng"
+      },
+      "Model No. ZT64": {
+        "Short Description": "Digital pressure gauge with battery opeated",
+        "Description": "This device is a digital pressure gauge with battery operation designed for the need of the pressure gauge / pressure sensor in semiconductor field.\r\nThis pressure gauge incorporates battery operational function and semiconductor strain gauge reduces its surface area of wettde parts substantially as compared to bourdon tube pressure gauge (Approximately 20% of bourdon tube type). Because there is no movable parts, the design provides excellent vibration and shock resistance as well as corrosion resistance for adapting to a variety of applications. Choice of UC grade throughout general use of specifications is available to suit for a variety of installation.",
+        "Features": "\r\n                    \u30fbThe high corrosion resistant pressure sensor made of Co-Ni\r\n  alloy or SUS316L is directly welded to the\u3000 316Lst.st. coupling\r\n  portion, demonstrating excellent corrosion resistance,\r\n  hermetic properties, stability and\u3000 reliability.\u3000\r\n  \uff0aPlease confirm that material in contact with gas is suitable for it.\r\n\u30fbAdjustable-angle display\r\n  When installed to pressure regulator of four ports, the digital\r\n  display can be made level\u3000 by adjusting its angle to the left or\r\n  right by 30\u00b0. (See the photo on the right)\r\n\u30fbEnergy-saving function\u3000\r\n   (1) Automatic power off function can be selected\u3000\r\n   (2) Adjustable sampling time constant\u3000\u3000\r\n       (Can be selected a display update cycle of 0.5s, 2.0s, or 10s.)  \u3000\r\n        Please select (1) or (2) to match the selected use time.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1139/E-ZT64-G-9P_170421.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1139/ZT64-1.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/238.html?lng=eng"
+      },
+      "Model No. ZT67": {
+        "Short Description": "Detachable Digital Pressure Gauge",
+        "Description": "We have developed this product to be compatible with 1.125 surface mounting interface, along with the ultra-clean specification pressure transmitters and digital pressure gauges that are often used for semiconductor gas delivery.\r\nThe sensors and indicator panel of the digital pressure gauge are detachable, contributing to the power-saving ability of the surface-mounting interface.",
+        "Features": "\r\n                    ZT67 Detachable Digital Indicator\r\n\u3000\u3000\u3000The ZT67 Digital Indicator can be combined with\r\n\u3000\u3000\u3000the ZT17 Constant Output Pressure Transducer,\r\n\u3000\u3000\u3000and is a multi-functional product equipped with\r\n\u3000\u3000\u3000analog and comparator outputs.\r\nZT17 Constant Output Pressure Transducer\r\n\u3000\u3000\u3000(1.125 surface mounting interface)\r\n\u3000\u3000\u3000Taking maintainability into account, it maintains\r\n\u3000\u3000\u3000the output from the pressure transducer as a\r\n\u3000\u3000\u3000constant signal. It is installed via a one-touch type\r\n\u3000\u3000\u3000connector, making it easy to attach and detach.\u3000\u3000\u3000\uff0aPlease confirm that material in contact with gas is suitable for it.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1146/E-ZT67-W02-D7P170125.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1146/zt67.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/245.html?lng=eng"
+      },
+      "Model No. GC73": {
+        "Short Description": "Digital Pressure GaugesIndoor type",
+        "Description": "This is a digital pressure gauge that is applicable for a wide range of pressure media featuring proven semiconductor strain gauge with excellent durability and stability. Appropriate model can be selected depending on the applications with pressure indication, output, installing method etc. There are two types of sensor, direct connection\r\ntype or separate type to install in the place varies on site.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1141/E-GC7_L_9P20180426.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1141/gc73.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/240.html?lng=eng"
+      },
+      "Model No. GC74": {
+        "Short Description": "Digital Pressure GaugesDrip-proof type",
+        "Description": "This is a digital pressure gauge that is applicable for a wide range of pressure media featuring proven semiconductor strain gauge with excellent durability and stability. Appropriate model can be selected depending on the applications with pressure indication, output, installing method etc. There are two types of sensor, direct connection\r\ntype or separate type to install in the place varies on site.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1142/E-GC7_L_9P20180426.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1142/gc74.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/241.html?lng=eng"
+      },
+      "Model No. GC75": {
+        "Short Description": "Digital Pressure GaugesDrip-proof type",
+        "Description": "This is a digital pressure gauge that is applicable for a wide range of pressure media featuring proven semiconductor strain gauge with excellent durability and stability. Appropriate model can be selected depending on the applications with pressure indication, output, installing method etc. There are two types of sensor, direct connection\r\ntype or separate type to install in the place varies on site.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1143/E-GC7_L_9P20180426.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1143/gc75.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/242.html?lng=eng"
+      }
+    },
+    "Digital differential pressure gauge": {
+      "Model No. GC15/GC16": {
+        "Short Description": "Precision Digital Pressure Gauges",
+        "Description": "GC15 For measuring gases\r\nAs silicon capacitance pressure sensor is used, it is possible to\r\nmeasure micro differential pressure with high sensitivity. Despite fine pressure measurement, it can withstand high pressure.GC16 For measuring gases and liquids\r\nBecause an evaporated type sensor with a stainless steel diaphragm is used, it is possible to measure gaseous and liquid substances. In addition, it features higher pressure resistance\r\nand prevents liquid pool.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1144/E-GC15_16_N_4P20181112S.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1144/gc15.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/243.html?lng=eng"
+      },
+      "Model No. ER63": {
+        "Short Description": "Wireless Differential Pressure Monitoring System",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3101/ER63web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/1922.html?lng=eng"
+      },
+      "Model No. GC32": {
+        "Short Description": "Digital Differential Pressure Gauge/For gas measurement (Featuring silicone diaphragm)",
+        "Description": "Compact (24 \u00d7 48) body size with various functions capable of highly sensitive differential pressure measurement. ",
+        "Features": "\r\n                    \u25cf13 various standard ranges available\r\n\r\n\u25cfMaximum allowable working pressure: 50kPa (For all standard ranges)\r\n\u25cfCompact but easy-to-read display with excellent operability\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3074/E-GC32_B_5P20171018.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3074/HP_GC32-Cs.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/1890.html?lng=eng"
+      },
+      "Model No. GC30": {
+        "Short Description": "Digital Differential Pressure Gauge",
+        "Description": "Compactly designed 30-mm-square enclosure with display, outputs and switch functions is suitable for limited space installation. It features miniaturized silicone capacitive sensor with high pressure resistance enables for highly sensitive and reliable pressure measurements. ",
+        "Features": "\r\n                    \u30fbWide differential pressure range from 50Pa to \u00b15kPa\r\n\u30fbSwitch functions (NPN or PNP open collector)\r\n\u30fb1 to 5VDC analog output (Standard)\r\n\u30fbLoop check, Pressure indication & analog output scaling, Filter, Key lock, Peak and bottom hold display and\u3000Zero point adjustment\r\n\u30fb10mm large LED (3 1/2 digit)\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3036/E-GC30_M_6P20171225.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3036/HP_newGC30.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/325.html?lng=eng"
+      },
+      "Model No. GC62": {
+        "Short Description": "Digital Differential Pressure Gauge/For gas measurement (Featuring silicone diaphragm)",
+        "Description": "Miniaturized digital differential pressure gauge with high proof pressure can replace three instruments, a pressure gauge, a transducer and a switch with incorporated Silicon Capacitive Sensor. Applications include air conditioning systems over a variety of featured functions.  ",
+        "Features": "\r\n                    \u25cfRelay contacts)\r\n\u25cfAnalog output (Option)\r\n\u25cfLoop check, display & analog output scaling (Maximum display 6000), filter, key lock, (Peak hold display) and \u3000zero point adjustment\r\n\u25cfEasy-to-read large 4 digit LED\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3035/E-GC62_U_6P20171018_6s.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3035/HP_GC62C.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/324.html?lng=eng"
+      },
+      "Model No. GC63": {
+        "Short Description": "Battery Type Digital Differential Pressure Gauge",
+        "Description": "Battery type digital differential pressure gauge\r\nrequires no wirings for easy installation and field\r\nmonitoring for applications include HVAC and\r\nsemiconductor machinery. Optionally available\r\nexternal power supply adds comparator output for\r\nvarious applications including filter clogging\r\nmonitoring.",
+        "Features": "\r\n                    \u202217mm large LCD (3 1/2 digit)\r\n\u2022Analog bar graph to easily recognize measurement status.\r\n\u2022Comparator output with external power cable (Option)\r\n\u2022Filter, Peak hold display, and Zero adjustment\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3038/E-GC63_S_4P20171218.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3038/HP_GC63-10-a1.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/327.html?lng=eng"
+      },
+      "Model No. GC50": {
+        "Short Description": "Multifunctional Digital Differential Pressure Gauge",
+        "Description": "This product is a multifunctional digital differential pressure gauge with liquid-filled highly sensitive silicon capacitance sensor for detecting micro\r\ndifferential pressure featuring sensor module consisted of stainless diaphragm (SUS316L) for wetted parts. This can be used for variety of pressure media (Gases and fluids).",
+        "Features": "\r\n                    \u2022Small, lightweight and compact\r\n\u2022Available in multifunctional models\r\n(Battery-operated, current output, alarm output)\r\n\u2022Optional Level and flow measurements\r\nSquare-root extraction, integral display, linearize function\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3037/E-GC50_L_8P20180123.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3037/20170215-113222.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/326.html?lng=eng"
+      },
+      "Model No. GC52": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This 2-wire differential pressure transmitter with pressure indicator can measure fluids and gases.Compact and lightweight.",
+        "Features": "\r\n                    \u30fbIndication and output scaling are available.\r\n\u30fbInstantaneous flow rate (Square root extraction)\r\n\u30fbBreakthrough readability with LED-backlit LCD\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9005/E-GC52_G_7P20180828.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9005/gc52.gif",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1679.html?lng=eng"
+      },
+      "Model No. GC55": {
+        "Short Description": "Digital Differential Pressure Gauge",
+        "Description": "The GC55 is a digital differential pressure gauge that senses relatively high differential pressures in gas or liquid. Equipped with pressure/differential pressure display/alarm/and analog output\r\n(optional) functions, the GC55 is ideal for a wide variety of applications.",
+        "Features": "\r\n                    \u30fbThree types of data can be acquired based on the following condition: High pressure side, low pressure side and \u3000differential pressure. Switch contacts and analog output can be set among high pressure side, low pressure side \u3000or differential pressure.\r\n\u30fbThe bright, easy-to-read 3 1/2-digit digital LED display provides switch and analog output functions.\r\n\u30fbHigh durability and corrosion resistance are ensured by SUS304 joints and SUS630 sensors, both connected by \u3000welding.\r\n\u30fbEasy to install because a three-way valve is unnecessary.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3039/E-GC55_G_5P20181115F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3039/20200410-053547.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/328.html?lng=eng"
+      },
+      "Model No. KJ92": {
+        "Short Description": "Intrinsically Safe Differential Pressure Transmitter",
+        "Description": "They are two types of 2-wire intrinsically safe pressure and differential transmitter, the GC51 based product utilizing SS sensor and GC52 based product utilizing SC sensor. Make sure to use with insulated safety\r\nbarrier. It can be used in (ZONE 0) place where potentially explosive gas always exists. It conforms to IEC based intrinsically safe specification.\r\n(Explosion class: Exia \u2161C T4)\r\nIn combination with non-intrinsically safe GC51/GC52, it can be used in a wide range of industrial process measurements (Low pressure to high pressure).",
+        "Features": "\r\n                    \u25cfCompact size and light-weight with the same appearance and operability as non-intrinsically safe GC51 and \u3000GC52.\r\n\u25cfAdjustable indication and output scaling are available.\r\n\u25cfBreakthrough readability with LED-backlit LCD\r\n\u25cfBecause the insulated safety barrier is used, Type A intrinsic safety ground work is unnecessary.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3027/E-JK9192_J_17P20181031f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3027/KJ92web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/316.html?lng=eng"
+      }
+    },
+    "Digital indicator & Meter relay": {
+      "Model No. GC84": {
+        "Short Description": "Digital Indicators",
+        "Description": "The GC8\u25a1 Digital Indicator is only used for display, and the GC9\u25a1 has comparator output like a relay, which can be used to monitor and control the pressure, etc. This receives 4 to 20mA and 1 to 5V industrial unified signals and then indicates the pressure value, eliminating individual reading errors. Because 5V power source for our pressure\r\ntransducer or 24V power source for the transmitter is built in, making wiring work easier.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2001/E-GC89_H_7P20160225.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2001/gc84.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/11/249.html?lng=eng"
+      },
+      "Model No. GC87": {
+        "Short Description": "Digital Indicators",
+        "Description": "The GC8\u25a1 Digital Indicator is only used for display, and the GC9\u25a1 has comparator output like a relay, which can be used to monitor and control the pressure, etc. This receives 4 to 20mA and 1 to 5V industrial unified signals and then indicates the pressure value, eliminating individual reading errors. Because 5V power source for our pressure\r\ntransducer or 24V power source for the transmitter is built in, making wiring work easier.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2003/E-GC89_H_7P20160225.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2003/gc87.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/11/251.html?lng=eng"
+      },
+      "Model No. GC88": {
+        "Short Description": "Digital Indicator",
+        "Description": "We offer a digital indicator series line-up with easy-to-read digital indication and alarm functions, easy wirings available for our various types of mating pressure transmitters and temperature transmitters.",
+        "Features": "\r\n                    \u25cfLoop-powered LED indication by simply\r\nconnect the indicator in series with the 4 to 20 mA loop. \u3000Now additional electrical power supply is needed for the indicator.\u25cf24 x 48 mm DIN size with compact and lightweight\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2008/E-GC88_98_95_M_4P20180131.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2008/GC88Web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/11/256.html?lng=eng"
+      }
+    },
+    "Others": {}
+  }
+}

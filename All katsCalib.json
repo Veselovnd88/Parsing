@@ -1,0 +1,9 @@
+{
+  "Inspection & Calibration instrument": {
+    "Dead weight tester": "product/application.html?p=6&c=0&lng=eng",
+    "Liquid column manometer": "product/application.html?p=6&c=1&lng=eng",
+    "Precision aneroid manometer": "product/application.html?p=6&c=2&lng=eng",
+    "Digital precision manometer": "product/application.html?p=6&c=3&lng=eng",
+    "Others": "product/application.html?p=6&c=4&lng=eng"
+  }
+}

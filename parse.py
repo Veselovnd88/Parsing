@@ -118,7 +118,7 @@ class Html:
         self.url = url
         self.params = params
         response = requests.get(self.url, headers=headers, params=self.params, timeout=5)
-        time.sleep(random.randint(1, 12))
+        time.sleep(random.randint(1, 45))
         if response.status_code == 200:
             self.content = response.text
 

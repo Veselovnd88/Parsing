@@ -1,0 +1,214 @@
+{
+  "Inspection & Calibration instrument": {
+    "Dead weight tester": {
+      "Model No. ATE2": {
+        "Short Description": "Handheld Calibrator",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9032/ATE-2.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/1914.html?lng=eng"
+      },
+      "Model No. PD13": {
+        "Short Description": "Bench Type Deadweight Tester",
+        "Description": "Dead-weight testers are used as the standard pressure gauge for inspection and calibration of other pressure gauges. They can be used as on-site bench type pressure standards in the medium pressure range (1 to 5MPa).",
+        "Features": "\r\n                    \u30fbThe PD13 is the smallest and lightest\r\n bench type deadweight tester. It incorporates a preliminary \u3000pump and a fine adjustment to make pressure adjustment easily.\r\n\u30fbPressure can also be measured by\r\n installing a test gauge instead of \r\n deadweight.\r\n\u30fbThe pressure gauge can be easily mounted and dismounted from the mounting base with the quick \u3000fastening nut.\r\n\u30fbCylinder positioning marker, level, and level adjustment bolts are the standard equipment.\r\n\u30fbJCSS Calibration Certification\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2013/E-PD13_H_20180424F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2013/PD13-2web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/261.html?lng=eng"
+      },
+      "Model No. PD23": {
+        "Short Description": "Bench Type Deadweight Tester",
+        "Description": "The PD23 Dead-Weight Testers are standard pressure gauges for inspection and calibration of other pressure gauges. They can be used as on-site bench type pressure standards in the high pressure range (10 to 50MPa).",
+        "Features": "\r\n                    \u30fbThe PD23 is for medium pressure use. \r\n A preliminary pump and fine adjustment\r\n pump are incorporated \u3000to make pressure adjustment easily.\r\n\u30fbSince there are two gauge ports, pressure measurements can be performed\r\n efficiently.\r\n\u30fbPressure can also be measured by\r\n installing a test gauge to one of the\r\n gauge ports instead of deadweight.\r\n\u30fbThe pressure gauge can be easily\r\n mounted and dismounted from the\r\n mounting base with the quick \u3000fastening nut.\r\n\u30fbLevel, and level surface adjuster are the standard equipment.\r\n\u30fbJCSS Calibration Certification\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2014/E-PD23_H_20180424F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2014/PD23-2web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/262.html?lng=eng"
+      },
+      "Model No. PD27": {
+        "Short Description": "Water Type Deadweight Tester",
+        "Description": "This tester is applied to the inspection and calibration of an oil prohibited pressure gauge, and additionally, is also used for the application of a standard pressure generator of research and manufacture instruments. As this tester is in accordance with the specifications of the standard type dead weight type pressure gauge of the measuring instrument law, the standard instrument inspection based on the measuring instrument law can be taken on request.",
+        "Features": "\r\n                    \u30fbThis is the small and lightweight deadweight tester designed with piston pressurization.\r\n\u30fbTwo pressure connections are available for conducting simultaneous two tests. (Single test\r\navailable by \u3000operating valve)\r\n\u30fbClear tank enables to see tank remaining level and the dirt of water.\r\n\u30fbPiston and cylinder are precisely fabricated. Operating media is water with less viscosity so that stable and high \u3000sensitive measurement are possible.\r\n\u30fbLess piston area and weight as compared to conventional deadweight tester. (1/2 of oil type)\r\n\u30fbThere is no need to prepare for \"Tank siphon\" even when use no oil pressure gauge should be tested.\r\n\u30fbStandard pressure tester can be utilized for measurement.\r\n\u30fbThe pressure gauge can be easily mounted and dismounted from the mounting base with the quick fastening \u3000nut.\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2022/E-PD27_20181115f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2022/PD27web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/270.html?lng=eng"
+      },
+      "Model No. PD35": {
+        "Short Description": "Deadweight testers for High Pressure",
+        "Description": "The PD35 dead-weight testers are used as the standardpressure gauge for inspection and calibration of otherpressure gauges. They can be used as an on-site pressurestandard over a wide high pressure range (100 to 300MPa).",
+        "Features": "\r\n                    \u30fbThe PD35 is electric deadweight tester\r\nwith easy manipulation by actuation of\r\nswitch controlling pressurization \u3000and depressurization, rotation frequency and preliminary pressurization.\r\n\u30fbTaking dust proofing and safety into account, the deadweight section is built-in a panel.\r\n\u30fbThe amount of deadweight is displayed on a panel which can be easily monitored and manipulated.\r\n\u30fbThe ram position is detected contactless and is displayed by a lamp on a panel so that operation is not affected \u3000regardless of its pressure value.\r\n\u30fbJCSS Calibration Certification\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2015/E-PD35_20181204f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2015/PD35web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/263.html?lng=eng"
+      },
+      "Model No. PD36": {
+        "Short Description": "Deadweight testers for High Pressure",
+        "Description": "The PD36 dead-weight testers are used as the standardpressure gauge for inspection and calibration of otherpressure gauges. They can be used as an on-site pressurestandard over a wide high pressure range (400 to 700MPa).",
+        "Features": "\r\n                    \u30fbThe PD36 is electric deadweight tester\r\nwith easy manipulation by actuation of\r\nswitch controlling pressurization \u3000and depressurization, rotation frequency and preliminary pressurization. The PD36\r\npressurizing operation is \u3000also electrically driven.\r\n\u30fbTaking dust proofing and safety into account, the deadweight section is built-in a panel.\r\n\u30fbThe amount of deadweight is displayed on a panel which can be easily monitored and manipulated.\r\n\u30fbThe ram position is detected contactless and is displayed by a lamp on a panel so that operation is not affected \u3000regardless of its pressure value.\r\n\u30fbWith the PD36, fine adjustment of the pressure can be easily performed even under very high pressure by \u3000means of a fine adjustment valve.\r\n\u30fbJCSS Calibration Certification\r\n(Measuring range 400, 500MPa)\r\n\u30fbNKS Inspection Certificate\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2016/E-PD36_20181204f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2016/PD36web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/264.html?lng=eng"
+      },
+      "Model No. PD51": {
+        "Short Description": "Portable Type Deadweight Tester",
+        "Description": "The PD51 Dead-Weight Testers are portable dead-weight typepressure standards that use a screw pump at pressurizationand decompression and have a simple construction so theycan be carried to the pressure gauge measurement site.",
+        "Features": "\r\n                    \u30fbStandard comes with level and horizontal adjustment.\r\n\u30fbConsidering portable operation, improved with larger amount of operating oil than conventional model and easy \u3000recognition of remaining oil.\r\n\u30fbThe pressure gauge can be easily mounted and dismounted from the mounting base with the quick fastening\u3000nut.\r\n\u30fbEfficient pressure measurement featured with two pressure ports.\r\n\u30fbJCSS Calibration Certification\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2017/E-PD51_20181115F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2017/PD51-1web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/265.html?lng=eng"
+      },
+      "Model No. PD63": {
+        "Short Description": "Bench Type Deadweight Tester",
+        "Description": "The PD63 Dead-Weight Testers are standard pressure gaugesfor inspection and calibration of other pressure gauges. They can be used as on-site bench type pressure standards in the high pressure range (100 to 200MPa).",
+        "Features": "\r\n                    \u30fbThe PD63 is easy-to-use small bench type deadweight tester capable of high\r\npressure measurement.\r\n\u30fbEasy pressurization possible with\r\npreliminary pump and fine adjustment\r\npump, and continuous discharge \u3000operation\r\nis also possible.\r\n\u30fbThe pressure gauge can be easily mounted and dismounted from the mounting base with the quick fastening\u3000nut.\r\n\u30fbStandard comes with level and horizontal adjustment.\r\n\u30fbJCSS Calibration Certification\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2018/E-PD63_20181115_f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2018/PD63-1web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/266.html?lng=eng"
+      },
+      "Model No. PD66": {
+        "Short Description": "Oil Type High Precision Deadweight  Tester",
+        "Description": "The PD66 dead-weight testers are used in research andproduction equipment standard generation systems, etc.They can also be used as the in-house or business officepressure standards over a wide medium to high pressurerange (5 to 50MPa).",
+        "Features": "\r\n                    \u30fbJCSS Calibration Certification\r\n\u30fbThis oil type deadweight tester designed for high precision for high pressure validation. Up to 50MPa can be\u3000measured featuring functions for efficient operation. Suitable for internal pressure standard.\r\n\u30fbEquipped preliminary pump and fine\r\nadjustment pump contributes for work\r\nhours shortening for pressurization \u3000and\r\ndepressurization.\r\n\u30fbSensor detects position and temperature of piston indicating measured values with indicator to recognize\u3000generated pressure easily. Also utilized for data correction.\r\n\u30fbDeadweight made of stainless steel to\r\nfight with rust, wear or magnetic.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2019/E-PD66_20181119F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2019/PD66web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/267.html?lng=eng"
+      },
+      "Model No. PD73": {
+        "Short Description": "Portable Type Deadweight Testers",
+        "Description": "The PD73 dead-weight testers are used as the standardpressure gauge to inspect and calibrate other pressuregauges. They can be used as on-site portable pressurestandards over a wide medium to high pressure range(1 to 50MPa).",
+        "Features": "\r\n                    \u30fbThe PD73, the portable type contributes for fast pressure measurement at arbitrary location.\r\n\u30fbStandard comes with carrying case, level and horizontal adjustment.\r\n\u30fbPressure can also be measured by\r\ninstalling a test gauge instead of\r\ndeadweight.\r\n\u30fbPossible to carry around with filled oil.\r\n\u30fbThe pressure gauge can be easily\r\nmounted and dismounted from the mounting base with the quick fastening\u3000nut.\r\n\u30fbJCSS Calibration Certification\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2020/E-PD73_20181116F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2020/PD73-1web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/268.html?lng=eng"
+      },
+      "Model No. PD77": {
+        "Short Description": "Water Type Deadweight Tester",
+        "Description": "This tester is applied to the inspection and calibration of an oil prohibited pressure gauge, and additionally, is also used for the application of a standard pressure generator of research and manufacture instruments. As this tester is in accordance with the specifications of the standard type dead weight type pressure gauge of the measuring instrument law, the standard instrument inspection based on the measuring instrument law can be taken on request.",
+        "Features": "\r\n                    \u30fbDeadweight tester equipped two pressure valves contribute for rapid pressurizing on site at arbitrary location.\r\n\u30fbFine pressure adjustment available\r\n\u30fbCarryable being filled with water\r\n\u30fbPiston and cylinder are precisely fabricated. Operating media is water with less viscosity so that stable and high \u3000sensitive measurement are possible.\r\n\u30fbLess piston area and weight as compared to conventional deadweight tester.\r\n(1/2 of oil type)\r\n\u30fbThere is no need to prepare \"Tank siphon\" even for no oil pressure gauge test.\r\n\u30fbStandard pressure tester can be utilized for measurement.\r\n\u30fbThe pressure gauge can be easily mounted and dismounted from the mounting base with the quick fastening \u3000nut.\r\n\u30fbNKS Inspection Certificate and Pressure standard Inspection available.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2023/E-PD77_20181122F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2023/PD77web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/271.html?lng=eng"
+      },
+      "Model No. PD82": {
+        "Short Description": "Dead Weight Testers",
+        "Description": "The PD82 dead-weight testers are used in research and production equipment standard generation systems, etc. They can also be used as the in-house or business office pressure standard in a width medium pressure range (0.3 to 2MPa).",
+        "Features": "\r\n                    \u30fbJCSS Calibration Certification\r\n\u30fbThe Models PD82 and 89 are high-precision dead-weight testers which use dry nitrogen as the medium.\r\n\u30fbThese models are suitable for validation for the precision pressure devices or as the pressure generation\u3000standard for various equipment.\r\n\u30fbSensor detects position and temperature of piston indicating measured values with indicator to recognize\u3000generated pressure easily. Also utilized for data correction.\r\n\u30fbDeadweight made of stainless steel to fight with rust, wear or magnetic.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2021/E-PD82_89_20181122F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2021/PD82-89web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/13/269.html?lng=eng"
+      }
+    },
+    "Liquid column manometer": {
+      "Model No. PM26\u30fbPM43": {
+        "Short Description": "Liquid Column Manometers",
+        "Description": "The pressure is measured based on the height of a liquid column (water column or mercury column) in a glass tube. The reading precision was improved by increasing the inside diameter of the glass tube. These manometers can be used as in-house pressure standards.",
+        "Features": "\r\n                    \u30fbA model with a high precision scale for calibration of high-pressure pressure gauges is also available.\r\n\u30fbA vernier type which allows pressure reading up to 1/20 scale is also available (Vernier type has a\r\nhigh accuracy \u3000pressure scale.)\r\n\u30fbThicker inside diameter of the glass tube (from 6mm dia. to 8mm dia.) has improved the accuracy of liquid level \u3000reading.\r\n\u30fbThe PM43 pressure controller has a built-in manual pump for fine adjustment which ensures better pressure \u3000control than conventional products.\r\n\u30fbAn electrically driven vacuum pump unit is available. Contact NKS if required. (Model No.: XJ26-111)\r\n\u30fbPressure standard inspection \u30fbJCSS Calibration Certification\r\n\u30fbGeneral test report available (PM26 only)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2024/E-PM26_PM43_20190510f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2024/PD43_26web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/28/272.html?lng=eng"
+      },
+      "Model No. PM1_": {
+        "Short Description": "Liquid Column Manometers",
+        "Description": "Liquid column manometers measure pressure based onthe height of a liquid column (water column or mercurycolumn) in a glass tube or the difference of height oftwo connected liquid columns, and can be used ingeneral measurement of vacuum, pressure anddifferential pressure. A U-tube type, single tube type,and inclined tube type is available. The type matched tothe application and measurement range can beselected.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2027/E-PM__C.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2027/PM12-Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/28/275.html?lng=eng"
+      }
+    },
+    "Precision aneroid manometer": {
+      "Model No. GA_": {
+        "Short Description": "Grade 0.6 Pressure Gauge",
+        "Description": "This pressure gauge is designed for high accuracy made of stainless bourdon tube with rustproof structure. High accurate pressure gauge can be utilized for high accurate pressure measurement, R&D purpose and as test gauge for calibration purpose.",
+        "Features": "\r\n                    \u30fbBourdon tube is designed for high accuracy made of stainless material (SUS316) contributing to high corrosion \u3000resistance.\r\n\u30fbIt features blow out protection in case of event when pressure gauge breaks while monitoring.\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\u3000\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not exceed three-quarters of the full-\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000scale range.\u3000\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\nexceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\u3000Select appropriate wetted parts compatible with process fluid (gas and liquid) which the gauge will be \u3000subjected.\r\n\u3000Please refer to JIS B 7505-1 for details.\uff0aSpecify use no oil for oxygen service.\r\nSpecify corrosion resistant and use no oil for Acetylene measurement\r\n\u3000application.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1008/E-GA____E_8P20200409s.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1008/JIS0.6web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/4/112.html?lng=eng"
+      },
+      "Model No. GP__": {
+        "Short Description": "Precision Pressure Gauge",
+        "Description": "This precision pressure gauge is designed in accordance with Nagano's traceability chain for the use with standard gauge for inspection and calibration, and also for pressure indicator of pressure generator.",
+        "Features": "\r\n                    \u2022Easy-to-read large scale of pressure indication available.\r\n\u2022Precise pressure indication minimizing error yielded by friction by magnifying mechanism.\r\n\u2022Zero adjustment can be done by simple operation for the stable measurement.\r\n\uff0aPressure gauge should be selected considering media compatible with wetted parts.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1020/20170608-100130.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1020/GP35-1_Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/4/124.html?lng=eng"
+      },
+      "Model No. GA__": {
+        "Short Description": "Grade 0.5 Pressure Gauges",
+        "Description": "This pressure gauge has been designed for high-precision applications and is equipped with a stainless steel Bourdon tube. Its case is of dustproof type. As a gauge high-precision measurement for research work, this pressure gauge is used for research and experiment, and for calibrating secondary gauges as a standard pressure gauge.",
+        "Features": "\r\n                    +A Bourdon tube of this gauge has been especially designed for high-precision applications. This Bourdon tube is also provided with excellent corrosion resistance.+To secure safety of operation in case this pressure gauge breaks during direct reading, a blowout disk window is provided as a standard.*In case of selecting pressure gauge, choose the pressure range which can be used in between 30-65% of full scale, so that the gauge can give its full capacity.*Also should be confirmed whether the wetted parts material is suit able for the fluid or not.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1007/ga__.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1007/ga__.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/4/111.html?lng=eng"
+      }
+    },
+    "Digital precision manometer": {
+      "Model No. GC15/GC16": {
+        "Short Description": "Precision Digital Pressure Gauges",
+        "Description": "GC15 For measuring gases\r\nAs silicon capacitance pressure sensor is used, it is possible to\r\nmeasure micro differential pressure with high sensitivity. Despite fine pressure measurement, it can withstand high pressure.GC16 For measuring gases and liquids\r\nBecause an evaporated type sensor with a stainless steel diaphragm is used, it is possible to measure gaseous and liquid substances. In addition, it features higher pressure resistance\r\nand prevents liquid pool.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1144/E-GC15_16_N_4P20181112S.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1144/gc15.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/243.html?lng=eng"
+      },
+      "Model No. PC20": {
+        "Short Description": "Programmable Pressure Controller",
+        "Description": "Stable pressure control with rapid and precise operation.\r\nThis product can support for improving performance of inspection and calibration process. Automatic\r\nlabor-saving for inspection device is possible with its pressure control ability.\r\nThrough automatic control of pressure generation and\r\nincreasing/decreasing speed, the equipment enables a\r\ntest process regardless of operator's skill, improving the\r\ntest accuracy and remarkably reducing the test time\r\n(Takt time).",
+        "Features": "\r\n                    \u25cf Testing on instruments and converters\r\n\u3000 \u3000\uff0aRegulating valve, I/P positioner\r\n\u3000 \u3000\uff0aPressure measurement and conversion instruments\r\n\u25cf Testing and calibration on medical instrumentation\r\n\u3000 \u3000\uff0aSphygmomanometer\r\n\u3000 \u3000\uff0aInhaler, gas insufflator\r\n\u25cf Testing on pressure vessels and safety parts\r\n\u3000 \u3000\uff0aAutomobile parts\r\n\u3000 \u3000\uff0aGas treatment equipment\r\n\u3000 \u3000\uff0aPneumatic devices\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2028/EC-PC20_25I_8P20180426.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2028/pc20.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/14/276.html?lng=eng"
+      },
+      "Model No. PC25PC28": {
+        "Short Description": "Programmable Pressure Controller",
+        "Description": "Stable pressure control with rapid and precise operation.\r\nThis product can support for improving performance of inspection and calibration process. Automatic\r\nlabor-saving for inspection device is possible with its pressure control ability.\r\nThrough automatic control of pressure generation and\r\nincreasing/decreasing speed, the equipment enables a\r\ntest process regardless of operator's skill, improving the\r\ntest accuracy and remarkably reducing the test time\r\n(Takt time).",
+        "Features": "\r\n                    \u25cf Testing on instruments and converters\r\n\u3000 \u3000\uff0aRegulating valve, I/P positioner\r\n\u3000 \u3000\uff0aPressure measurement and conversion instruments\r\n\u25cf Testing and calibration on medical instrumentation\r\n\u3000 \u3000\uff0aSphygmomanometer\r\n\u3000 \u3000\uff0aInhaler, gas insufflator\r\n\u25cf Testing on pressure vessels and safety parts\r\n\u3000 \u3000\uff0aAutomobile parts\r\n\u3000 \u3000\uff0aGas treatment equipment\r\n\u3000 \u3000\uff0aPneumatic devices\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2029/EC-PC20_25_I_8P20180426.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2029/pc25.gif",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/14/277.html?lng=eng"
+      }
+    },
+    "Others": {
+      "Model No. GC66": {
+        "Short Description": "Digital Pressure Checker",
+        "Description": "This pocket carry digital pressure gauge for low pressure through medium pressure measurements can be used for periodical inspection or maintenance. Feature includes airtight test which can be easily performed on pipe and tool. 100Pa\r\nfor low pressure and 1000kPa for medium pressure are available.",
+        "Features": "\r\n                    \u30fbDigital pressure indication for accurate pressure reading\r\n\u30fbSimple construction with less moving parts which can achieve excellent vibration and shock resistance. \u3000Almost no position effect is exhibited\r\n\u30fbFeature including airtight test which can be easily performed on pipe and tool\r\n\u30fbSmall and lightweight with lithium battery\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1133/E-GC66_K_3P20180411.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1133/GC66-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/10/233.html?lng=eng"
+      },
+      "Model No. PC20": {
+        "Short Description": "Programmable Pressure Controller",
+        "Description": "Stable pressure control with rapid and precise operation.\r\nThis product can support for improving performance of inspection and calibration process. Automatic\r\nlabor-saving for inspection device is possible with its pressure control ability.\r\nThrough automatic control of pressure generation and\r\nincreasing/decreasing speed, the equipment enables a\r\ntest process regardless of operator's skill, improving the\r\ntest accuracy and remarkably reducing the test time\r\n(Takt time).",
+        "Features": "\r\n                    \u25cf Testing on instruments and converters\r\n\u3000 \u3000\uff0aRegulating valve, I/P positioner\r\n\u3000 \u3000\uff0aPressure measurement and conversion instruments\r\n\u25cf Testing and calibration on medical instrumentation\r\n\u3000 \u3000\uff0aSphygmomanometer\r\n\u3000 \u3000\uff0aInhaler, gas insufflator\r\n\u25cf Testing on pressure vessels and safety parts\r\n\u3000 \u3000\uff0aAutomobile parts\r\n\u3000 \u3000\uff0aGas treatment equipment\r\n\u3000 \u3000\uff0aPneumatic devices\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2028/EC-PC20_25I_8P20180426.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2028/pc20.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/14/276.html?lng=eng"
+      },
+      "Model No. PC25PC28": {
+        "Short Description": "Programmable Pressure Controller",
+        "Description": "Stable pressure control with rapid and precise operation.\r\nThis product can support for improving performance of inspection and calibration process. Automatic\r\nlabor-saving for inspection device is possible with its pressure control ability.\r\nThrough automatic control of pressure generation and\r\nincreasing/decreasing speed, the equipment enables a\r\ntest process regardless of operator's skill, improving the\r\ntest accuracy and remarkably reducing the test time\r\n(Takt time).",
+        "Features": "\r\n                    \u25cf Testing on instruments and converters\r\n\u3000 \u3000\uff0aRegulating valve, I/P positioner\r\n\u3000 \u3000\uff0aPressure measurement and conversion instruments\r\n\u25cf Testing and calibration on medical instrumentation\r\n\u3000 \u3000\uff0aSphygmomanometer\r\n\u3000 \u3000\uff0aInhaler, gas insufflator\r\n\u25cf Testing on pressure vessels and safety parts\r\n\u3000 \u3000\uff0aAutomobile parts\r\n\u3000 \u3000\uff0aGas treatment equipment\r\n\u3000 \u3000\uff0aPneumatic devices\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2029/EC-PC20_25_I_8P20180426.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2029/pc25.gif",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/14/277.html?lng=eng"
+      },
+      "Model No. PC70": {
+        "Short Description": "Pressure Controller",
+        "Description": "An pneumatic servo valve and a high-precision sensor are built in this pressure controller, various types of air pressure patterns based on the manual and automatic mode can be generated. This pressure controller is appropriate for research laboratory application, pressure generation in automatic lines, adjustment of pressure installation and inspection equipment.",
+        "Features": "\r\n                    +Twelve positive pressure types(maximum 1 MPa), 5 compound pressure types(maximum 400 kPa) and an absolute pressure type are provided.+Equally divided dividers from 1 to 20 can be set. Sweeping and pressure holding time can be selected from 10 types(1.2 seconds to 20 minutes).+Up to 21 points, an optional point can be set. Sweeping and pressure holding time between points can be set respectively, generating pressures randomly.+A repetition up to 99 and infinite times in the automatic mode can be set. Step sending in the manual mode can be possible.+Four types of unit changeover can be possible.+The GP-1B type recorder output terminal is provided.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2031/pc70.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2031/pc70.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/14/279.html?lng=eng"
+      },
+      "Model No. PF": {
+        "Short Description": "FBG datalogger\u3001FBG sensor",
+        "Description": "FBG (Fiber Brag Grating) Sensor\u201d can monitor various physical quantities including strain, acceleration and displacement using light , and Multi-functional FBG Data Logger designed especially for measuring FBG wavelength is also available pursuing its ease of use.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9010/PF20_E_161227.pdf",
+        "Image": "http://products.naganokeiki.co.jp/common/img/case/index/img02.png",
+        "URL": "http://products.naganokeiki.co.jp/product/2/44/53/1702.html?lng=eng"
+      }
+    }
+  }
+}

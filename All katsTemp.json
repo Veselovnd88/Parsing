@@ -1,0 +1,10 @@
+{
+  "Temperature gauge": {
+    "Bimetal type": "product/application.html?p=4&c=0&lng=eng",
+    "Filled system type": "product/application.html?p=4&c=1&lng=eng",
+    "Indicator with switch": "product/application.html?p=4&c=2&lng=eng",
+    "Swich": "product/application.html?p=4&c=3&lng=eng",
+    "Transmitter": "product/application.html?p=4&c=4&lng=eng",
+    "Others": "product/application.html?p=4&c=5&lng=eng"
+  }
+}

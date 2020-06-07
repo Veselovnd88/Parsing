@@ -1,0 +1,67 @@
+{
+  "Flow & Heat meter": {
+    "Flowmeter for water": {
+      "Model No. NV6": {
+        "Short Description": "Differential Pressure Didital Flowmeter",
+        "Description": "This product is a differential pressure digital flowmeter mounting a high-sensitivity silicon capacitance sensor for detecting micro differential pressure. The flow rate detector can be selected from the Pitot or Orifice type,allowing it to be used for liquid flow rate measurement applications.The product mounts the multifunction display and operation unit enabling selection of the display and output forms according to each individual application.",
+        "Features": "\r\n                    Digital flowmerter detects the differential pressure caused by the flow velocity inside the pipe through the combination of a Piitot tube and digital differential pressure gauge and transmitter.The compact and light-weight design allows the flowmeter to be installed on cool and hot water pipes for building air conditioning systems,plant facilities,etc.Digital flowmerter detects the differential pressure caused by the flow velocity inside the pipe through the combination of an Orifice  and digital differential pressure gauge and transmitter.The flowmeter applies diverse process connections(screws,flanges,and fit-in)and can be mounted to field pipes compactly.\r\n                ",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6003/nv60.gif",
+        "URL": "http://products.naganokeiki.co.jp/product/2/33/34/1625.html?lng=eng"
+      },
+      "Model No. NV6/8 Series": {
+        "Short Description": "Differential Pressure Digital Flowmeter",
+        "Description": "High-Sensitivity Differential Pressure Sensor and Flow Rate Detector Integrated in a Compact SizeContributing to Energy-Saving Control Measurement through Remarkably Laborsaving Installation WorksThis product is a differential pressure digital flowmeter mounting a high-sensitivity silicon capacitance sensor for detecting micro differential pressure.The flow rate detector can be selected from the Pitot or Orifice type, allowing it to be used for liquid flow rate measurement applications. The product mounts the multifunction display and operation unit enabling selection of the display and output forms according to each individual application.",
+        "Features": "\r\n                    NV8 is a compact flowmeter in small-sized to improve difference pressure accuracy and environmental resistance.It has the LCD with the backlight which is easy to see while it is 2 wire type output.\r\n                ",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6004/NV8.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/33/34/1626.html?lng=eng"
+      },
+      "Model No. NJ81NJ82NJ83": {
+        "Short Description": "Intrinsic Safety Explosion-Proof Construction Differential Pressure Digital Flowmeter",
+        "Description": "These products are differential pressure digital flowmeters whichi use a KJ92 2-wire differenthial pressure transmitter whith an intrinsically safe explosion-proof construction. Conforming to IEC intrinsically safe explosin-proof specification, they can be used in ZONE 0 areas where an explosive gas always exists. (Explosion class:Exia \u2161 CT4)",
+        "Features": "\r\n                    Easy-to-read LED backlit LCD display is extremely visible in dark places and at night. Built-in scaling function allows adjustment of the display and output range.Six-digit displacement can be displayed alternately with the scaling display or independently.Because an insulated safety barrier is used, Type A intrinsically safe explosion-proof grounding work is unnecessary.\r\n                ",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6005/NJ8.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/33/34/1627.html?lng=eng"
+      },
+      "Model No. NV1": {
+        "Short Description": "Flow\u3000Gauge",
+        "Description": "By only mounting this flowmeter on a pipeline ,you can read the current flowrate on the scale.Because of easily the same as pressure gauges.It can be used in a wide variety of  application,such as economic flow control and the monitoring of cooling water.",
+        "Features": "\r\n                    +Measuring element and display element are integrated in a compact body.+Robust and low cost because structured by minimum number of parts.+Power supply is unnecessary.+No movaable part due to the method for detecting differential pressure\r\n                ",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6013/NV11C.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/33/34/1635.html?lng=eng"
+      }
+    },
+    "Flowmeter For air & gas": {
+      "Model No. NV91": {
+        "Short Description": "Differential Pressure Type Flowmeter For Gas",
+        "Description": "This product is a differential pressure flowmeter for gas equipped with temperature and a pressure compensation function. It use Orifice to detect flow rate.It was equipped with four sensors (a differential pressuresensor,a temperatuter sensors, an atmspheric pressure sensorand was unifield to compact.",
+        "Features": "\r\n                    Easy-to-see 5-digit LED indication.Temperature and pressure compensating function included.Standard volumetric flow rate and mass flow rate calculation function included.Flow rate, differential pressure, pressure and tenperature output available.Analog output scaling function included.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/6006/C-09NV9_D2.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6006/NV91.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/33/34/1628.html?lng=eng"
+      },
+      "Model No. NV94": {
+        "Short Description": "Differential Pressure Type Flowmeter For Gas (Laminar Flow Type)",
+        "Description": "This product is a gas flowmeter with laminated flow element and temperature andpressure compensation function.The viscosity resistance of the gas is used, and display of linear value versusdifferential pressure is possible.Installation does not require a straight pipe section so compactness is realized. It alsohas abundant display and output functions.",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6007/NV94web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/33/34/1629.html?lng=eng"
+      }
+    },
+    "Heatmeter & Heatmonitor": {
+      "Model No. NV7 Series": {
+        "Short Description": "Differential Pressure Type Calorie Monitor",
+        "Description": "Meaauring the calorie with high-sensitivity differential pressure and temperature sensors.",
+        "Features": "\r\n                    The NV70 is a differential pressure type calorie monitor with a high-sensitivity silicon capacitor sensor which detects small pressure differentials.With the temperature sensor mounted on the pitot tube, the NV70 monitors the calorie based on the flow rate and temperature difference.  It also features a multi-function operation/display unit, allowing the display and output to be set for various applications.\r\n                ",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6002/nv70.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/33/34/1624.html?lng=eng"
+      }
+    },
+    "Others": {}
+  }
+}

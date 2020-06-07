@@ -1,0 +1,8 @@
+{
+  "Flow & Heat meter": {
+    "Flowmeter for water": "product/application.html?p=5&c=0&lng=eng",
+    "Flowmeter For air & gas": "product/application.html?p=5&c=1&lng=eng",
+    "Heatmeter & Heatmonitor": "product/application.html?p=5&c=2&lng=eng",
+    "Others": "product/application.html?p=5&c=3&lng=eng"
+  }
+}
