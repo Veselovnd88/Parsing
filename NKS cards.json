@@ -1,52 +1,32 @@
 {
   "Pressure gauge": [
     {
-      "Others": []
-    }
-  ],
-  "Pressure switch": [
-    {
-      "Others": []
-    }
-  ],
-  "Pressure sensor": [
-    {
-      "Others": [
-        "product/2/3/12/260.html?lng=eng",
-        "product/2/3/12/259.html?lng=eng",
-        "product/2/44/53/1702.html?lng=eng"
+      "Pressure gauge (Compound, Vacuum)": [
+        "product/2/3/4/1920.html?lng=eng",
+        "product/2/3/4/1921.html?lng=eng",
+        "product/2/3/4/1722.html?lng=eng",
+        "product/2/3/4/1723.html?lng=eng",
+        "product/2/3/4/108.html?lng=eng",
+        "product/2/3/4/111.html?lng=eng",
+        "product/2/3/4/112.html?lng=eng",
+        "product/2/3/4/110.html?lng=eng",
+        "product/2/3/4/115.html?lng=eng",
+        "product/2/3/4/1812.html?lng=eng"
       ]
-    }
-  ],
-  "Digital pressure gauge": [
+    },
     {
-      "Others": []
-    }
-  ],
-  "Temperature gauge": [
-    {
-      "Others": []
-    }
-  ],
-  "Flow & Heat meter": [
-    {
-      "Others": []
-    }
-  ],
-  "Inspection & Calibration instrument": [
-    {
-      "Others": [
-        "product/2/3/10/233.html?lng=eng",
-        "product/2/3/14/276.html?lng=eng",
-        "product/2/3/14/277.html?lng=eng",
-        "product/2/3/14/279.html?lng=eng",
-        "product/2/44/53/1702.html?lng=eng"
+      "Differencial pressure gauge": [
+        "product/2/19/20/1613.html?lng=eng",
+        "product/2/19/20/300.html?lng=eng",
+        "product/2/19/20/293.html?lng=eng",
+        "product/2/19/20/294.html?lng=eng",
+        "product/2/19/20/295.html?lng=eng",
+        "product/2/19/20/297.html?lng=eng",
+        "product/2/19/20/299.html?lng=eng",
+        "product/2/19/20/296.html?lng=eng",
+        "product/2/19/20/298.html?lng=eng",
+        "product/2/19/20/292.html?lng=eng"
       ]
-    }
-  ],
-  "Accessory and Others": [
-    {
-      "Others": []
     }
   ]
 }

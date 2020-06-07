@@ -6,6 +6,7 @@ import openpyxl
 import datetime
 import time
 import os
+import random
 
 
 def create_path():
@@ -117,10 +118,11 @@ class Html:
         self.url = url
         self.params = params
         response = requests.get(self.url, headers=headers, params=self.params, timeout=5)
+        time.sleep(random.randint(1, 12))
         if response.status_code == 200:
             self.content = response.text
-            time.sleep(6)
-            print('Status OK')
+
+            print('Go to ', self.url, 'Status OK')
             return self.content
         else:
             print('Error')
@@ -387,7 +389,7 @@ class NksParse(Html):
         soup = BeautifulSoup(self.content, 'html.parser')
         data = soup.find('div', class_="productTab-main")
         pages = {}
-        subdata = soup.find_all('div', class_= 'productTab-sub')
+        subdata = soup.find_all('div', class_='productTab-sub')
 
         page = data.find_all('a')
 
@@ -408,11 +410,11 @@ class NksParse(Html):
             title_page = i.get_text()
             result = i.get('href')
             pages[title_page] = subpageslist[koeff]
-            koeff+=1
+            koeff += 1
 
         return pages
 
-    def get_cards(self,jsonfile):
+    def get_cards(self, jsonfile):
         """парсит каждую страничку, собирает номера карточек, возвращает список этих карточек
         и название категории
         :return dict
@@ -420,51 +422,36 @@ class NksParse(Html):
         print('Получаем список карточек ')
         # pages = self.get_pages() - если парсить по по новой
         pages = self.from_json(jsonfile)
-
         page_dict = {}
-
         for key in pages:  # Страница со всеми продуктами
-            for elem in pages[key]:
+            cards = []  # Список из словарей - название категории - ссылки
+            for elem in pages[key]:  # для каждого раздела
                 print('Читаем страницу ' + key, ' раздел ', elem)
-
                 card_url = self.prefix + pages[key][elem]
-                cards = []
                 content = self.get_content(card_url)
-                print(card_url)  # TODO добавить сюда название подвкладки, будет всё таки словрик
-                int_pages = self.internal_pages(content)
                 card_dict = {}
-                urls_lst=[]
-                if int_pages:  # Если есть подкатегории
-                    print("Несколько подкатегорий")
-
-                    for part in int_pages:
-                        page_url = self.prefix+int_pages[part]
-                        print(page_url)
+                urls_lst = []
+                pages_quantity = self._pages_qnt(content)
+                if pages_quantity:  # если несколько страниц
+                    print('Несколько вкладок')
+                    for page in self._pages_qnt(content):
+                        page_url = self.prefix + page
                         content = self.get_content(page_url)
-                        pages_quantity = self._pages_qnt(content)
-
-                        if pages_quantity:  # если несколько страниц
-                            print('Несколько вкладок')
-                            for page in self._pages_qnt(content):
-                                page_url = self.prefix + page
-                                content = self.get_content(page_url)
-
-                                soup = BeautifulSoup(content, 'html.parser')
-                                data = soup.find_all('a', class_='productItem')
-
-                                for item in data:
-                                    urls_lst.append(item.get('href'))
-                                card_dict[elem]=urls_lst
-
-                        else:
-                            print('Одна вкладка')
-                            soup = BeautifulSoup(content, 'html.parser')
-                            data = soup.find_all('a', class_='productItem')
-                            for item in data:
-                                urls_lst.append(item.get('href'))
-                            card_dict[elem]=urls_lst
-                        cards.append(card_dict)  # TODO перезаписывает словари и сохраняет только последний
-                    page_dict[key] = cards
+                        soup = BeautifulSoup(content, 'html.parser')
+                        data = soup.find_all('a', class_='productItem')
+                        for item in data:
+                            urls_lst.append(item.get('href'))
+                    card_dict[elem] = urls_lst
+                    cards.append(card_dict)
+                else:
+                    print('Одна вкладка')
+                    soup = BeautifulSoup(content, 'html.parser')
+                    data = soup.find_all('a', class_='productItem')
+                    for item in data:
+                        urls_lst.append(item.get('href'))
+                    card_dict[elem] = urls_lst
+                    cards.append(card_dict)
+                page_dict[key] = cards
         return page_dict
 
     @staticmethod
@@ -490,6 +477,7 @@ class NksParse(Html):
             return pageslist
         else:
             return None
+
     @staticmethod
     def internal_pages(content):
         """
@@ -505,7 +493,7 @@ class NksParse(Html):
         title = int_pages.get_text()
         print(title)
         url = int_pages.get('href')
-        int_pages_list[title]= url
+        int_pages_list[title] = url
 
         print(int_pages_list)
         return int_pages_list

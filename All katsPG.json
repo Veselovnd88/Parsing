@@ -1,0 +1,10 @@
+{
+  "Pressure gauge": {
+    "Pressure gauge (Compound, Vacuum)": "product/application.html?p=0&c=0&lng=eng",
+    "Differencial pressure gauge": "product/application.html?p=0&c=1&lng=eng",
+    "Low pressure gauge": "product/application.html?p=0&c=2&lng=eng",
+    "Absolute pressure gauge": "product/application.html?p=0&c=3&lng=eng",
+    "Diaphragm-seal type products": "product/application.html?p=0&c=4&lng=eng",
+    "Others": "product/application.html?p=0&c=5&lng=eng"
+  }
+}
