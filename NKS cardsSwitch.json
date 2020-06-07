@@ -1,39 +1,4 @@
 {
-  "Pressure gauge": [
-    {
-      "Pressure gauge (Compound, Vacuum)": [
-        "product/2/3/4/1920.html?lng=eng",
-        "product/2/3/4/1921.html?lng=eng",
-        "product/2/3/4/1722.html?lng=eng",
-        "product/2/3/4/1723.html?lng=eng",
-        "product/2/3/4/108.html?lng=eng",
-        "product/2/3/4/111.html?lng=eng",
-        "product/2/3/4/112.html?lng=eng",
-        "product/2/3/4/110.html?lng=eng",
-        "product/2/3/4/115.html?lng=eng",
-        "product/2/3/4/1812.html?lng=eng",
-        "product/2/3/4/125.html?lng=eng",
-        "product/2/3/4/116.html?lng=eng",
-        "product/2/3/4/124.html?lng=eng",
-        "product/2/3/4/109.html?lng=eng",
-        "product/2/3/4/133.html?lng=eng",
-        "product/2/3/4/107.html?lng=eng",
-        "product/2/3/4/113.html?lng=eng",
-        "product/2/3/4/1813.html?lng=eng",
-        "product/2/3/4/127.html?lng=eng",
-        "product/2/3/4/135.html?lng=eng",
-        "product/2/3/4/134.html?lng=eng",
-        "product/2/3/4/129.html?lng=eng",
-        "product/2/3/4/130.html?lng=eng",
-        "product/2/3/4/123.html?lng=eng",
-        "product/2/3/4/132.html?lng=eng",
-        "product/2/3/4/128.html?lng=eng",
-        "product/2/3/4/121.html?lng=eng",
-        "product/2/3/4/122.html?lng=eng",
-        "product/2/3/8/1699.html?lng=eng"
-      ]
-    }
-  ],
   "Pressure switch": [
     {
       "Mechanical type ": [
@@ -43,8 +8,8 @@
         "product/2/19/23/310.html?lng=eng",
         "product/2/3/7/161.html?lng=eng",
         "product/2/19/23/306.html?lng=eng",
-        "product/2/19/23/313.html?lng=eng",
         "product/2/19/23/307.html?lng=eng",
+        "product/2/19/23/313.html?lng=eng",
         "product/2/19/23/311.html?lng=eng",
         "product/2/3/7/156.html?lng=eng",
         "product/2/3/7/146.html?lng=eng",
@@ -72,6 +37,36 @@
         "product/2/3/7/155.html?lng=eng",
         "product/2/19/23/308.html?lng=eng"
       ]
+    },
+    {
+      "Electric type": [
+        "product/2/3/7/1891.html?lng=eng",
+        "product/2/3/7/1892.html?lng=eng",
+        "product/2/3/7/167.html?lng=eng",
+        "product/2/3/7/171.html?lng=eng",
+        "product/2/3/7/1875.html?lng=eng"
+      ]
+    },
+    {
+      "Indicator with switch": [
+        "product/2/3/6/1911.html?lng=eng",
+        "product/2/19/22/1681.html?lng=eng",
+        "product/2/19/22/305.html?lng=eng",
+        "product/2/19/22/304.html?lng=eng",
+        "product/2/3/6/136.html?lng=eng",
+        "product/2/3/6/138.html?lng=eng",
+        "product/2/3/6/139.html?lng=eng",
+        "product/2/19/22/303.html?lng=eng",
+        "product/2/3/6/140.html?lng=eng",
+        "product/2/3/6/143.html?lng=eng",
+        "product/2/3/6/144.html?lng=eng",
+        "product/2/3/6/137.html?lng=eng",
+        "product/2/3/6/1727.html?lng=eng",
+        "product/2/3/6/141.html?lng=eng"
+      ]
+    },
+    {
+      "Others": []
     }
   ]
 }

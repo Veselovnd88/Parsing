@@ -1,0 +1,427 @@
+{
+  "Pressure switch": {
+    "Mechanical type ": {
+      "Model No. CD71": {
+        "Short Description": "Explosion-Protected Construction Differential Pressure Switch",
+        "Description": "This differential pressure switch for low\r\npressure measurement with high proof\r\npressure is available in monitor and alarm for\r\nclosed tank level measurement and detecting\r\nclogged strainer in pipeline.\r\nMiniaturization has been achieved by\r\nsubstantially reducing their volume ratio\r\ncompared to that of conventional models.",
+        "Features": "\r\n                    \u30fbUnique pressure sensing part construction makes\r\na high 8MPa proof pressure possible.\r\n\u30fbSetting can be operated at front side.\r\n\u30fbFinished by acid-proof coating on surface to\r\nprevent from rust by salt damage.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3023/E-CD71-A-7P_1611.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3023/CD71web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/312.html?lng=eng"
+      },
+      "Model No. CD81": {
+        "Short Description": "Flame Proof Type Differential Pressure Switch",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/#",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9030/CD81web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/1907.html?lng=eng"
+      },
+      "Model No. CL14": {
+        "Short Description": "Differential Pressure Switch",
+        "Description": "This differential pressure switch is desinged for detecting air filter pressure drop used in an air-conditioning system and warning for filter clogging, etc.  Applications include clean room/bioclean room pressure monitoring. \r\n\u25cfFilter clogg monitoring\r\n\u25cfClean room pressure monitoring",
+        "Features": "\r\n                    \u25cfEasy adjustment of setpoit is possible by dial setting.     \r\n\u25cfAdopted high reliable and high capacity microswitch improve setting accuarcy. \r\n\u25cfDust and splash protection (IP54)\r\n\u25cfWith its transparent cover, the setting point can be easily checked.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3020/E-CL14_K_4P20171114.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3020/CL14_newweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/309.html?lng=eng"
+      },
+      "Model No. CL13": {
+        "Short Description": "Differential Pressure Switch",
+        "Description": "This differential pressure switch is desinged for detecting air filter pressure drop used in an air-conditioning system and warning for filter clogging, etc.  Applications include clean room/bioclean room pressure monitoring.",
+        "Features": "\r\n                    \u25cfThis high sensitive and reliable pressure switch utilizes diaphragm made of silicone rubber improving its proof \u3000pressure.  \r\n\u25cfEasy adjustment of setpoit is possible by dial setting. \r\n\u25cfDial lock function can eliminate shift of set point due to vibration etc. \r\n\u25cfAdopted high reliable and high capacity microswitch improve setting accuarcy. \r\n\u25cfSmall and lightweight\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3021/E-CL13_J_4P20180410.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3021/20161004-103056.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/310.html?lng=eng"
+      },
+      "Model No. CB33": {
+        "Short Description": "Pressure Switch",
+        "Description": "This deadband adjustable pressure switch with excellent vibration-proof accomplished through the use of double snap acting design, utilizing Belleville spring, is suitable for direct control of equipment.",
+        "Features": "\r\n                    \u30fbCE compliance\r\n\u30fbIP66 (Waterproof with equivalent NEMA4 protection)\r\n\u30fbAdjustable range of deadband is 3 to 20% max.P.\r\n\u3000(Excluding rated pressure range of 1.5 to 13 (1.5 to 15) MPa)\r\n\u30fbFinished by acid-proof coating on surface to prevent from rust by salt damage.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1058/EC-CB33_B_6P20180409.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1058/CB33webnew.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/161.html?lng=eng"
+      },
+      "Model No. CL71": {
+        "Short Description": "Differential Pressure Switch",
+        "Description": "This differential pressure switch for low\r\npressure measurement with high proof\r\npressure is available in monitor and alarm for\r\nclosed tank level measurement and detecting\r\nclogged strainer in pipeline.\r\nMiniaturization has been achieved by\r\nsubstantially reducing their volume ratio\r\ncompared to that of conventional models.",
+        "Features": "\r\n                    \u30fbCE compliance\r\n\u30fbIP66 (Waterproof with equivalent NEMA4\r\nprotection)\r\n\u30fbUnique pressure sensing part construction makes a high 8MPa proof pressure possible.\r\n\u30fbSetting can be operated at front side.\r\n\u30fbFinished by acid-proof coating on surface to prevent from rust by salt damage.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3017/E-CL71-A-5P_1611.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3017/CL71webnew.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/306.html?lng=eng"
+      },
+      "Model No. CL70": {
+        "Short Description": "Differential Pressure Switch",
+        "Description": "These are bellows type differential pressure switches usedprimarily for detecting the draft pressure in thermal powerplants, and are much smaller than conventional models.",
+        "Features": "\r\n                    \uff65Compound range can handle inverse differential pressure.\uff65Suitable for low differential pressure and warning use.\uff65Since they can be operation from the front, maintenance issimple.\uff65Acid-proof coating prevents rusting of the coated surface by salt damage.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3018/E-CL70CD70O20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3018/cl70.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/307.html?lng=eng"
+      },
+      "Model No. CD70": {
+        "Short Description": "Explosion-Protected Construction Differential Pressure Switch",
+        "Description": "These are bellows type differential pressure switches usedprimarily for detecting the draft pressure in thermal powerplants, and are much smaller than conventional models.",
+        "Features": "\r\n                    \uff65Compound range can handle inverse differential pressure.\uff65Suitable for low differential pressure and warning use.\uff65Since they can be operation from the front, maintenance issimple.\uff65Acid-proof coating prevents rusting of the coated surface by salt damage.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3024/E-CL70CD70O20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3024/CD70Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/313.html?lng=eng"
+      },
+      "Model No. CL11": {
+        "Short Description": "Differential Pressure Switch",
+        "Description": "This is a pressure gauge which has been designed to measure minute differential pressure of 2 kPa(200 mmH2O) or smaller. For the contactor, a microswitch rich in application and with high reliability has been applied.",
+        "Features": "\r\n                    +This gauge is appropriate for measuring minute differential pressure.+To output a large driving force by equipping a large diameter diaphragm, this pressure switch is equipped with a relatively large rating microswitch.+A 60 DIA. setting indication dial is built in, and the setting is easily performed by the setting knob.+Electric parts including a microswitch. etc. are separately installed from measuring liquid by a seal bellows.*Using This Differential Pressure Switch If the pressure larger than differential pressure is applied to the one pressure connecting port, the mechanism of the differential pressure switch will be damaged. So, careful attention is required. Especially at the time of starting and finishing, this type of phenomena can occur. Therefore, a bypass cock or a bypass valve is recommended.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3022/cl11.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3022/cl11.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/311.html?lng=eng"
+      },
+      "Model No. CD30": {
+        "Short Description": "Pressure Switch Explosion-Protected Construction Pressure Switch",
+        "Description": "This is a highly reliable pressure switch in which a special Bourdon tube, demonstrating excellent durability, is applied. Especially, excellent vibration resistance is demonstrated and as a job site pressure gauge this is applied to the control of equipment.",
+        "Features": "\r\n                    \uff65 With the application of a special Bourdon tube principally manufactured for high durability, this pressure switch demonstrates excellent vibration resistance.\r\n\uff65 The one contact type or two contact type can be selected. With the two contact type, the setting of upper limit and lower limit can be possible.\r\n\uff65 An explosion resistant switch with light weight has been realized. \r\n   (installed in an aluminum die-cast case)\r\n\uff65 Setting and locking can be performed from the exterior without removing the cover.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1053/E-CD30H20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1053/cd30.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/156.html?lng=eng"
+      },
+      "Model No. CQ20": {
+        "Short Description": "Pressure Switch",
+        "Description": "This pressure switch uses a Bourdon tube as the pressure sensing  element. Displacement of the Bourdon tube is directly transferred to the microswitch to open or close. This switch is suitable for liquid-level control, flow control and controls of various fluid pressure, air, water, \r\noil etc.",
+        "Features": "\r\n                    \uff65Stable switching by snap actions of the microswitch. \r\n\uff65Good vibration proof to be directly mounted on field equipment. \r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1043/E-CQ20G3-20170111.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1043/CQ20newweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/146.html?lng=eng"
+      },
+      "Model No. CQ30": {
+        "Short Description": "Pressure Switch",
+        "Description": "This is a pressure switch with outstanding safety characteristics using a microswitch for contact mechanism.This switch can be manufactured over a wide pressure range from low pressure to high pressure and is therefore suitable for liquid level control, flow control and also for pneumatic, hydraulic pressure and other fluid pressure controls.",
+        "Features": "\r\n                    \uff65 Bourdon tube which was developed for durable pressure switch is used and is suitable for vibration. \r\n\uff65 The one contact type or two contact type can be selected. With the two contact type, the setting of upper limit and lower limit can be possible.\r\n\uff65 Acid-proof coating prevents rusting from salt damage.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1062/E-CQ30P20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1062/HP_CQ30-P.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/165.html?lng=eng"
+      },
+      "Model No. CQ21": {
+        "Short Description": "Pressure Switch",
+        "Description": "This is a pressure switch with simple construction in which a Bourdon tube is applied to the pressure sensing element and its move directly functions the microswitch. A lot of these pressure switches have been manufactured for the warning and control of process industry, and a lot of these switches have application results in power and chemical plants.",
+        "Features": "\r\n                    \uff65 According to the construction by which a Bourdon tube move directly functions the microswitch, the number of constituent parts is small and excellent durability is demonstrated.\r\n\uff65 The pressure range extends extensively from low pressure to high pressure:0.1 MPa to 70 MPa, complying with extensive ranges.\r\n\uff65 This pressure switch has been developed mainly for thermal power stations, equipped with a large wiring space, assuring easy maintenance work.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1051/E-CQ21CD20I20200117.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1051/CQ21Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/154.html?lng=eng"
+      },
+      "Model No. CS31": {
+        "Short Description": "Differential Pressure Switch",
+        "Description": "This is a pressure and differential pressure switch mainly developed for air conditioning application, being able to applied to a pressure from 0.05 kPa, differential pressure or vacuum. This is small in size and light in weight.",
+        "Features": "\r\n                    \uff65This is a switch of which multiple stage setting range is from 0.05kPa to 35 kPa. An appropriate switch including \u3000a pressure switch, a differential switch and a vacuum switch can be selected and applied.\uff65This gauge is of small and light weight type.\uff65The setting at low pressure can be possible.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1048/E-CS31H_20170210.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1048/cs31.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/151.html?lng=eng"
+      },
+      "Model No. D4__": {
+        "Short Description": "Differential Pressure Switches",
+        "Description": "",
+        "Features": "\r\n                    \u30fbSimple and robust differential pressure switch for harsh environment\r\n\u30fbPiston type pressure switch covers low through high pressure ranges. Diaphragm material is can be selectable \u3000depending on customer's applications.\r\n\u30fbEpoxy coating for preventing rust caused by salt damage\r\n\u30fbEnclosure rating: NEMA4(Equivalent to IP66)for standard\r\n\u30fbCE marking\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3026/E-D4___F_4P20190318-f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3026/D4-Cnewweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/315.html?lng=eng"
+      },
+      "Model No. CQ88": {
+        "Short Description": "Pressure Switch",
+        "Description": "This pressure switch is mainly focused on use on hydraulic apparatus designed with small size and high durability. Combination use with \u03c660 JIS pressure gauge is suitable. ",
+        "Features": "\r\n                    \u30fbHigh pressure switch with narrow deadband\r\n\u30fbIncorporating bourdon tube element eliminating worry of leak occurred like piston type pressure switch\r\n\u30fbSmall and lightweight\r\n\u30fbCommon dimensions as JIS pressure gauge to make installation easy at panel mounting\r\n\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\r\n\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not\r\n                                         exceed three-quarters of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\r\n\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\n                                         exceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\r\n\u3000Select appropriate wetted parts compatible with process fluid (gas and\r\n   liquid) which the gauge will be \u3000subjected. \r\n\u3000Please refer to JIS B 7505-1 for details.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1044/E-CQ88_D_3P20181214f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1044/cq88.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/147.html?lng=eng"
+      },
+      "Model No. CB15": {
+        "Short Description": "Pressure Switch",
+        "Description": "This pressure switch is suitable for direct control of field equipment by designing and manufacturing with a focus on durability and reliability. It has a stable switching by snap actions of the microswitch.",
+        "Features": "\r\n                    \uff65 External adjustment of set value and dead band can easily be performed. \r\n\uff65 The dead band can be selected either adjustable or fixed according to use.\r\n\uff65 The setting scale is without divisions as standard or with divisions optionally.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1045/E-CB15H20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1045/cb15.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/148.html?lng=eng"
+      },
+      "Model No. CP20": {
+        "Short Description": "Pressure Switch",
+        "Description": "This small pressure switch for limited space installation is suitable for use with hydraulic equipment, injection molding machine, extraction molding apparatus, turbine, hydraulic unit, boiler, hydraulic process line control for construction machinery and other monitoring for those long life and robustness are essential.",
+        "Features": "\r\n                    \u30fbSmall pressure switch suitable for hydraulic related monitoring\r\n\u30fbConsists of lever and axis which is simple and good repeatability\r\n\u30fbPressure receiving part utilizing sealed piston without drain pipe. High durability wit 200 million cycles\r\n\u3000(Operating range: 30 to 70\uff05max.P. \u3000Pressure cycle: 200cycles/min.)\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\u3000\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not exceed three-quarters of the full-\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000scale range.\u3000\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\nexceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\u3000Select appropriate wetted parts compatible with process fluid (gas and liquid) which the gauge will be \u3000subjected.\r\n\u3000Please refer to JIS B 7505-1 for details.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1046/E-CP20_H_5P20190305f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1046/cp20.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/149.html?lng=eng"
+      },
+      "Model No. CR10": {
+        "Short Description": "Pressure Switch",
+        "Description": "This high reliable pressure switch features 20 to 100kPa pneumatic pressure transmitter with double snap action.",
+        "Features": "\r\n                    \u30fbHighly vibration resistance with stable operation even under 3G vibration.\r\n\u30fbExcellent switch action even under slow pressure change.\r\n\u30fbCover can be easily removed by only one unscrewing. Pressure setting and other maintenance are easy.\r\n\uff0aEnsure the process gases are compatible with wetted parts.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1047/E-CR10_G_3P20190131f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1047/cr10.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/150.html?lng=eng"
+      },
+      "Model No. CD52": {
+        "Short Description": "Pressure Switch Explosion-Protected Construction Pressure Switch",
+        "Description": "This is a pressure switch developed principally to detect draft pressure of a power plant. With a stainless steel bellows applied to the minute pressure detecting element, this pressure switch demonstrates high precision and excellent corrosion resistance.",
+        "Features": "\r\n                    \uff65 A stainless steel bellows is applied to the minute pressure detecting element.\r\n\uff65 This pressure switch demonstrates high precision and excellent corrosion resistance, principally applied to the detection of draft pressure in a thermal plant.\r\n\uff65 An explosion resistant switch with light weight has been realized. (installed in an aluminum die-cast case)\r\n\uff65 Setting and locking can be performed from the exterior without removing the cover.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1050/E-CD52H20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1050/cd52.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/153.html?lng=eng"
+      },
+      "Model No. CQ50": {
+        "Short Description": "Pressure Switch",
+        "Description": "In this pressure switch, the force applied to the bellows is balanced with the range spring through the rod, and its move directly functions the microswitch, making the switch open and close.",
+        "Features": "\r\n                    \uff65 With the application of a Bellebille spring, this pressure switch demonstrates excellent vibration resistance and durability. (Double snap action mechanism) This mechanism has been applied to the one contact type of CD50.\r\n\uff65 Pressure switch CQ50 has been designed to minimize the dead-band.\r\n\uff65 An aluminum die-cast case is applied to pressure switch CD50, realizing a switch with light weight.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1054/E-CQ50CD50G20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1054/CQ50Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/157.html?lng=eng"
+      },
+      "Model No. CD50": {
+        "Short Description": "Explosion-Protected Construction Pressure Switch",
+        "Description": "In this pressure switch, the force applied to the bellows is balanced with the range spring through the rod, and its move directly functions the microswitch, making the switch open and close.",
+        "Features": "\r\n                    \uff65 With the application of a Bellebille spring, this pressure switch demonstrates excellent vibration resistance and durability. (Double snap action mechanism) This mechanism has been applied to the one contact type of CD50.\r\n\uff65 Pressure switch CQ50 has been designed to minimize the dead-band.\r\n\uff65 An aluminum die-cast case is applied to pressure switch CD50, realizing a switch with light weight.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1055/E-CQ50CD50G20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1055/cd50.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/158.html?lng=eng"
+      },
+      "Model No. CQ51": {
+        "Short Description": "Pressure Switch",
+        "Description": "This pressure switch is a lower pressure setting, high-pressure resistance switches for the case where the difference between the setting pressure and the maximum pressure is large.",
+        "Features": "\r\n                    \uff65 The high proofpressure construction is assured. \r\n\uff65 The material of both the body and the terminal box is aluminum die-casting, to minimize the weight. The cover is of threaded type and the removing work of the cover is easily performed.\r\n\uff65 Setting and locking can be performed from the exterior without removing the cover.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1056/E-CQ51CD51G20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1056/CQ51Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/159.html?lng=eng"
+      },
+      "Model No. CD51": {
+        "Short Description": "Explosion-Protected Construction Pressure Switch",
+        "Description": "This pressure switch is a lower pressure setting, high-pressure resistance switches for the case where the difference between the setting pressure and the maximum pressure is large.",
+        "Features": "\r\n                    \uff65 The high proofpressure construction is assured. \r\n\uff65 The material of both the body and the terminal box is aluminum die-casting, to minimize the weight. The cover is of threaded type and the removing work of the cover is easily performed.\r\n\uff65 Setting and locking can be performed from the exterior without removing the cover.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1057/E-CQ51CD51G20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1057/cd51.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/160.html?lng=eng"
+      },
+      "Model No. CD75": {
+        "Short Description": "Explosion-proof Construction Pressure Switch",
+        "Description": "This deadband adjustable pressure switch with\r\nexcellent vibration-proof accomplished through\r\nthe use of double snap acting design, utilizing\r\nBelleville spring, is suitable for direct control of\r\nequipment.",
+        "Features": "\r\n                    \u30fbAdjustable range of deadband is 3 to 20% max.P.\r\n\u30fbFinished by acid-proof coating on surface to prevent\r\nfrom rust by salt damage.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1059/E-CD75-A-7P1611.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1059/CD75web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/162.html?lng=eng"
+      },
+      "Model No. CS76": {
+        "Short Description": "Pressure Switch",
+        "Description": "This device is suitable for controlling pnaumatic pressure, hydraulic pressure and various other fluid pressures such as liquid level control and flow control. This is a low setting, high-pressure withstanding type and reliable switch.",
+        "Features": "\r\n                    \uff65 With the application of a Bellebille spring, this pressure switch demonstrates excellent vibration resistance and durability. (Double Snap Action Mechanism)\r\n\uff65 This pressure switch is appropriate for the application of high pressure resistance and low pressure setting.\r\n\uff65 Acid-proof coating prevents rusting from salt damage.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1060/E-CS76CD76M20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1060/CS76Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/163.html?lng=eng"
+      },
+      "Model No. CD76": {
+        "Short Description": "Explosion-Protected Construction Pressure Gauges",
+        "Description": "This device is suitable for controlling pnaumatic pressure, hydraulic pressure and various other fluid pressures such as liquid level control and flow control. This is a low setting, high-pressure withstanding type and reliable switch.",
+        "Features": "\r\n                    \uff65 With the application of a Bellebille spring, this pressure switch demonstrates excellent vibration resistance and durability. (Double Snap Action Mechanism)\r\n\uff65 This pressure switch is appropriate for the application of high pressure resistance and low pressure setting.\r\n\uff65 Acid-proof coating prevents rusting from salt damage.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1061/E-CS76CD76M20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1061/cd76.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/164.html?lng=eng"
+      },
+      "Model No. CB14": {
+        "Short Description": "Pressure Switch for Semiconductor Industry",
+        "Description": "The CB14 is a small, lightweight pressure switch of\r\nsimple design, developed specifically for all types of\r\ngases essential to semiconductor manufacturing. It is\r\nattached directly to the apparatus.\r\nDuring the manufacturing process, the CB14 went\r\nthrough strict quality controls and performance testing,\r\nwith special attention paid to cleanliness and\r\nair-tightness. This makes it suitable for semiconductor\r\nprocess gas.",
+        "Features": "\r\n                    \u30fbSmall and lightweight, the pressure switch is convenient\r\nwhere space is limited. \u30fbPressure settings are easy to adjust.\u30fbThe structure that the microswitch is free from extra\r\nstress realizes stable controll of process.\u30fbCleanliness is guaranteed, as the switch was cleaned\r\nand assembled in a clean bench (Class 100) or clean\r\n\u3000room. It is also degreased enough, and use no oil and\r\nwater\uff0a1 are processed. When the product is complete,\r\n\u3000it is hermetically sealed in dust-free polyethylene bag. \u30fbThe gas contact parts of the diaphragm-type is\r\nelectropolished.\r\n\uff0a1 It is not labeled on this product.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1067/E-CB14E-4P170322.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1067/20160620-025049.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/170.html?lng=eng"
+      },
+      "Model No. B4": {
+        "Short Description": "Pressure Switches",
+        "Description": "",
+        "Features": "\r\n                    \u30fbSimple and robust pressure switch for harsh environment\r\n\u30fbPiston type pressure switch covers low through high pressure ranges. Diaphragm material is can be selectable \u3000depending on customer's\r\napplications.\r\n\u30fbEpoxy coating for preventing rust caused by salt damage\r\n\u30fbEnclosure rating: NEMA4 (Equivalent to IP66) for standard\r\n\u30fbCE marking\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1069/E-B4___F_4P20190128f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1069/B4-Cnewweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/172.html?lng=eng"
+      },
+      "Model No. CS41": {
+        "Short Description": "Multi-layer Diaphragm Type Pressure Switch",
+        "Description": "This switch is designd for oil pressure related applications.With its small and light body it can be installed directly onto pipes and thus suitabele even where the available space is limited .",
+        "Features": "\r\n                    It is a small pressure switch suitabele for oil pressure related applications.Internal structure is simple, and it is durable .The diaphrgm moves in a snap-action,and hence it has an excellent  operating characteristic.Since the diaphragm and the joint are welded together, unlike rubber packing type switches, it does not deteriorate over the years of use.Lot product.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1070/E-CS41-F-20130605.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1070/cs41.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/173.html?lng=eng"
+      },
+      "Model No. JM\u25a12\u30fb\u25a17": {
+        "Short Description": "Pressure Switch with Electric Contact (Micro Switch Type)",
+        "Description": "This pressure switch with electric contacts incorporates mechanical switch function.\r\nON/OFF electrical switch action utilizes\r\nBuzzer, Bell, Pilot lamp warning system and motor, pump and control valve process control.",
+        "Features": "\r\n                    \u30fbDirect control of device possible with large switching current\r\n\u30fbAccurate switch action possible with independent pressure sensing element\r\n\u30fbMicro switch assures stable snap action switching\r\n\u30fbLarger setting dial than Pressure Gauge with Electric Contact (JM\u25a11\u30fb\u25a16) to enable detailed setting\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1071/E-JM_2_7_N_7P20190507f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1071/JM2Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/174.html?lng=eng"
+      },
+      "Model No. CD20": {
+        "Short Description": "Explosion-proof Construction Pressure Switch",
+        "Description": "This is a pressure switch with simple construction in which a Bourdon tube is applied to the pressure sensing element and its move directly functions the microswitch. A lot of these pressure switches have been manufactured for the warning and control of process industry, and a lot of these switches have application results in power and chemical plants.",
+        "Features": "\r\n                    \uff65 According to the construction by which a Bourdon tube move directly functions the microswitch, the number of constituent parts is small and excellent durability is demonstrated.\r\n\uff65 The pressure range extends extensively from low pressure to high pressure:0.1 MPa to 70 MPa, complying with extensive ranges.\r\n\uff65 This pressure switch has been developed mainly for thermal power stations, equipped with a large wiring space, assuring easy maintenance work.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1052/E-CQ21CD20I20200117.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1052/cd20.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/155.html?lng=eng"
+      },
+      "Model No. CL21": {
+        "Short Description": "Differential Pressure Switch",
+        "Description": "This is a differential pressure switch which sends an on and off electric signal in accordance with differential pressure mainly for the application of liquid level warning in a closed tank and the clogging check in a pipe line strainer. A microswitch with extensive application and high reliability is applied to the contact.",
+        "Features": "\r\n                    +This differential pressure switch is extensively applied to general industrial machinery including the differential pressure control in a power station, etc.+The exterior appearance is compact.+The construction is simple.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3019/E-CL21E20140311.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3019/cl21.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/23/308.html?lng=eng"
+      }
+    },
+    "Electric type": {
+      "Model No. CE40": {
+        "Short Description": "IR Communication type Pressure Switch",
+        "Description": "Digital settings including such as switch operating point is possible via IR data communication without actually applying pressure to the switch.\r\nThis small and lightweight pressure switch is available exploring new applications in conjunction with dedicated remote communicator.",
+        "Features": "\r\n                    \u30fbAvailable in a wide ranges (24 ranges)\r\n\u30000 to 120kPa abs., 0 to 35kPa\u21920 to 50MPa,\r\n\u3000-20 to 20kPa\u2192-100 to 300kPa,\r\n\u3000-0.1 to 0.5MPa\u2192-0.1 to 2MPa\r\n\u3000(Compound ranges available)\r\n\u30fbCompatible with gases and liquids\r\nmeasurement with stainless diaphragm\r\n\u30fbExcellent environmental resistance (IP67)\r\n\u203bWith vent hole: IP65\r\n\u30fbAvailable in various measurements/settings\r\n/memory functions with ER40 IR\r\nCOMMUNICATOR \u3000(IR data communication)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9024/E-C-CE40B_9P20181126f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9024/CE40_web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/1891.html?lng=eng"
+      },
+      "Model No. CE16": {
+        "Short Description": "Electronic Pressure Switch For Construction Machinery",
+        "Description": "CE16 is a electronic pressure switch for measuring the hydraulic construction machinery. Excellent vibration proof, shock proof, has been active under the conditions of use harsh.",
+        "Features": "\r\n                    \uff65 Improved environmental proof\r\n\u3000(Operating temperature range -30 to 120\u2103)\r\n\uff65 Error in an operating point: \u00b13%F.S.\r\n\u3000(In the compensated temperature range)\r\n\uff65 IP67\r\n\uff65 Corresponding for lot production.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9025/E-CE16-A_5P160520.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9025/CE16web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/1892.html?lng=eng"
+      },
+      "Model No. CE10": {
+        "Short Description": "Electronic Pressure Switch",
+        "Description": "This is a small and high-performance electronic pressure switch in which a pressure sensor module utilizing a\r\nsemiconductor strain gauge and a hybrid electronic circuit are combined. This pressure switch can be applied extensively to the pressure control including hydraulic, pneumatic machines, etc.\r\nWhen pressure confirmation and setting are required on job site, a convenient pressure switch equipped with a pressure indicator is provided. (Model: CE20)",
+        "Features": "\r\n                    \u30fbAs a stainless diaphragm is applied to the construction of the hermetic pressure sensing portion, no liquid\r\nleakage is worried which is suspected in a piston type pressure switch.\r\n\u30fbAs no moving part exists in this pressure gauge, excellent anti-vibration, anti-impact and durable\r\nperformance are demonstrated.\r\n\u30fbSelectable NPN Output or PNP Output point of contact methods.\r\n\u30fbThis pressure switch is small in size and light in weight.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1064/E-CE1020-5P20150511.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1064/ce10.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/167.html?lng=eng"
+      },
+      "Model No. ZT30": {
+        "Short Description": "Electronic Pressure Switch",
+        "Description": "The ZT30 is a pressure switch equipped with display and digital setting functions, which is treated with UC processing. It can be set up even when not under pressure by viewing the LCD display, and can even be used to control pressure changes in fast-operating machines thanks to the high-speed digital comparator.",
+        "Features": "\r\n                    \u30fbThe high corrosion resistant pressure sensor made of Co-Ni alloy is directly welded to the 316Lst.st. coupling portion, demonstrating excellent corrosion resistance, hermetic properties, stability and reliability.\r\n \uff0aPlease confirm that the gas contact part material is suitable for the gas to be measured. \u30fbThe weld gas surface roughness is of sub-micron class, reducing particle generation.\r\n\u30fbSubtle set-up can be performed accurately even when the system is not under pressure, as the switch can be operated with the LCD display. In addition, the operating state of the comparator can be confirmed by looking at the LED operation indicator light.\r\n\u30fbThe output rate can be freely set within either the upper or lower limits and dead band using 1-setting or 2-setting. In addition, with the EEPROM, it has enough memory to hold over 10 years of settings without a back-up battery.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1068/E-ZT30G-6P20150310.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1068/zt30.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/171.html?lng=eng"
+      },
+      "Model No. CE15": {
+        "Short Description": "Electronic Pressure Switch",
+        "Description": "CE15 is an electronic pressure switch using a \"vapor deposition semiconductor strain gauge type sensor\" which is widely used in various industrial applications. Since the pressure sensor is welded to the fitting, durability is excellent.",
+        "Features": "\r\n                    \u30fbWide Temperature Capability\r\n\u30fbAll-welded pressure construction\r\n\u30fbApplicable to a wide range of applications from low pressure to high pressure\r\n\u30fbIP67\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9023/E-CE15-C-6P20180418.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9023/CE15web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/7/1875.html?lng=eng"
+      }
+    },
+    "Indicator with switch": {
+      "Model No. JM71": {
+        "Short Description": "Pressure Gauge With Electric Contact(Micro Switch Type)",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9031/JM71.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/1911.html?lng=eng"
+      },
+      "Model No. DG95\u30fbDG96\u30fbDG97\u30fbDG98": {
+        "Short Description": "Differential Pressure Gauges",
+        "Description": "This compact differential pressure gauge can measure other various measuring units other than pressure to monitor level or flow measurements. Switch can also be equipped for alarm or pressure control application.",
+        "Features": "\r\n                    \u30fbSelectable upper connection mounting or lower connection mounting available for easy installation\r\n\u30fbSince lead switch is used, switch action part is not influenced by external environment with long life and high \u3000reliability (DG97\u30fb98).\r\n\u30fbCertified by the Minister of Trade and Industry type available (Option)\uff0aReference pressure is the pressure to reference, or less fluctuating pressure side. Proof pressure against single \u3000port means the maximum over differential pressure. \r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9007/E-DG95969798_E_5P20190507f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9007/dg9_a.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/22/1681.html?lng=eng"
+      },
+      "Model No. CD31": {
+        "Short Description": "Flameproof Type Differential Pressure Switch",
+        "Description": "This flameproof pressure gauge with contacts is used for hazardous area where there is the consideration of pressure media or atmosphere igniting or exploding. It is especially applicable\r\nwhen pressure indication is necessary at the job site for pressure measurement, alarm, and control applications.",
+        "Features": "\r\n                    \uff65Pressure indication featured with switch actuation is suitable for on-site pressure control.\r\n\uff65Contacts setting adjustable by external adjustment knob.\r\n\uff0aReference pressure is the pressure to reference, or less fluctuating pressure side. Proof pressure against single \u3000port means the maximum working differential pressure.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3015/E-CD31_F_4P20190118f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3015/cd31.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/22/305.html?lng=eng"
+      },
+      "Model No. DG56\u30fbDG58": {
+        "Short Description": "Differential Pressure Gauge",
+        "Description": "This compact differential pressure gauge can measure other various measuring units other than pressure to monitor level or flow measurements. Contact switch is utilized mainly for alarm or pressure control application throughout relay contact.",
+        "Features": "\r\n                    \u30fbEasy pressure reading with large dial scale\r\n\u30fbReliable low differential pressure measurement with high pressure proof\uff0aReference pressure is the pressure to reference, or less fluctuating pressure side. Proof pressure against single \u3000port means the maximum over differential pressure. \r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3014/E-DG55565758_E_7P20190507f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3014/DG57web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/22/304.html?lng=eng"
+      },
+      "Model No. JM__": {
+        "Short Description": "Pressure Gauge with Electric Contact(Micro Switch Type)",
+        "Description": "This pressure gauge with electric contacts incorporating mechanical switch function. ON/OFF electrical switch action utilizes Buzzer, Bell, Pilot\r\nlamp warning system and motor, pump and control valve process control.",
+        "Features": "\r\n                    \u30fbPressure indication at facility\r\n\u30fbDirect control of device possible with large switching current\r\n\u30fbPressure indication after switch operates is accurate as pressure sensing element for indication and switch \u3000action are both independent\r\n\u30fbMicro switch assures stable snap action switching\r\n\u30fbPressure indication and switch operating setting dial are independent for arbitrary switch setting\r\n\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\u3000\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not exceed three-quarters of the full-\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000scale range.\u3000\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\nexceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\u3000Select appropriate wetted parts compatible with process fluid (gas and liquid) which the gauge will be \u3000subjected.\r\n\u3000Please refer to JIS B 7505-1 for details.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1033/E-JM____M_8P20190507f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1033/jm__.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/136.html?lng=eng"
+      },
+      "Model No. JC__": {
+        "Short Description": "Pressure Gauge with Electric Contact (Contact Switch Type)",
+        "Description": "This pressure contact switch incorporating release low pressure contact switch is mainly utilized for warning bell, buzzer ramp.",
+        "Features": "\r\n                    \u30fbPressure indication at facility\r\n\u30fbSmall and lightweight with single pressure element with indication and switch function\r\n\u30fbPressure indication dial and switch setting dial separately exist but with arbitrarily adjustable all over the \u3000pressure range\r\n\u30fbBroad angle of dial with narrow deadband with easy setting\r\n\u30fbUtilizes Platinum-osmium base alloy for armature inside movement\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\u3000\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not exceed three-quarters of the full-\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000scale range.\u3000\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\nexceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\u3000Select appropriate wetted parts compatible with process fluid (gas and liquid) which the gauge will be \u3000subjected.\r\n\u3000Please refer to JIS B 7505-1 for details.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1035/E-JC___G_7P20190509f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1035/jc__.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/138.html?lng=eng"
+      },
+      "Model No. CD21": {
+        "Short Description": "Flameproof Type Pressure Gauge",
+        "Description": "This flameproof pressure gauge with contacts is used for hazardous area where there is the consideration of\r\npressure media or atmosphere igniting or exploding. It is especially applicable when pressure indication is necessary at the job site for pressure measurement, alarm, and control applications.",
+        "Features": "\r\n                    \u30fbPressure indication featured with switch actuation is suitable for on-site pressure contorl.\r\n\u30fbSince the case is made of die cast aluminum alloy, it is lightweight and rugged.\r\n\u30fbContacts setting adjustable by external adjustment knob.\r\n\u30fbThere is no effect on each indication and switch functions because the indication and switching sensing \u3000element are separated.\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\u3000\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not exceed three-quarters of the full-\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000scale range.\u3000\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\nexceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\u3000Select appropriate wetted parts compatible with process fluid (gas and liquid) which the gauge will be \u3000subjected.\r\n\u3000Please refer to JIS B 7505-1 for details.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1036/E-CD2125_E_6P20190129f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1036/CD21_25_web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/139.html?lng=eng"
+      },
+      "Model No. DG17": {
+        "Short Description": "Diffential Pressure Gauge",
+        "Description": "These differential pressure gauges are compactly designed to measure the pressure difference (differential pressure) of two points.They can also be used to measure tank liquid level,loss of head of strainers,or combined with an orfice to measure the flow of a pipeline.These differential pressure gauges with electric contacts use a microswitch for ON-OFF control.",
+        "Features": "\r\n                    \u25cfEnclosed liquid helps for withstanding high pressure preventing from damage caused by valve operation or \u3000reversed process pressure (within proof pressure)\r\n\u25cfSelectable upper connection mounting or lower connection mounting\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3002/E-DG161726_I_6P20190507f(1).pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3013/dg17.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/22/303.html?lng=eng"
+      },
+      "Model No. CD25": {
+        "Short Description": "Flameproof Type Pressure Gauge",
+        "Description": "This flameproof pressure gauge with contacts is used for hazardous area where there is the consideration of pressure media or atmosphere igniting or exploding. It is especially applicable when pressure indication is necessary at the job site for pressure measurement, alarm, and control applications.",
+        "Features": "\r\n                    \u30fbPressure indication featured with switch actuation is suitable for on-site pressure contorl.\r\n\u30fbSince the case is made of die cast aluminum alloy, it is lightweight and rugged.\r\n\u30fbContacts setting adjustable by external adjustment knob.\r\n\u30fbThere is no effect on each indication and switch functions because the indication and switching sensing \u3000element are separated.\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\u3000\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not exceed three-quarters of the full-\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000scale range.\u3000\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\nexceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\u3000Select appropriate wetted parts compatible with process fluid (gas and liquid) which the gauge will be \u3000subjected.\r\n\u3000Please refer to JIS B 7505-1 for details.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1037/E-CD2125_E_6P20190129f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1037/CD21_25_web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/140.html?lng=eng"
+      },
+      "Model No. JD10": {
+        "Short Description": "Pressure Gauge with Electric Contact",
+        "Description": "This gauge enables pressure monitoring with easy-to-read analog pressure indication coupled with small and high performance pressure sensor and relay\r\ncontact with high accurate ON/OFF control.",
+        "Features": "\r\n                    \u30fbAnalog indication helps for easy monitoring line pressure or remaining pressure even when electricity is shut off.\r\n\u30fbBy simplified digital setting (4 digit LED), the setting of the activating point can be implemented\r\nwith high \u3000precision and reliability.\r\n\u30fbThe semiconductor strain gauge, strain-generating portion and pressure connection portion are unified in \u3000construction, demonstrating excellent\r\ndurability and stability.\r\n\u30fbVarious functions including loop checking and analogue output are featured.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1040/EC-JD1_F_6P20180427.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1040/JD10web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/143.html?lng=eng"
+      },
+      "Model No. JD15": {
+        "Short Description": "Pressure Gauge with Electric Contact",
+        "Description": "This gauge enables pressure monitoring with easy-to-read analog pressure indication coupled with small and high performance pressure sensor and relay\r\ncontact with high accurate ON/OFF control.",
+        "Features": "\r\n                    \u30fbAnalog indication helps for easy monitoring line pressure or remaining pressure even when electricity is shut off.\r\n\u30fbBy simplified digital setting (4 digit LED), the setting of the activating point can be implemented\r\nwith high \u3000precision and reliability.\r\n\u30fbThe semiconductor strain gauge, strain-generating portion and pressure connection portion are unified in \u3000construction, demonstrating excellent\r\ndurability and stability.\r\n\u30fbVarious functions including loop checking and analogue output are featured.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1041/EC-JD1_F_6P20180427.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1041/JD15web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/144.html?lng=eng"
+      },
+      "Model No. JK2_": {
+        "Short Description": "Pressure Gauges with Optical Switch",
+        "Description": "This optical pressure gauge used for alarm system secures large-capacity switch (Open and close) action ability through relay. Pressure gauge with optical switch action utilizing incorporated photomicro sensor with one\r\npair of light emitting element and light receiving element are positioned on the same optical axis. Operation is done by blocking and passing light (ON\u30fbOFF) between emitting element and receiving element due to object (Douser) passing through the way.",
+        "Features": "\r\n                    \u30fbNarrow deadband by adapting noncontact switch\r\n\u30fbSwitch operating point can be set arbitrary within full scale range. Easy setting is possible by external dial\r\n\u3000located at front side.\r\n\u30fbZero adjustment is possible by removing plug located at front side.\uff0aTo maximize performance, select full scale pressure range to indicate normal operating pressure which comes to \u3000conditions below.\u3000\u3000\u3000For constant pressure\u3000: The maximum operating pressure should not exceed three-quarters of the full-\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000scale range.\u3000\u3000\u3000For fluctuating pressure: The maximum operating pressure should not\r\nexceed two-thirds of the full-scale \u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000\u3000range.\u3000Select appropriate wetted parts compatible with process fluid (gas and liquid) which the gauge will be \u3000subjected.\r\n\u3000Please refer to JIS B 7505-1 for details.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1034/E-JK2_F_3P20181225f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1034/jk2_.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/137.html?lng=eng"
+      },
+      "Model No. JK50": {
+        "Short Description": "Pressure Gauge with Optical Switch for Semiconductor Industry",
+        "Description": "The JK50 is a highly reliable small-sized contact\r\npressure gauge equipped with a photo micro sensor\r\ncontact mechanism. It is used primarily as an alarm, but\r\ncan also be used as a high-capacity open-and-close\r\nswitch through the relay.",
+        "Features": "\r\n                    \u30fbSmall and lightweight, the pressure switch is\r\nconvenient where space is limited.\u30fbThe use of a non-contact switch decreases the\r\ndeadband.\u30fbIt can offer accurate pressure indication even arter the\r\nswitch is actuated.\r\n\uff0aTo maximize performance, when selecting a pressure gauge, please\r\nselect the pressure range as the upper limit\u3000of normal operating pressure is within the following range.\r\n\u3000\u3000In the case of constant pressure:\r\n\u3000\u3000\u3000\u30003/4 and under of the maximum value in the pressure range\r\n\u3000\u3000In the case of fluctuating pressure:\r\n\u3000\u3000\u3000\u30002/3 and under of the maximum value in the pressure range\r\n\u3000Please ensure that the wetted parts materials listed are suitable for\r\nthe use against measuring gas or liquid.\r\n\u3000For details, please refer to JIS B 7505-1.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1151/E-JK50E-4P20170322.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1151/JK50-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/1727.html?lng=eng"
+      },
+      "Model No. SU6_": {
+        "Short Description": "Sanitary Pressure Gauge With Electric Contact",
+        "Description": "This pressure gauge with contact switch is specially designed to be used for pressure measuring in a variety of fields where hygiene is taking into consideration, such as food, medicine, cosmetics and biology.",
+        "Features": "\r\n                    - Contact switch function for an alarm to set \r\n  buzzers, lamps, etc. on and off.\r\n- The wetted part is stainless steel, providing \r\n  excellent corrosion resistance.\r\n- The case features IP65 (\u03c675:IP64) waterproof \r\n  construction. It can be washed and easily \r\n  drained.\r\n- The new diaphragm design lessens temperature \r\n  errors.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1038/E-SU6I_20140116.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1038/SU6x2_Web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/6/141.html?lng=eng"
+      }
+    },
+    "Others": {}
+  }
+}

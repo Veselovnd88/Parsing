@@ -1,0 +1,8 @@
+{
+  "Pressure switch": {
+    "Mechanical type ": "product/application.html?p=1&c=0&lng=eng",
+    "Electric type": "product/application.html?p=1&c=1&lng=eng",
+    "Indicator with switch": "product/application.html?p=1&c=2&lng=eng",
+    "Others": "product/application.html?p=1&c=3&lng=eng"
+  }
+}
