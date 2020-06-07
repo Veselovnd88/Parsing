@@ -508,38 +508,45 @@ class NksParse(Html):
         cards = self.from_json(json_file)
         full_dict = {}
         for key in cards:
-            cards_dict = {}
-            for link in cards[key]:
-                card_url = self.prefix + link
-                print(card_url)
-                content = self.get_content(card_url)
-                soup = BeautifulSoup(content, 'html.parser')
-                data = soup.find('div', class_='proDetail')
-                name = data.find('span', class_='proDetail-number').text
-                short = data.find('span', class_='proDetail-name').text
-                description = data.find('div', class_='proDetail-description').text
-                feature = data.find('ul', class_='proDetail-feature-ul')
-                if feature:
-                    feature = feature.text
-                else:
-                    feature = 'No information'
+            category_dict = {}
+            for element in cards[key]:
+                cards_dict = {}
 
-                datasheet = data.find('a', class_='proDetail-download-btn')
-                if datasheet:
-                    datasheet = self.prefix + datasheet.get('href')
-                else:
-                    datasheet = 'No information'
-                image = data.find('img', class_='proDetail-img').get('src')
-                cards_dict[name] = {
-                    'Short Description': short,
-                    'Description': description,
-                    'Features': feature,
-                    'Datasheet': datasheet,
-                    'Image': self.prefix + image,
-                    'URL': card_url
-                }
+                for cat in element:
+                    print(cat)
+                    for link in element[cat]:
+                        print(link)
+                        card_url = self.prefix + link
+                        print(card_url)
+                        content = self.get_content(card_url)
+                        soup = BeautifulSoup(content, 'html.parser')
+                        data = soup.find('div', class_='proDetail')
+                        name = data.find('span', class_='proDetail-number').text
+                        short = data.find('span', class_='proDetail-name').text
+                        description = data.find('div', class_='proDetail-description').text
+                        feature = data.find('ul', class_='proDetail-feature-ul')
+                        if feature:
+                            feature = feature.text
+                        else:
+                            feature = 'No information'
 
-            full_dict[key] = cards_dict
+                        datasheet = data.find('a', class_='proDetail-download-btn')
+                        if datasheet:
+                            datasheet = self.prefix + datasheet.get('href')
+                        else:
+                            datasheet = 'No information'
+                        image = data.find('img', class_='proDetail-img').get('src')
+                        cards_dict[name] = {
+                            'Short Description': short,
+                            'Description': description,
+                            'Features': feature,
+                            'Datasheet': datasheet,
+                            'Image': self.prefix + image,
+                            'URL': card_url
+                            }
+                    category_dict[cat] = cards_dict
+
+            full_dict[key] = category_dict
         return full_dict
 
 # TODO добавить еще оригинальную ссылку с json, скорей всего функция в мэйне
