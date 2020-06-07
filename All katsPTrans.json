@@ -1,0 +1,9 @@
+{
+  "Pressure sensor": {
+    "Pressure transmitter": "product/application.html?p=2&c=0&lng=eng",
+    "Differential pressure transmitter": "product/application.html?p=2&c=1&lng=eng",
+    "Load sensor": "product/application.html?p=2&c=2&lng=eng",
+    "Level sensor": "product/application.html?p=2&c=3&lng=eng",
+    "Others": "product/application.html?p=2&c=4&lng=eng"
+  }
+}

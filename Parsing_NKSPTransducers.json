@@ -1,0 +1,638 @@
+{
+  "Pressure sensor": {
+    "Pressure transmitter": {
+      "Model No. BR12": {
+        "Short Description": "Wireless Pressure Gauge",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1157/BR12-Cweb.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/4/1920.html?lng=eng"
+      },
+      "Model No. GC51": {
+        "Short Description": "pressuure transmitter",
+        "Description": "This pressure transmitter is for gases and liquids measurements with 2-wire system. Compact and lightweight design suitable for outdoor use for a wide range of industries including HVAC, Factory automation, Process and Water treatment contributing for easy installation on site.",
+        "Features": "\r\n                    \u30fbAdjustable indication and output scaling are available.  \r\n\u30fbBreakthrough readability with LED-backlit LCD\r\n\u30fbSmall and lightweight design with 4-way pressure port directions: upper, lower, left and right\u3000(Lower, left and right for absolute model).\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1080/E-GC51_C_8P20180829.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1080/GC51HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1611.html?lng=eng"
+      },
+      "Model No. SU71": {
+        "Short Description": "Non-Liquid Filled Sanitary Digital Pressure Gauge with Transmitter",
+        "Description": "This pressure gauge is designed with \u300cNon-liquid filled\u300d without the need for an intermediary liquid within the sensor for further contribution for Food, Pharmaceutical and Cosmetic manufacturing process with \u300cSafe and Reliable\u300d pressure measurement.",
+        "Features": "\r\n                    \u30fbSafe and reliable construction with Non-liquid filled design\r\n\u30fbSafe all stainless enclosure\r\n\u30fbRanges covering low range from 20kPa\r\n\u30fbAccuracy: \u00b10.5%F.S.\r\n\u30fbAvailable at 150\u2103 without radiation fin\r\n\u30fbEvolutionally flat pressure receiving part with SUS316L\r\n\u30fbStandard comes with Electrolytic polishing + Passivation treatment\r\n\u30fbNo need to offset Zero point when installed with clamp\r\n\u30fbTwo mounting method can be specified (Standard\u30fbReversed)\r\n\u30fbEnclosure rating: Equivalent to IP67 (Vent tube: Equivalent to IP67)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1153/E-SU71_A_5P\u3010NEW\u301120181217.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1153/SU71_web-.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1903.html?lng=eng"
+      },
+      "Model No. KM70": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "KM70 is a pressure transmitter using a \"vapor deposition semiconductor strain gauge type sensor\" which is widely used in various industrial applications. Since the pressure sensor is welded to the fitting, durability is excellent.(Only available for Lot production)",
+        "Features": "\r\n                    \u2022Available over wide temperature ranges\r\n\u2022All-welded construction\r\n\u2022High EMI/RFI rating\r\n\u2022Applicable to a wide range of applications from low pressure to high pressure\r\n\u2022IP 65 Ingress rating\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1076/E-KM70-F-6P20170919.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1076/20170822-104340.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1908.html?lng=eng"
+      },
+      "Model No. KM71": {
+        "Short Description": "Pressure Transmitter for Construction Machinery",
+        "Description": "KM71 is a pressure sensor for \r\nhydraulic measurement for construction machinery service designed for use even in harsh environments of extream shock and vibration.  ",
+        "Features": "\r\n                    \u2022Improved environmental proof \r\n\u3000(Operating temperature range -30 to 120 \u2103)\r\n\u2022Total Error Band: \u00b13%F.S. \r\n\u3000(In the compensated temperature range)\r\n\u2022IP65\r\n\u2022For lot production.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1077/E-KM71_D_4P20190425s.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1077/KM71_2_HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1909.html?lng=eng"
+      },
+      "Model No. SH\u30fbSD": {
+        "Short Description": "Diaphragm Seal Pressure Transmitter for High Temperature",
+        "Description": "This is a pressure transmitter that uses enclosed intermediate liquid for pressure transmission between pressure receiving part and its sensor part.\r\nIt is used to measure under the high temperature condition and to measure the pressure of high viscosity fluid at normal temperature, and is widely used in the synthetic chemical, synthetic fiber, and plastic industries.",
+        "Features": "\r\n                    \u30fbCapable of pressure measurement under wide range of operating temperature with 0\u2103 to 330\u2103 and 0\u2103 to \u3000400\u2103 (Optionally available with \u03c68 diameter)\r\n\u30fbEasy zero adjustable even under fluctuating temperature where compensation is needed\r\n\u30fbFlush diaphragm type which will prevent pressure media from ingressing directly into sensor element \u3000(diaphragm) suitable for high viscous media measurement\r\n\u30fbSelectable filling liquid (NKS instrument oil X3 or mercury)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1106/E-SH-SD-L_22P20190318f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1106/20180907-045950.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1912.html?lng=eng"
+      },
+      "Model No. EH15": {
+        "Short Description": "Pressure Sensor",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/#",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1154/EH15-webP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1915.html?lng=eng"
+      },
+      "Model No. SU75": {
+        "Short Description": "Sanitary Pressure Transmitter",
+        "Description": "It is the safety sanitary pressure transmitter which is not usedenclosed liquid to transfer the pressure. This can be widelyused, in Food, Phamaceuticals, Cosmetics and Bio-relatedindustries etc.",
+        "Features": "\r\n                    No enclosed liquid structureEpoch-making very \ufb02at wetted parts structureNo need to o\ufb00set Zero point when installed with clamp.Available at 150\u2103 without radiation \ufb01n.Small and lightweightEquivalent to IP67\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1073/E-SU75-A20130521.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1073/20160616-043041.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/176.html?lng=eng"
+      },
+      "Model No. EJ15": {
+        "Short Description": "Intrinsically Safe Pressure Sensor",
+        "Description": " Acquired international explosion-proof standards [IECEx], also acquired Japanese standards and European standards [ATEX]. Moreover, enable global response considering acquisition of overseas standards.",
+        "Features": "\r\n                    \u30fbAcquired IECEx, ATEX, Japanese explosion-proof standards, TS, NEPS \u2160  and KCs* \u3000*Under application\r\n\u30fbAccuracy (\u00b10.25% F.S.), Improvement of temperature characteristics\r\n\u30fbExterior is all stainless steel\r\n\u30fbIncorporated external zero adjustment function\r\n\u30fbEnvironmental resistance: IP65 equivalent\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1155/E-EJ15A_191112.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1155/EJ15web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1917.html?lng=eng"
+      },
+      "Model No. EJ95": {
+        "Short Description": "Semiconductor Industry Intrinsically Safe Pressure Sensor",
+        "Description": "Acquired international explosion-proof standards [IECEx], also acquired Japanese standards and European\r\nstandards [ATEX]. Moreover, enable global response considering acquisition of overseas standards.",
+        "Features": "\r\n                    \u2022 Acquired \u201cIECEx\u201d, \u201cATEX\u201d, Japanese explosion-proof standards, TS, NEPS\u2160 and KCs*\u3000\u3000*Under application\r\n\u2022 Accuracy (\u00b10.25%F.S.), Improvement of temperature characteristics\r\n\u2022 Exterior is all stainless steel\r\n\u2022 Incorporated external zero adjustment function\r\n\u2022 Environmental resistance: IP65 equivalent\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1156/EJ95 Intrinsically Safe Pressure Sensor_2_20191028.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1156/EJ95_web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1919.html?lng=eng"
+      },
+      "Model No. ER31": {
+        "Short Description": "Battery-less Pressure Sensor",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1158/ER31_1.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1923.html?lng=eng"
+      },
+      "Model No. KP15": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "KP15 features diaphragm seal type pressure sensing element with SUS316L material. The diaphragm can accommodate various types of fluids and gases measurements in applications where low and absolute pressure measurements are required.",
+        "Features": "\r\n                    \u30fbSUS316L pressure receiving part material\r\n\u30fbLowest range 10kPa (standard type)\r\n\u3000(Compound range -5 to 5kPa)\r\n\u30fbHigh accuracy \u00b10.25%F.S.\r\n\u3000(Varies depending on the range)\r\n\u30fbAvailable for absolute pressure range\r\n\u300050kPa abs., 100kPa abs., 200kPa abs.\r\n\u30fbResponse time 1ms or less\r\n\u30fbDust and waterproof structure\r\n\u3000(IP65)\r\n\u30fbWithstand voltage 500V AC\r\n\u30fbEquipped with zero adjustment trimmer\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1072/E-KP15_G_5P20180131.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1072/20200518-110213.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/175.html?lng=eng"
+      },
+      "Model No. KH15": {
+        "Short Description": "Cutting-edge diaphragm type Pressure Transmitter",
+        "Description": "This pressure transmitter uses a semiconductor strain gauge typepressure sensor and built-in electronic circuit to convert pressure to 4 to 20mA DC,0 to 5V DC, or 1 to 5V DC electric signal and to transmit this signal. Cutting-edge diaphragm type is available for reduction of contamination in process line.",
+        "Features": "\r\n                    \uff65Durability and stability because of the sensor that forms thesemiconductor evaporated type distrotion gauge on metal strain.\uff650.1MPa to 100MPa ranges can be manufactured in the same configuration.\uff65Equipped zero and span adjustment as standard.\uff65Since a metal diaphragm is used, corrosion resistance is excellent and use withliquids and wide range of other applications is possible.\uff65RoHS directive applicable.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1074/E-KH15F20150107.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1074/KH15cuting.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1729.html?lng=eng"
+      },
+      "Model No. KM31": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "KM31 is improved in accuracy and noise\r\nperformance.\r\nIt can be used widely for various industrial applications.\r\nPressure sensor is welded to the fitting for excellent durability.",
+        "Features": "\r\n                    \u2022Better Total Error Band Accuracy\u2022Broad Temperature Capability\r\n\u2022All-welded pressure construction\r\n\u2022High EMI/RFI rating\r\n\u2022Ranges 0.2MPa through 140MPa\r\n\u2022IP65 Ingress rating\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1075/E-C-KM31_F_4P20180205.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1075/KM31.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/178.html?lng=eng"
+      },
+      "Model No. KM16": {
+        "Short Description": "Pressure Transmitter for Construction Machinery",
+        "Description": "KM16 is a pressure sensor for measuring the hydraulic construction machinery. Excellent vibration proof, shock proof, has been active under the conditions of use harsh.",
+        "Features": "\r\n                    \uff65 Improved environmental proof \r\n\u3000(Operating temperature range -30 to 120 \u2103)\r\n\uff65 Total Error Band: \u00b13%F.S. \r\n\u3000(In the compensated temperature range)\r\n\uff65 IP65\r\n\uff65 Corresponding for lot production.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1077/20170927-051554.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1077/KM16web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/180.html?lng=eng"
+      },
+      "Model No. KM15": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "KM15 is a pressure transmitter using a \"vapor deposition semiconductor strain gauge type sensor\" which is widely used in various industrial applications. Since the pressure sensor is welded to the fitting, durability is excellent.(Only available for Lot production)",
+        "Features": "\r\n                    \u2022Available over wide temperature ranges\r\n\u2022All-welded construction\r\n\u2022High EMI/RFI rating\r\n\u2022Applicable to a wide range of applications from low pressure to high pressure\r\n\u2022IP 65 Ingress rating\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1076/20170927-051246.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1076/KM15web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/179.html?lng=eng"
+      },
+      "Model No. SU8": {
+        "Short Description": "Pressure Gauge  with Transmitter",
+        "Description": "This device is a pressure gauge with transmitter, which incorporates a pressure sensor into the same small size as a sanitary gauge. The pressure receiver is a diaphragm-seal type configuration, and uses an SUS316L diaphragm. The device is suitable for use in manufacturing sites that require sanitary conditions.",
+        "Features": "\r\n                    \u30fbInternal pressure sensor included, with same body size as a pressure gauge. (2-wire, 4-20mA DC output)\r\n\u30fbReduces total costs by decreasing the number of piping outlets.\r\n\u30fbAvailable with radiation tube shape and diaphragm for ISO (IDF) 1S pipes.\r\n\u30fbNow also available as terminal box type.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9008/E-SU8M140303.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9008/SU8web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1699.html?lng=eng"
+      },
+      "Model No. KM18": {
+        "Short Description": "Miniaturized Embedded Pressure Transmitter",
+        "Description": "Proven SS sensor designed for use on various industries is built-in.\r\nChemical Vapor-Deposited Semiconductor Strain Gauge formed on diaphragm contributes excellence in durability and stability.",
+        "Features": "\r\n                    \u30fbMiniaturized pressure sensor with built-in amplifier\r\n\u30fbIncorporates stainless diaphragm sensor (SUS630) to accommodate water and hydraulic pressure\u3000measurements.\r\n\u30fbM8 connector\r\n\u30fb6 pressure ranges: -0.1 to 1\u30fb2MPa, 0 to 1\u30fb2\u30fb3.5\u30fb5MPa\r\n\u30fbPower supply: 2.7 to 5.5V DC Output: 0.5 to 4.5V DC (Radiometric at 5V DC power supply)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1124/E-C-KM18_A_3P20180221.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1124/image001.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/225.html?lng=eng"
+      },
+      "Model No. KJ55": {
+        "Short Description": "Intrinsically Safe Pressure TransmitterFor Marine Application",
+        "Description": "This pressure transmitter can be used in zone 0 area where potentially explosive gas always exists conforming to IEC intrinsically safe standard.\r\n(Exia IIC T5)",
+        "Features": "\r\n                    \u30fbIt can be used in zone 0, 1 and 2 including area where potentially explosive gas always exists.\r\n\u30fbSmall and lightweight.\r\n\u30fbIntrinsic safety approved type.\r\n\u30fbIn combination with the insulated safety barrier, Type A intrinsically safe ground work is unnecessary.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1097/E-KJ55_H_4P20181005f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1097/20200518-100306.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/199.html?lng=eng"
+      },
+      "Model No. KL55": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "This is a stable and reliable pressure transmitter for marine application. The built-in electronic circuit converts the measured pressure to 4 to 20mA DC signal and transmits.",
+        "Features": "\r\n                    \u30fbEnclosure rating IP57 (IP54 for KL55)\r\n\u30fbMarine type approval\r\n\u3000 \u3000KL55: NK\u30fbLR\r\n\u3000 \u3000KH55: NK\u30fbLR\u30fbDNV\r\n\u30fbSmall size, lightweight, and easy to handle. These pressure transmitters are used in a wide range of other fields \u3000in addition to marine application.\r\n\u30fbThe pressure transmitter utilizes a ceramic diaphragm (low pressure through medium low pressure) or a metal\r\n\u3000diaphragm (medium pressure through high pressure), which have excellent corrosion resistant and reliability.\r\n\u30fbThe pressure transmitter had no moving parts so there is no measured liquid leakage like that of the piston type.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1096/E-KLKH55_H_4P20180425.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1096/KL-KH55web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/198.html?lng=eng"
+      },
+      "Model No. KJ16": {
+        "Short Description": "High temperatureHigh pressure application",
+        "Description": "This is a pressure transmitter that uses filled liquid as the pressure transmission media between the receiving part and the sensor part.  It is used to measure the pressure of materials melted under a high temperature and to measure the pressure of high viscosity fluid at normal temperature, and is widely used in the synthetic chemical, synthetic fiber, and plastic industries.",
+        "Features": "\r\n                    \u30fbPressure transmitters for the temperature ranges of 0 to 330\u2103 and 0 to 400\u2103 (8 DIA. Diaphragm only are\u3000 available), pressure measurement under a wide range of temperature conditions is possible.\r\n\u30fbEven when the output correction is required for the temperature change of the detection end, zero adjustment is\u3000 easy. (KJ16 type is not available.)\r\n\u30fbBecause this is a sealed type pressure\r\ntransmitter and the measuring fluid does not enter directly into the\u3000 element (Detection diaphragm), the pressure of high viscosity measuring fluid can be measured.\r\n\u30fbThe charged liquid (Mercury or NKS instrument oil X3) can be selected according to the application.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1152/E-SH_SD_K_21P_20160317-2.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1152/KJ16-9PK.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1879.html?lng=eng"
+      },
+      "Model No. KH55": {
+        "Short Description": "General industry application",
+        "Description": "This is a stable and reliable pressure transmitter for marine application. The built-in electronic circuit converts the measured pressure to 4 to 20mA DC signal and transmits.",
+        "Features": "\r\n                    \u30fbEnclosure rating IP57 (IP54 for KL55)\r\n\u30fbMarine type approval\r\n\u3000 \u3000KL55: NK\u30fbLR\r\n\u3000 \u3000KH55: NK\u30fbLR\u30fbDNV\r\n\u30fbSmall size, lightweight, and easy to handle. These pressure transmitters are used in a wide range of other fields \u3000in addition to marine application.\r\n\u30fbThe pressure transmitter utilizes a ceramic diaphragm (low pressure through medium low pressure) or a metal\r\n\u3000diaphragm (medium pressure through high pressure), which have excellent corrosion resistant and reliability.\r\n\u30fbThe pressure transmitter had no moving parts so there is no measured liquid leakage like that of the piston type.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1095/E-KLKH55_H_4P20180425.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1095/KL-KH55web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/197.html?lng=eng"
+      },
+      "Model No. SU10": {
+        "Short Description": "Flash Diaphragm Pressure Transmitter",
+        "Description": "This pressure transmitter with flush diaphragm that conforms to sanitary specification, utilizing stainless steel diaphragm and semiconductor strain gauge for the pressure sensing part. Particularly, this pressure transmitter is designed and manufactured based on sanitary considerations, and has been widely used in food, pharmaceuticals,\r\ncosmetics, and further bio-related fields.",
+        "Features": "\r\n                    \u30fbSmall flush diaphragm tip is flat design eliminating pocket after installing into process.\r\n\u30fbFeatured Chemical Vapor-Deposited\r\nSemiconductor Strain Gauge contributes for excellent dynamic pressure \u3000durability. It has also excellency in vibration resistance and shock resistance.\r\n\u30fbMetal diaphragm contributes for excellent corrosion resistance which can be used for a wide variety of \u3000applications.\r\n\u30fbSuitable for liquid chromatography.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1108/E-SU10_D_3P20180221.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1108/SU10-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/210.html?lng=eng"
+      },
+      "Model No. KJ91": {
+        "Short Description": "Intrinsically Safe Pressure Transmitter",
+        "Description": "They are two types of 2-wire intrinsically safe pressure and differential transmitter, the GC51 based product utilizing SS sensor and GC52 based product utilizing SC sensor. Make sure to use with insulated safety\r\nbarrier. It can be used in (ZONE 0) place where potentially explosive gas always exists. It conforms to IEC based intrinsically safe specification.\r\n(Explosion class: Exia \u2161C T4)\r\nIn combination with non-intrinsically safe GC51/GC52, it can be used in a wide range of industrial process measurements (Low pressure to high pressure).",
+        "Features": "\r\n                    \u25cfCompact size and light-weight with the same appearance and operability as non-intrinsically safe GC51 and \u3000GC52.\r\n\u25cfAdjustable indication and output scaling are available.\r\n\u25cfBreakthrough readability with LED-backlit LCD\r\n\u25cfBecause the insulated safety barrier is used, Type A intrinsic safety ground work is unnecessary.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1079/E-JK9192_J_17P20181031f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1079/KJ91web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/182.html?lng=eng"
+      },
+      "Model No. ZT16": {
+        "Short Description": "Pressure Transmitters",
+        "Description": "The ZT16 pressure transmitter accommodates the use in surface mount gas distribution system.  It is available in both W-Seal and C-Seal surface mounting interface.  It uses proven Co-Ni alloy with excellent reliability and durability, or SUS316L for sensing element material.It can be applied to use in gas panel and valve manifold boxes etc.",
+        "Features": "\r\n                    \u30fbDue to its miniaturized design, ZT16 can be installed in\r\n  1.125 surface mounting interface where space is a\u3000\r\n  consideration.\r\n\u30fbExcellent durability due to strain gauge formed on metal\r\n diaphragm with PCVD process. \r\n\u30fbHighly corrosion-resistant pressure sensors made of \r\n  Co-Ni alloy or SUS316L are welded directly to the\u3000 \r\n  SUS316L joints, giving them excellent corrosion \r\n  resistance, air-tightness, long-term stability, and\r\n  reliability.\u3000\u3000\r\n  \uff0aPlease confirm that material in contact with gas is suitable for it.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1126/E-ZT16_1.125-D6P20170213.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1126/zt16.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/227.html?lng=eng"
+      },
+      "Model No. ZT15": {
+        "Short Description": "Pressure Transmitter (Absolute pressure)",
+        "Description": "These are pressure transmitters designed for semiconductor industry, in which pressures are converted into electric signals and transmitted by the sensing element equipped with evaporation coating type semiconductor strain gauge and a built-in electronic circuit. We provide two types of pressure transducers with UC Grade for high-purity gas and BA Grade achieved the cost down of gas piping without impairing the airtightness.",
+        "Features": "\r\n                    \u30fbHighly corrosion-resistant pressure sensors made of Co-Ni alloy or SUS316L are welded directly to the fitting, \u3000giving them excellent corrosion resistance, air-tightness, long-term stability and reliability.\r\n\u3000\u3000\uff0aPlease confirm that material in contact with gas is suitable for it.\r\n\u30fbFew dead spaces exist that may cause gas contamination.\r\n\u30fbAbsolute pressure ranges are available in 0-300kPa, 0-0.5MPa and 0-1MPa.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/4053/E-ZT15abs-B-8P20170126.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/4053/ZT15z-web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1878.html?lng=eng"
+      },
+      "Model No. ZT11": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "These are pressure transmitters developed for semiconductor industry, in which pressures are converted into electric signals and transmitted by the sensing portion equipped with evaporation coating type semiconductor strain gauge and a built-in electronic circuit. It is more small and lightweight than a conventional pressure transmitter (our comparison). EP/GP grade is standard. Also conforming to the UC grade as an option.",
+        "Features": "\r\n                    \u30fbHighly corrosion-resistant pressure sensors made of SUS316L are welded directly to the fitting, giving\r\n\u3000them excellent corrosion resistance, air-tightness, long-term stability, and reliability. Co-Ni alloy is\r\n\u3000optional (Only available in UC grade).\r\n\u3000\uff0aPlease confirm that the gas contact part material is suitable for the gas to be measured.\r\n\u30fbDust-protected and excellent waterproof structure. (IP67)\r\n\u30fbAvailable in standard type and non-incendive type.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9018/E-ZT11F_6P_20200130.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9018/ZT11C_Web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1725.html?lng=eng"
+      },
+      "Model No. ZT15z": {
+        "Short Description": "Pressure Transmitters for Semiconductor Industry1.5 surface mounting interface",
+        "Description": "These are pressure transmitters designed for semiconductor industry, in which pressures are converted into electric signals and transmitted by the sensing element equipped with an evaporation type semiconductor strain gauge and a built-in electronic circuit. The ZT15 is a pressure transmitter built to accommodate a 1.5 surface mounting interface for semiconductor manufacturing gas distribution and can be applied to the gas panel and the valve manifold boxes, etc. We provide two types of pressure transducers with UC/EP Grade for high-purity gas and GP Grade achieved the cost down of gas piping without impairing the airtightness.",
+        "Features": "\r\n                    \u30fbIt is possible to install the transmitter on a 1.5 surface\r\n  mounting interface.\r\n\u30fbHighly corrosion-resistant pressure sensors made of Co-Ni alloy or SUS316L are welded directly to the\r\n  \u3000SUS316L joints, giving them excellent corrosion resistance, air-tightness, long-term stability and reliability.\r\n   \u3000\u3000\uff0aPlease confirm that material in contact with gas is suitable for it.\r\n\u30fbFew dead spaces exist that may cause gas contamination.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1125/E-ZT15_1.5B-6P_170126.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1125/ZT15-1.5web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/226.html?lng=eng"
+      },
+      "Model No. KJ96": {
+        "Short Description": "Model KJ96 Intrinsically Safe Pressure Transmitter",
+        "Description": "This product is a 2-wire intrinsically safe pressure transmitter with semiconductor strain gauge sensor.\r\nConforming to IEC intrinsic safety standard, they can be used in \u201cZONE 0\u201d places where explosive gas always exists.\r\n(Explosion class: Exia \u2161C T4)",
+        "Features": "\r\n                    \u30fbThey can be used in\u201cZONE 0\u201dplaces where explosive gas always exists.\r\n\u30fbIn combination with use of insulated type safety barrier, intrinsically safe Class A installation work is    \u3000unnecessary.\r\n\u30fbSince the gauge is formed on a metal diaphragm by PCVD process, durability is excellent.\r\n\u30fbThe high corrosion resistant pressure sensor made of Co-Ni alloy or SUS316L is directly welded to the 316L    \u3000st.st. coupling portion, demonstrating excellent corrosion resistance, hermetic properties, stability and reliability.\r\n\u3000\uff0aPlease confirm that material in contact with gas is suitable for it.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1123/E-KJ96-C-9P20170131.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1123/20170613-094326.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/224.html?lng=eng"
+      },
+      "Model No. KL91": {
+        "Short Description": "Pressure Transmitter for Ultrapure Water of Semiconductor Production Appliances",
+        "Description": "This instrument is a pressure transmitter for the\r\nuse of ultrapure water which uses all-fluorine resin\r\nfor the wetted parts, and has small metal ion\r\nelution amount. It is designed for low and negative\r\npressure measurement, as well as minimizing\r\npocket that may cause contamination. Features\r\ninclude IP65 enclosure and CE compliance (EMC\r\nDirective Compliance) Applicable directive:\r\n89/336/EEC",
+        "Features": "\r\n                    \u30fbThe all-fluorine resin wetted parts consist of a\r\nfluorine resin film multilayer laminated onto a\r\nceramic\u3000diaphragm, and suppress the amount of\r\nmetal ion elution and the generation of\r\ncontamination.\u30fbCompatible with pipe diameters with size up to 1\u201d\r\n(In-line type)\u30fbIncorporates capacitance sensor that has\r\nexcellent temperature characteristics.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1121/E-KL91_6B_170322.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1121/KL91_Web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/222.html?lng=eng"
+      },
+      "Model No. KL92": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "This product is a fluoropolymers diaphragm seal\r\ntype pressure transmitter.\r\nAs the O-ring-free structure minimizes\r\ncontamination risk and the elution of metal, it is\r\nsuitable for pressure monitoring in the\r\nsemiconductor manufacturing industry.",
+        "Features": "\r\n                    \u30fbWetted parts are all made of fluoropolymers\r\n(PFA, PTFE) and so structured as to minimize\r\ncontamination risk.\u30fbImproved corrosion resistance to chemicals,\r\nsuch as hydrofluoric acid.\u30fbEnclosure rating is IP54\r\nto meet the application requirement of wet\r\nstation with compact resin body.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1119/E-KL92D170322.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1119/KL92-PC_HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/220.html?lng=eng"
+      },
+      "Model No. KL95": {
+        "Short Description": "Appliances Chemical-Resisance Pressure Transmitter With Display",
+        "Description": "This product is a fluoropolymers diaphragm seal type\r\npressure transmitter. As the O-ring-free structure\r\nminimizes contamination risk and the elution of metal,\r\nit is suitable for pressure monitoring in the\r\nsemiconductor manufacturing industry. Integral\r\nconstruction design offers 4 digit indicator,\r\nsemiconductor contact output (2 points) and analog\r\noutput (Voltage or current).",
+        "Features": "\r\n                    \u30fbWetted parts which are all made of fluoropolymers\r\n(PFA, PTFE), offers improved corrosion resistance.\u30fbEnclosure rating is IP54 to meet the application\r\nrequirement of wet station with compact resin body.\u30fbEquipped with bright easy-to-see 4 digit indicator.\r\nDisplay element, transmitter and switch are\r\nintegrated into a \u3000single body.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1137/E-KL95D-20170322.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1137/KL95-C_HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1691.html?lng=eng"
+      },
+      "Model No. KH25": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "This pressure transmitter measures very low fluids and gases pressure and converts pressure to electric signal for its transmission.\r\nFeatured semiconductor strain gauge contributes for excellent durability and stability.",
+        "Features": "\r\n                    \u30fbExcellent corrosion resistance can be achieved through the use of metallic diaphragm\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1090/E-KH25_H_3P20180206.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1090/HP_KH25_27-P.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/192.html?lng=eng"
+      },
+      "Model No. KH41": {
+        "Short Description": "Process Pressure Transmitter",
+        "Description": "Suitable for on-site type pressure transmitter for\r\nprocess application. Both general application and\r\nflameproof type are available corresponding to\r\nworking environment.",
+        "Features": "\r\n                    \u30fbSince the sensor uses a semiconductor strain gauge, durability and stability are excellent.\r\n\u30fbSince the wetted parts utilize high corrosion resistant metal diaphragm, corrosion resistance is excellent \u3000suitable for use with a wide range of\r\ngases and liquids is possible.\r\n\u30fbDesigned for EMI prevention caused by transceivers and other electronic devices.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1083/E-KH4_KD4_K_8P20181126f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1083/kh41.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/185.html?lng=eng"
+      },
+      "Model No. KH43": {
+        "Short Description": "Process Pressure Transmitter",
+        "Description": "Suitable for on-site type pressure transmitter for\r\nprocess application. Both general application and\r\nflameproof type are available corresponding to\r\nworking environment.",
+        "Features": "\r\n                    \u30fbSince the sensor uses a semiconductor strain gauge, durability and stability are excellent.\r\n\u30fbSince the wetted parts utilize high corrosion resistant metal diaphragm, corrosion resistance is excellent \u3000suitable for use with a wide range of\r\ngases and liquids is possible.\r\n\u30fbDesigned for EMI prevention caused by transceivers and other electronic devices.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1084/E-KH4_KD4_K_8P20181126f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1084/kh43.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/186.html?lng=eng"
+      },
+      "Model No. KH31(-X_1)": {
+        "Short Description": "High temperature/High pressure application",
+        "Description": "This is a pressure transmitter that uses filled liquid as the pressure transmission media between the receiving part and the sensor part.  It is used to measure the pressure of materials melted under a high temperature and to measure the pressure of high viscosity fluid at normal temperature, and is widely used in the synthetic chemical, synthetic fiber, and plastic industries.",
+        "Features": "\r\n                    \u30fbPressure transmitters for the temperature ranges of 0 to 330\u2103 and 0 to 400\u2103 (8 DIA. Diaphragm only are\u3000 available), pressure measurement under a wide range of temperature conditions is possible.\r\n\u30fbEven when the output correction is required for the temperature change of the detection end, zero adjustment is\u3000 easy. (KJ16 type is not available.)\r\n\u30fbBecause this is a sealed type pressure\r\ntransmitter and the measuring fluid does not enter directly into the\u3000 element (Detection diaphragm), the pressure of high viscosity measuring fluid can be measured.\r\n\u30fbThe charged liquid (Mercury or NKS instrument oil X3) can be selected according to the application.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1105/E-SH_SD_K_21P_20160317-2.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1105/kh31b.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/207.html?lng=eng"
+      },
+      "Model No. KH28": {
+        "Short Description": "High temperatureHigh pressure application",
+        "Description": "This is a pressure transmitter that uses filled liquid as the pressure transmission media between the receiving part and the sensor part.  It is used to measure the pressure of materials melted under a high temperature and to measure the pressure of high viscosity fluid at normal temperature, and is widely used in the synthetic chemical, synthetic fiber, and plastic industries.",
+        "Features": "\r\n                    \u30fbPressure transmitters for the temperature ranges of 0 to 330\u2103 and 0 to 400\u2103 (8 DIA. Diaphragm only are\u3000 available), pressure measurement under a wide range of temperature conditions is possible.\r\n\u30fbEven when the output correction is required for the temperature change of the detection end, zero adjustment is\u3000 easy. (KJ16 type is not available.)\r\n\u30fbBecause this is a sealed type pressure\r\ntransmitter and the measuring fluid does not enter directly into the\u3000 element (Detection diaphragm), the pressure of high viscosity measuring fluid can be measured.\r\n\u30fbThe charged liquid (Mercury or NKS instrument oil X3) can be selected according to the application.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1106/E-SH_SD_K_21P_20160317-2.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1106/KH28web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/208.html?lng=eng"
+      },
+      "Model No. KH75": {
+        "Short Description": "High temperature High pressure application",
+        "Description": "This is a pressure transmitter that uses filled liquid as the pressure transmission media between the receiving part and the sensor part.  It is used to measure the pressure of materials melted under a high temperature and to measure the pressure of high viscosity fluid at normal temperature, and is widely used in the synthetic chemical, synthetic fiber, and plastic industries.",
+        "Features": "\r\n                    \u30fbPressure transmitters for the temperature ranges of 0 to 330\u2103 and 0 to 400\u2103 (8 DIA. Diaphragm only are\u3000 available), pressure measurement under a wide range of temperature conditions is possible.\r\n\u30fbEven when the output correction is required for the temperature change of the detection end, zero adjustment is\u3000 easy. (KJ16 type is not available.)\r\n\u30fbBecause this is a sealed type pressure\r\ntransmitter and the measuring fluid does not enter directly into the\u3000 element (Detection diaphragm), the pressure of high viscosity measuring fluid can be measured.\r\n\u30fbThe charged liquid (Mercury or NKS instrument oil X3) can be selected according to the application.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1107/E-SH_SD_K_21P_20160317-2.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1107/kh75.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/209.html?lng=eng"
+      },
+      "Model No. KH31": {
+        "Short Description": "Pressure Transmitter with Indicator",
+        "Description": "Pressure transmitter on site which can detect the change in inductance when the pressure sensing element is displaced, transmitting electrical signal\r\nproportional to received pressure value.",
+        "Features": "\r\n                    \u30fbExcellent in vibration and shock resistance.\r\n\u30fbZero and span adjustment is possible from its front side.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1102/E-KH31_I_3P20181101f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1102/KH31web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/204.html?lng=eng"
+      },
+      "Model No. KH50": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "This pressure transmitter can detect the\r\ndisplacement of bourdon tube as an inductance variation, and it converts it into a output signal for transmission in proportion with measured quantity.",
+        "Features": "\r\n                    \u30fbThis pressure transmitter offers excellence in\r\nvibration and environmental resistance.\r\n\u30fbSmall and lightweight\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1100/E-KH5051_H_4P-20180221.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1100/kh50.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/202.html?lng=eng"
+      },
+      "Model No. KH51": {
+        "Short Description": "Pressure Transmitter",
+        "Description": "This pressure transmitter can detect the\r\ndisplacement of bourdon tube as an inductance variation, and it converts it into a output signal for transmission in proportion with measured quantity.",
+        "Features": "\r\n                    \u30fbThis pressure transmitter offers excellence in\r\nvibration and environmental resistance.\r\n\u30fbSmall and lightweight\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1101/E-KH5051_H_4P-20180221.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1101/kh51.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/203.html?lng=eng"
+      },
+      "Model No. KD41": {
+        "Short Description": "Process Pressure Transmitter",
+        "Description": "Suitable for on-site type pressure transmitter for\r\nprocess application. Both general application and\r\nflameproof type are available corresponding to\r\nworking environment.",
+        "Features": "\r\n                    \u30fbSince the sensor uses a semiconductor strain gauge, durability and stability are excellent.\r\n\u30fbSince the wetted parts utilize high corrosion resistant metal diaphragm, corrosion resistance is excellent \u3000suitable for use with a wide range of\r\ngases and liquids is possible.\r\n\u30fbDesigned for EMI prevention caused by transceivers and other electronic devices.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1085/E-KH4_KD4_K_8P20181126f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1085/KD41web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/187.html?lng=eng"
+      },
+      "Model No. KD43": {
+        "Short Description": "EProcess Pressure Transmitter",
+        "Description": "Suitable for on-site type pressure transmitter for\r\nprocess application. Both general application and\r\nflameproof type are available corresponding to\r\nworking environment.",
+        "Features": "\r\n                    \u30fbSince the sensor uses a semiconductor strain gauge, durability and stability are excellent.\r\n\u30fbSince the wetted parts utilize high corrosion resistant metal diaphragm, corrosion resistance is excellent \u3000suitable for use with a wide range of\r\ngases and liquids is possible.\r\n\u30fbDesigned for EMI prevention caused by transceivers and other electronic devices.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1086/E-KH4_KD4_K_8P20181126f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1086/KD41web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/188.html?lng=eng"
+      },
+      "Model No. SU15": {
+        "Short Description": "Sanitary Pressure Transmitter",
+        "Description": "This sanitary pressure Transmitter uses a stainless steel diaphragm and semiconductor strain gauge for the sensing part. It has been designed/produced to be especially hygienic, so it can be used in a wide variety of fields, such as food products, medical supplies, cosmetics and even bio-related products.",
+        "Features": "\r\n                    Excellent durability high vibration-proof and impact resistance to dynamic pressure with the prssure sensor uses a semiconductor strain gauge.Stanless steel diaphragm for corrosion resistance, can be used for a wide variety of purposes.Stainless steel case makes it easy to wash and drain for sanitary process.Possible to select a high pressure proof type for homogenizers.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1110/E-SU15F130206.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1110/SU15-Web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/212.html?lng=eng"
+      },
+      "Model No. KH11": {
+        "Short Description": "Miniaturized Embedded Pressure Transmitter",
+        "Description": "This small and lightweight pressure transmitter is designed for embedding in small apparatus with limited space.\r\nIt can be used for the control of pneumatic pressure equipment and various types of compressed air charged devices.",
+        "Features": "\r\n                    \u30fbMiniaturized embedded pressure sensor\r\n\u30fbChemical Vapor-Deposited Semiconductor Strain Gauge contributes for excellence in durability and stability.\r\n\u30fbThe small and lightweight design is suitable for air and water pressure measurement.\r\n\u30fbIntegral construction metal diaphragm and body are welded without moving parts contributes excellence in \u3000vibration and shock resistance.\r\n\u30fbCompound ranges available\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1115/E-KH11_H_2P20180221.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1115/kh11.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/217.html?lng=eng"
+      },
+      "Model No. KH78": {
+        "Short Description": "Pressure Transmitter for High Pressure",
+        "Description": "This product is a pressure transmitter for high-pressure measurement, which detects the slight distortion generated in the pressure receiving part by the pressure and converts the pressure into the current or voltage proportional to the pressure in the built-in electronic circuit.\r\nBecause this pressure transmitter is compact design, it is able to use for control and monitor high pressure by incorporating in the equipment such as high-pressure chemical synthesis equipment, artificial crystal manufacturing equipment or withstanding pressure inspection equipment.",
+        "Features": "\r\n                    \u30fbCarefully selected reliable strain gauge is featured to offer long stability performance\r\n\u30fbHigh pressure sensing technology proven through many years experience contributes high reliable safety \u3000construction\r\n\u30fbCompact design with built-in amplifier\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1089/E-KH78_D_3P20180316.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1089/KH-78-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/191.html?lng=eng"
+      },
+      "Model No. KL71": {
+        "Short Description": "Pressure Transmitter with Ceramic Sensing Element",
+        "Description": "The KL71 pressure transmitter utilizes functional ceramic material for sensing element with its characteristics of high durability, high corrosion resistance and small drift in fine through low\r\npressure measurements.",
+        "Features": "\r\n                    \u30fbHigh corrosion resistant with ceramic sensing element covering wide range of pressure media compatibility\r\n\u30fbExcellent overpressure protection\r\n\u30fbReduced secular change and hysteresis with good repeatability\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1087/E-KL71_H_3P20180206.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1087/HP_KL-71.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/189.html?lng=eng"
+      },
+      "Model No. KL76": {
+        "Short Description": "General industry application",
+        "Description": "This is a ceramic capacitance sensor in the field of micropressure and low pressure, equipped with a ceramic sensor for the pressure-sensing portion.",
+        "Features": "\r\n                    #NAME?\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/#",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1098/kl76.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/200.html?lng=eng"
+      },
+      "Model No. KL79 Absolute Pressure Transmitter\u3000          \u3000\u3000\u3000\u3000 KL80 Absolute Pressure Transmitter\u3000          \u3000\u3000\u3000\u3000 KL81 Absolute Pressure Switch ": {
+        "Short Description": "Absolute pressure sensor",
+        "Description": "This is a ceramic capacitance sensor that senses the displacement of the absolute pressure as an electrostatic\r\ncapacitance change by utilizing capacitance. The measurement of the vacuum range of 0 to 20kPa abs. and pressures around the atmospheric pressure is possible. Additionally, an electronic switch type sensor with two contact output is also provided. (Model: KL81)",
+        "Features": "\r\n                    \u30fbCharacteristic of ceramic sensor\r\n\u3000\uff0aExcellent repeatability\r\n\u3000\uff0aExcellent temperature characteristic\r\n\u3000\uff0aHigh corrosion resistance characteristic\u30fbThis ceramic capacitance sensor has 5 times higher proof pressure.\r\n\u30fbThis is a highly reliable ceramic capacitance sensor that has a robust structure without need for liquid seal.\u30fbVarious types of fittings are prepared.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1099/E-KL79_8_F_6P20180620.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1099/KL79_80_81_new.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/201.html?lng=eng"
+      },
+      "Model No. KL75": {
+        "Short Description": "Low Pressure Transmitter for Gases",
+        "Description": "Model KL75 is a small ceramic capacitance type pressure transmitter superior in reproducibility and repeatability suitable for measuring gas pressure.",
+        "Features": "\r\n                    \u30fbThis is a pressure transmitter featuring high precision and high repeatability, equipped with a highly reliable\u3000capacitance type ceramic pressure sensor\r\n\u30fbSmall temperature coefficient for use in wide range of temperature range environment\r\n\u30fbIt has 5 times proof pressure (Maximum 1MPa)\r\n\u30fbJet-proof type corresponding to IP65\r\n\u30fbEMC compliance (Conforms to the CE marking)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1116/E-KL75_E_2P20180125.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1116/kl75.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/218.html?lng=eng"
+      },
+      "Model No. KE21": {
+        "Short Description": "Pneumatic Transmitters Pressure",
+        "Description": "This is a force-balanced pressure transmitter that detects on-site pressure, liquid level, or differential pressure and converts it to a 20 to 100kPa constant air pressure proportional to the measured pressure value and transmits to the control room receiver.",
+        "Features": "\r\n                    \u30fbIt can be used in explosive and corrosive atmospheres because the operating principle is pneumatic.\r\n\u30fbForced-balance type allows a rigid body construction with few movement in pressure element and link \u3000mechanism. It can maintain long-term accuracy including shock resistance, linearity and hysteresis.\r\n\u30fbSince the pressure receiving element is built into the body, it is extremely compact and zero adjustment is easily \u3000performed from the outside without removing the cover and affecting its span.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1111/E-KE2_D_6P20181005.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1111/KE21web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/213.html?lng=eng"
+      },
+      "Model No. KH54": {
+        "Short Description": "Marine Type ApprovalPressure Transmitter",
+        "Description": "Miniaturized lightweight pressure transmitter with marine type approval (NK) suitable for limited space installation.",
+        "Features": "\r\n                    \u30fbIncorporates SUS316L diaphragm\r\n\u30fbNK Marine type approved\r\n\u30fbRoHS compliance\r\n\u30fbEnclosure rating :IP65\r\n\u30fbMiniaturized and lightweight\r\n\u30fbAccuracy: \u00b11.0\uff05F.S (Standard) or \u00b10.5\uff05F.S\r\n(Option)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9020/E-C_KH54A_3P20180621.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9020/KH54web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1872.html?lng=eng"
+      }
+    },
+    "Differential pressure transmitter": {
+      "Model No. ER63": {
+        "Short Description": "Wireless Differential Pressure Monitoring System",
+        "Description": "",
+        "Features": "No information",
+        "Datasheet": "No information",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3101/ER63web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/1922.html?lng=eng"
+      },
+      "Model No. KL14": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This differential pressure transmitter featuring silicone diaphragm contributes for high sensitive and high precision pressure measurements.  \r\nIt can be used mainly for clean room/bio clean room filter monitoring, pressure monitoring and control etc. \r\n\u25cb Clean room pressure monitoring etc. \r\n\u25cb Filter clogging detection in air conditioning system.",
+        "Features": "\r\n                    \u2022Incorporating high-precision and highly reliable capacitive sensor.\r\n\u2022Both surface mounting and DIN rail mounting are available.\r\n\u2022Pluggable connector is adopted to prevent miswiring.\r\n\u2022LED indication for ON/OFF status.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/#",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3029/HP_KL14_s.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/318.html?lng=eng"
+      },
+      "Model No. KL17": {
+        "Short Description": "Differential Pressure Transmitter for Incorporation into Machines and Equipments/For gas measurement (Featuring silicone diaphragm)",
+        "Description": "Highly sensitive pressure transmitter with analog outputs can detect very small pressure in conjunction with dedicated ASIC.  ",
+        "Features": "\r\n                    \u25cfHighly sensitive pressure detection from 50Pa to 20kPa.\r\n\u25cfHigh proof pressure withstanding more than 1000(50kPa) times higher pressure when rated pressure is 50Pa. \r\n\u25cfSmall and lightweight (Approx. 20g) pressure transmitter can be installed into equipments and on-board \u3000installation is easily done by connector.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3030/E-KL17_L_2P20171019.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3030/kl17.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/319.html?lng=eng"
+      },
+      "Model No. KL19": {
+        "Short Description": "High Precision Differential Pressure Transmitter",
+        "Description": "This differential pressure transmitter featuring\r\nsilicone diaphragm contributes for high sensitive\r\nand high precision pressure measurements.\r\nIt can be used mainly for clean room/bio clean\r\nroom filter monitoring, pressure monitoring and\r\ncontrol etc.\r\n\u25cb Clean room pressure monitoring etc.\r\n\u25cb Filter clogging detection in air conditioning system.",
+        "Features": "\r\n                    \u30fbPressure measurements starting with 0 to 25Pa\r\nlow pressure\r\n\u30fbAccuracy : \u00b10.25%F.S. (Standard \u00b10.5%F.S.)\r\n\u30fbSpoolCal TM actuator provides in-place calibration\r\n\u30fbA2LA offers quality assurance system  (ILAC / Mutual Recognition Arrangement)\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3031/E-KL19_F_4P20171121.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3031/HP_KL19-CP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/320.html?lng=eng"
+      },
+      "Model No. GC63": {
+        "Short Description": "Battery Type Digital Differential Pressure Gauge",
+        "Description": "Battery type digital differential pressure gauge\r\nrequires no wirings for easy installation and field\r\nmonitoring for applications include HVAC and\r\nsemiconductor machinery. Optionally available\r\nexternal power supply adds comparator output for\r\nvarious applications including filter clogging\r\nmonitoring.",
+        "Features": "\r\n                    \u202217mm large LCD (3 1/2 digit)\r\n\u2022Analog bar graph to easily recognize measurement status.\r\n\u2022Comparator output with external power cable (Option)\r\n\u2022Filter, Peak hold display, and Zero adjustment\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3038/E-GC63_S_4P20171218.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3038/HP_GC63-10-a1.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/327.html?lng=eng"
+      },
+      "Model No. GC50": {
+        "Short Description": "Multifunctional Digital Differential Pressure Gauge",
+        "Description": "This product is a multifunctional digital differential pressure gauge with liquid-filled highly sensitive silicon capacitance sensor for detecting micro\r\ndifferential pressure featuring sensor module consisted of stainless diaphragm (SUS316L) for wetted parts. This can be used for variety of pressure media (Gases and fluids).",
+        "Features": "\r\n                    \u2022Small, lightweight and compact\r\n\u2022Available in multifunctional models\r\n(Battery-operated, current output, alarm output)\r\n\u2022Optional Level and flow measurements\r\nSquare-root extraction, integral display, linearize function\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3037/E-GC50_L_8P20180123.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3037/20170215-113222.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/326.html?lng=eng"
+      },
+      "Model No. GC55": {
+        "Short Description": "Digital Differential Pressure Gauge",
+        "Description": "The GC55 is a digital differential pressure gauge that senses relatively high differential pressures in gas or liquid. Equipped with pressure/differential pressure display/alarm/and analog output\r\n(optional) functions, the GC55 is ideal for a wide variety of applications.",
+        "Features": "\r\n                    \u30fbThree types of data can be acquired based on the following condition: High pressure side, low pressure side and \u3000differential pressure. Switch contacts and analog output can be set among high pressure side, low pressure side \u3000or differential pressure.\r\n\u30fbThe bright, easy-to-read 3 1/2-digit digital LED display provides switch and analog output functions.\r\n\u30fbHigh durability and corrosion resistance are ensured by SUS304 joints and SUS630 sensors, both connected by \u3000welding.\r\n\u30fbEasy to install because a three-way valve is unnecessary.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3039/E-GC55_G_5P20181115F.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3039/20200410-053547.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/25/328.html?lng=eng"
+      },
+      "Model No. GC52": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This 2-wire differential pressure transmitter with pressure indicator can measure fluids and gases.Compact and lightweight.",
+        "Features": "\r\n                    \u30fbIndication and output scaling are available.\r\n\u30fbInstantaneous flow rate (Square root extraction)\r\n\u30fbBreakthrough readability with LED-backlit LCD\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9005/E-GC52_G_7P20180828.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9005/gc52.gif",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1679.html?lng=eng"
+      },
+      "Model No. KJ92": {
+        "Short Description": "Intrinsically Safe Differential Pressure Transmitter",
+        "Description": "They are two types of 2-wire intrinsically safe pressure and differential transmitter, the GC51 based product utilizing SS sensor and GC52 based product utilizing SC sensor. Make sure to use with insulated safety\r\nbarrier. It can be used in (ZONE 0) place where potentially explosive gas always exists. It conforms to IEC based intrinsically safe specification.\r\n(Explosion class: Exia \u2161C T4)\r\nIn combination with non-intrinsically safe GC51/GC52, it can be used in a wide range of industrial process measurements (Low pressure to high pressure).",
+        "Features": "\r\n                    \u25cfCompact size and light-weight with the same appearance and operability as non-intrinsically safe GC51 and \u3000GC52.\r\n\u25cfAdjustable indication and output scaling are available.\r\n\u25cfBreakthrough readability with LED-backlit LCD\r\n\u25cfBecause the insulated safety barrier is used, Type A intrinsic safety ground work is unnecessary.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3027/E-JK9192_J_17P20181031f.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3027/KJ92web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/316.html?lng=eng"
+      },
+      "Model No. KL11": {
+        "Short Description": "Differential  Pressure Transmitter/For gas measurement (Featuring silicone diaphragm)",
+        "Description": "Incorporated miniaturized silicone diaphragm precisely fabricated by micro machining can detect fine differential pressure to convert into analog output signal.  ",
+        "Features": "\r\n                    \u25cfHighly sensitive capacitive sensing element can detect highly accurate pressure.  \r\n\u25cfThe sensor is hermetically sealed in a capsule to contribute to high vibration proof and high durability.  \r\n\u25cfPosition effects exhibit only 1Pa/45\u00b0\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9006/E-KL11_I_3P20171023.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9006/HP_KL11-P.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1680.html?lng=eng"
+      },
+      "Model No. KL12": {
+        "Short Description": "Miniaturized Differential Pressure Transmitter/For gas measurement (Featuring silicone diaphragm)",
+        "Description": "Incorporated miniaturized silicone diaphragm precisely fabricated by micro machining can detect fine differential pressure to convert into analog output signal. ",
+        "Features": "\r\n                    \u25cfThis transmitter can detect fine differential pressures between 50Pa to 2 kPa with high sensitivity.\r\n\u25cfHighly durable construction for each high pressure and low pressure port withstanding 50kPa maximum \u3000pressure. \r\n\u25cfMiniaturized sensing part designed with silicon diaphragm having less moving parts contributes for excellent \u3000vibration proof and shock resistance.  \r\n\u25cfEasy to handle small and lightweight pressure transmitter.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3028/E-KL12_M_3P20171023.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3028/KL12-P.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/317.html?lng=eng"
+      },
+      "Model No. KH62": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This is a transducer that is installed on-site to measure differential pressure, level and flow to transmit in the measurement site, which detects the\r\ndifferential pressure, liquid level, and flow rate, etc., converts it into a DC signal, and then transmits it.\r\nSince this transmitter employs a detection method converting the force corresponding to the input differential pressure into an electric signal, it is\r\nhighly reliable products.",
+        "Features": "\r\n                    \u30fbThe liquid is sealed in the pressure receiving part, allowing to withstand the high pressure.\u3000\r\n(Maximum 10MPa depending on the pressure range)\r\n\u30fbThe lid on the front is a screw-type, therefore the lid can be easily removed. Also, it can easily be adjusted by an\u3000electric zero and span electrically.\r\n\u30fbThe test terminal is mounted on the built-in terminal section, allowing to test without opening the output circuit. \u3000In addition, the reverse polarity protection circuit is built in the power supply.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9002/E-KH62_F_6P20180828.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9002/KH62-P2.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1676.html?lng=eng"
+      },
+      "Model No. KH52": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This is a transmitter that can detect differential pressure, liquid level, liquid flow etc., converting them into an electric signal and transmits it.\r\nBellows is used for the pressure sensing element, and its displacement is detected as an inductance variation converting into an electric signal in\r\nproportion with measuring quantity.",
+        "Features": "\r\n                    \u30fbBy removing the front screw type lid, zero and span adjustment can be easily performed.\r\n\u30fbThe test terminal is mounted, allowing to test without opening the output circuit.\r\n\u30fbOutput signal is an international standard 4 to 20mA DC signal, easily combined with related equipment.\r\n\u30fbAvailable in selection of upper or lower pressure port process connection for suitable installation depending on \u3000installing environment.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3032/E-KH52_F_3P20180307.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3032/KH52-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/321.html?lng=eng"
+      },
+      "Model No. KH53": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This differential pressure transmitter is designed for detecting micro differential pressure such as air or non-corrosive gas, etc. converting it into an electric signal for transmission. In addition, it is composed of a slack diaphragm, a range spring and a conversion circuit with differential inductance detector, therefore the displacement corresponding to the differential pressure caused on the diaphragm is converted into the quantity of electricity. It can be use for monitoring clogged filter, air duct flow speed and air flow in combination with pitot tube, and blower control application. ",
+        "Features": "\r\n                    \u30fbCompact and economical\r\n\u30fbBy removing the front screw type lid, zero and pan adjustment can be easily performed.\r\n\u30fbThe test terminal is mounted, allowing to test without opening the output circuit.\r\n\u30fbOutput signal is an international standard 4 to 20mA DC signal, allowing to easily combine with related \u3000equipment.\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3033/E-KH53_D_20180327.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3033/KH53-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/322.html?lng=eng"
+      },
+      "Model No. KH63": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This differential pressure transmitter senses micro differential pressure of air and other gases, converting it into electric signals and transmits it.",
+        "Features": "\r\n                    \u30fbThe differential pressure transmitter has a structure composed of force magnifying mechanism with the \u3000semiconductor strain gauge, allowing to measure with high accuracy.\r\n\u30fbContinuous pressure measurement from negative to positive pressure is possible.\r\n\u30fbOutput signal based on industrial unified signal (4 to 20mA DC) is transmitted through the 2 wire electric \u3000current transmission method.\r\n\u30fbPressure sensing parts material in contact with gas including diaphragm and body are all stainless steel.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3034/E-KH63_E_3P20180228.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3034/KH63-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/323.html?lng=eng"
+      },
+      "Model No. KH33": {
+        "Short Description": "Differential Pressure Transmitter with Indicator",
+        "Description": "This is a differential pressure transmitter with indicator that can detect differential pressure, liquid level, liquid flow etc., converting them into an electric signal and transmits it.\r\nBellows is used for the pressure sensing element, and its displacement is detected as an inductance variation\r\nconverting into an electric signal in proportion with measuring quantity. Indication unit varies over various kinds.",
+        "Features": "\r\n                    \u30fbPressure transmitting mechanism is built in a conventional differential pressure gauge. Replacement of existing\r\n\u3000differential pressure gauge is possible with identical appearance and installing dimension with enhanced \u3000features.\r\n\u30fbBecause non-contact type detecting sensor is used, it provides a structure that minimizes errors due to wear \u3000and\r\nhysteresis.\r\n\u30fbBecause the hybrid IC-compatible circuit is used, it can work with high reliability and high quality.\r\n\u30fbAvailable in selection of upper or lower pressure port process connection for suitable installation depending on\r\n\u3000installing environment.\r\n\u30fbThe wetted part is stainless steel, providing excellent corrosion resistance.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9001/E-KH33_E_3P20180306.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9001/KH33-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1675.html?lng=eng"
+      },
+      "Model No. KH22": {
+        "Short Description": "Differential Pressure Transmitter",
+        "Description": "This has a built-in electronic circuit and sensor that a semiconductor strain gauge is utilized. \r\nDifferential pressure is measured for converting to 4 to 20mA DC standardized signal for transmission.",
+        "Features": "\r\n                    \u30fbBecause an evaporation type semiconductor strain gauge is used for the sensor, durability and stability is \u3000assured.\r\n\u30fbBecause stainless steel-based material is used for the wetted parts with all-welded structure, corrosion \u3000resistance is assured.\r\n\u30fbTwo sensors are attached to the pressure receiving part and humidity resistance is taken into consideration by \u3000charging inert gas to the back pressure side.\r\n\u30fbWith electric dumping function and built-in linearization compensation circuit, the performance of transmitter is \u3000improved. Electric wave hindrance countermeasure is provided, expelling the effect of transceivers, etc.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9003/E-KH22_D_3P20180226.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9003/KH22-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1677.html?lng=eng"
+      },
+      "Model No. KE22": {
+        "Short Description": "Pneumatic Transmitters Differential Pressure",
+        "Description": "This is a force-balanced pressure transmitter that detects on-site pressure, liquid level, or differential pressure and converts it to a 20 to 100kPa constant air pressure proportional to the measured pressure value and transmits to the control room receiver.",
+        "Features": "\r\n                    \u30fbIt can be used in explosive and corrosive atmospheres because the operating principle is pneumatic.\r\n\u30fbForced-balance type allows a rigid body construction with few movement in pressure element and link \u3000mechanism. It can maintain long-term accuracy including shock resistance, linearity and hysteresis.\r\n\u30fbSince the pressure receiving element is built into the body, it is extremely compact and zero adjustment is easily \u3000performed from the outside without removing the cover and affecting its span.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9004/E-KE2_D_6P20181005.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/9004/KE21web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1678.html?lng=eng"
+      },
+      "Model No. KL15": {
+        "Short Description": "Differential Pressure Transmitter for Incorporation into Machines and Equipments/For gas measurement (Featuring silicone diaphragm)/For Lot Production",
+        "Description": "Highly sensitive pressure transmitter detecting small \"Pa\" pressure featuring small SC [Silicon Capacitive] sensor can be installed into a variety of machines and equipments. The manufacturing is done by lot production. \r\nIncorporation into various kinds of equipment as a sensor capable of measuring extremely low pressure is possible. This products is lot accepted\r\nproducts.",
+        "Features": "\r\n                    \u25cfNewly developed small sensor chip is built in.\r\n  Cost reduction is achieved for the\r\n  incorporation into machines \r\n\u25cfAchieved high proof pressure up to 1000\r\n  times Allowable maximum pressure 50kPa\r\n  (\u00b150kPa against single \u3000port, double ports)\r\n\u25cfHighly sensitive pressure sensor is built in\n",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3073/E-KL15_C_2P20171019.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3073/KL15web.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/24/1868.html?lng=eng"
+      },
+      "Model No. KG20": {
+        "Short Description": "I/P Converter",
+        "Description": "This KG20 I/P Converter is used when operating the pneumatic operating unit such as a diaphragm operated control valve, which converts the 4 to 20mA DC signal current into a signal pressure of\r\n20 to 100kPa in proportion to it.",
+        "Features": "\r\n                    \u30fbBecause both air pressure connection and analog input terminal block are located on outside, the connection \u3000work is easy.\r\n\u30fbZero adjustment can be performed from the front side without removing the cover.\r\n\u30fbBecause the control panels are mainly installed in the front side and the bottom side, it can be installed close to \u3000the devices.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/3050/E-KG20_F_3P20180319.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/3050/20200513-101302.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/19/27/339.html?lng=eng"
+      }
+    },
+    "Load sensor": {
+      "Model No. KW18": {
+        "Short Description": "Load Sensor",
+        "Description": "This load sensor module is high output, high precision and small type load converter incorporating a semiconductor strain gauge. This sensor module complies with both compression and tension load. Various type regarding measuring ranges are provided, complying with measurement of the load or displacement for control. A hook\r\naccording to applications can be installed by welding at the load sensing portion.",
+        "Features": "\r\n                    \u30fbThe sensing part is equipped with an evaporation type semiconductor strain gauge. Therefore, the pressure \u3000transmitter has good durability and stability.\r\n\u30fbSmall and lightweight design contribute for installing into miniaturized equipment.\r\n\u30fbBecause there are no moving portions, this load sensor performs with excellent vibration resistance and shock \u3000resistance.\r\n\u30fbBecause a metallic diaphragm is used, this load sensor performs with excellent corrosion resistance and \u3000overload resistance.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/1112/E-KW18_E_3P20180308.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/1112/KW18-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/214.html?lng=eng"
+      }
+    },
+    "Level sensor": {
+      "Model No. ZS40": {
+        "Short Description": "Water Level Sensor",
+        "Description": "This is a water level sensor that has a built-in semiconductor pressure sensor, which outputs 4 to 20mA with dedicated amplifier.\r\nThis allows user to perform the stable\r\nmeasurement and monitor the conditions of groundwater precisely.",
+        "Features": "\r\n                    \u30fbThis is a semiconductor pressure sensor that has the stainless steel diaphragm requiring no filling liquid for \u3000pressure sensing. Durability and stability are excellent.\r\n\u30fbThe diameter of the sensor is 19mm, and the sensor has a simple robust structure with no moving parts.\r\n\u30fbSurge protected product that has strong resistance to electrical noise from the outside and induced lightning.\r\n\u30fbAvailable for economical price.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/6022/E-ZS40_D_4P20180316.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6022/ZS40-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/44/51/1644.html?lng=eng"
+      },
+      "Model No. KL78": {
+        "Short Description": "Submersible Pressure Transmitter",
+        "Description": "This product is a level transmitter with a built-in ceramic capacitance sensor that the alumina is used for the\r\npressure receiving part, which supports 4 to 20mA output by a dedicated amplifier. Because this is a submersible level transmitter, it is possible to easily perform the level\r\nmeasurement by hanging directly in the liquid.\r\nIn addition, it is capable of using in combination with the level measurement receiver GC93 (sold separately).",
+        "Features": "\r\n                    \u30fbBecause the ceramic diaphragm without need for liquid seal is used for the pressure receiving part, \u3000this is a\r\nhighly reliable product with high withstand pressure and high corrosion resistance.\r\n\u30fbZero adjustment can be easily performed.\r\n\u3000(atmospheric pressure zero reset and zero suppression)\r\n\u30fbCompact and robust structure.\r\n\u30fbSurge protection product that has resistance to electrical noise from the outside and induced lightning (1kV).\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/6021/E-KL78_J_3P 20180223.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/6021/KL78_new.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/8/1690.html?lng=eng"
+      }
+    },
+    "Others": {
+      "Model No. KG20": {
+        "Short Description": "I/P Converter",
+        "Description": "This KG20 I/P Converter is used when operating the pneumatic operating unit such as a diaphragm operated control valve, which converts the 4 to 20mA DC signal current into a signal pressure of\r\n20 to 100kPa in proportion to it.",
+        "Features": "\r\n                    \u30fbBecause both air pressure connection and analog input terminal block are located on outside, the connection \u3000work is easy.\r\n\u30fbZero adjustment can be performed from the front side without removing the cover.\r\n\u30fbBecause the control panels are mainly installed in the front side and the bottom side, it can be installed close to \u3000the devices.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2012/E-KG20_F_3P20180319.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2012/20200513-101543.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/12/260.html?lng=eng"
+      },
+      "Model No. KG12": {
+        "Short Description": "P/I Converter",
+        "Description": "This KG12 is a P/I converter that can detect 20 to 100kPa input air and converts to 4 to 20mA DC electric signal in proportion to input air pressure.\r\nSuitable for the use with pneumatic system application.",
+        "Features": "\r\n                    \u30fbBecause the semiconductor strain gauge is used as a sensor at the pressure-electricity conversion portion, \u3000it contributes to high reliability.\r\n\u30fbBecause there are no moving portions, the I/P Converter performs excellent shock and vibration resistance.\r\n\u30fbThe test terminal is mounted on the terminal section, allowing for output check without opening the output \u3000circuit.\r\n\u30fbBecause of its small and lightweight design, high density mounting is possible.\r\n\u30fbRack-mounting design makes it easy for wiring and piping works at front.\r\n                ",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/2011/E-KG12_E_2P20180308.pdf",
+        "Image": "http://products.naganokeiki.co.jp/assets/images/2011/KG12-HP.jpg",
+        "URL": "http://products.naganokeiki.co.jp/product/2/3/12/259.html?lng=eng"
+      },
+      "Model No. PF": {
+        "Short Description": "FBG datalogger\u3001FBG sensor",
+        "Description": "FBG (Fiber Brag Grating) Sensor\u201d can monitor various physical quantities including strain, acceleration and displacement using light , and Multi-functional FBG Data Logger designed especially for measuring FBG wavelength is also available pursuing its ease of use.",
+        "Features": "No information",
+        "Datasheet": "http://products.naganokeiki.co.jp/assets/files/9010/PF20_E_161227.pdf",
+        "Image": "http://products.naganokeiki.co.jp/common/img/case/index/img02.png",
+        "URL": "http://products.naganokeiki.co.jp/product/2/44/53/1702.html?lng=eng"
+      }
+    }
+  }
+}

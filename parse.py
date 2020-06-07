@@ -549,4 +549,4 @@ class NksParse(Html):
             full_dict[key] = category_dict
         return full_dict
 
-# TODO добавить еще оригинальную ссылку с json, скорей всего функция в мэйне
+#TODO сделать новый класс для создания эксель файла из jsona
